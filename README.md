@@ -1,1 +1,3 @@
-GB29 Meeting site
+# GBIF 29th Governing Board Meeting website
+
+in progress
