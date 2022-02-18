@@ -1,0 +1,14 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Programme
+  href: /programme
+- text: Registration
+  href: /registration
+- text: Meeting documents
+  href: /meeting-documents
+- text: Financial support
+  href: /financial-support
+- text: Travel and accommodation
+  href: /travel-accommodation
+- text: Contact
+  href: /contact

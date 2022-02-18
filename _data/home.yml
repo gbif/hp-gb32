@@ -1,0 +1,47 @@
+cards:
+  title: Lorem ipsum
+  description: |
+    Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+  features: 
+  - title: Programme
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/3058851394.jpeg
+    href: /programme
+    cta: 
+    - text: download
+      href: /assets/pdf/programme
+      isPrimary: true
+  - title: Registration
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/3058851394.jpeg
+    href: /registration
+  - title: Meeting documents
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/3058851394.jpeg
+    href: /registration
+  - title: Financial support
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/3058851394.jpeg
+    href: /registration
+  - title: Travel and accommodation
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    background: /assets/images/3058851394.jpeg
+    href: /registration
+
+
+occurrences:
+  reverse: false
+  preTitle: Did you know?
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=BEL.1_1&limit=0">890,000</span> occurrences in Bruxelles
+
+  description: |      # required
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  # img required
+  background: /assets/images/3058851394.jpeg
+  imageLicense: |
+    [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /biodiversity-of-bruxelle?view=MAP
+  cta:
+  - text: Explore the area
+    href: /biodiversity-of-bruxelle?view=MAP
+    isPrimary: true
