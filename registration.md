@@ -12,4 +12,4 @@ Please note that your registration is not considered complete until you receive 
 
 Click here to register. 
 
-The registration closes on XX September 2022. 
+The registration closes on **21 September 2022**. 
