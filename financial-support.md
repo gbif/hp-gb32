@@ -6,4 +6,28 @@ imageLicense: |
   [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+The GBIF Secretariat offers the possibility of applying for partial funding to attend the Governing Board meeting on 3-5 October 2022. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation. 
+
+The application process is now open. 
+
+Please see below for more details on the guidelines for seeking partial funding for the event. Link to the application form can be found at the bottom of this page. 
+
+Deadline for applying is **ADD DATE**.
+
+The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
+
+### Who can apply?
+
+Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries and in good standing in regard to GBIF financial contributions. 
+
+Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2027-2022). See list of developing GBIF country members here. ADD LINK
+
+**Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursemenht form which must be submitted within a month after the meeting.**
+
+### How to apply?
+
+Fill in the [financial application form](https://forms.gle/5bzjPYD4EMQGfs658) and submit it no later than **DATE**. 
+
+If you have any questions, please contact the GBIF Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org).
+
+
