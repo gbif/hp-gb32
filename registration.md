@@ -10,6 +10,6 @@ Before registering, we kindly ask you to read the requirements for registering f
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat. 
 
-Click here to register. 
+Click [here](https://forms.gle/Hh3qY7LBgBPF3NXB6) to register. 
 
 The registration closes on **21 September 2022**. 
