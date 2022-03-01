@@ -1,7 +1,15 @@
 cards:
-  title: Lorem ipsum
+  title: Welcome to Belgium
   description: |
-    Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+    The HOST INSTITUTION, on behalf of Belgium, is pleased to host the 29th meeting (GB29) of the GBIF Governing Board in Brussels, Belgium. 
+    
+    The following events will take place:
+    - 2 October 2022 - GBIF committee meetings
+    - 3-5 October 2022 - Official Governing Board meeting
+    - 5 or 6 October 2022 - any additional events?
+    
+    We look forward to welcoming the GBIF Governing Board in Brussels. 
+    
   features: 
   - title: Programme
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
