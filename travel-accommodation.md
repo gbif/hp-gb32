@@ -8,23 +8,84 @@ toc: true
 mobileToc: true
 ---
 
-## Venue
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
-
-## Hotels
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
-
-## Map
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
-
-## Arriving in Bruxelles
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
-
-## Travel requirements for entering
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
+## Travel requirements for entering Belgium
+GB29 participants are responsible for arranging their own travel and to ensure that they have the documentation required for entering Belgium. 
 
 ### Visa
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+Whether a visa is needed or not depends on the nationality and lenght of stay. See more information at ADD LINK. 
+
+If a visa is required, make sure to apply well in advance of the meeting. 
 
 ### Insurance
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+GB29 participants are advised to ensure appropriate travel insurance for travel to Belgium.
+
+## Arriving in Bruxelles
+[Brussels Airport](https://www.brusselsairport.be) is a hub for many airlines. The airport is located approx. 12 km from the city centre of Brussels. 
+
+### Bus services
+There are various bus services operating between the airport and the centre of Brussels:
+
+- Coach and airport shuttles
+- Intercity bus services
+- Public bus services
+- Hotel shuttles
+
+More information on bus services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/by-public-transport/bus)
+
+
+### Train services
+
+There is a frequent train connection from the airport to Brussels (up to six train an hour). 
+
+You can plan your journey and buy your ticket online from [here](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport).
+
+More information on train services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/by-public-transport/train). 
+
+### Taxi
+
+Official taxi stands are located in front of the arrival hall. A taxi fromm the airport to the centre of Brussels costs around €45. 
+
+Licensed taxis can be identified by the yellow-blue licence marks. Please do not use taxis that do not have a license. 
+
+More information on taxi sercies is available [here](https://www.brusselsairport.be/en/passengers/access-parking/taxi-and-limousine-services).
+
+## Hotels
+The Governing Board meeting attendees are asked to organize their own accommodation. 
+
+There are a number of hotels located in close vicinity of the GB29 event locations. 
+
+Early booking is advised. 
+
+ADD MORE INFO. WILL THERE BE HOTELS PRE-BOOKED BY LOCAL ORGANIZER?
+
+## Venue
+
+The official Governing Board meeting will take place at the Comics Art Museum on 3-5 October. 
+
+**Comics Art Museum**  
+Rue des Sables 20  
+1000 Brussels  
+Belgium  
+[comicscenter.net](https://www.comicscenter.net)
+
+The GBIF committee meetings will take place at XXXXX on 2 October. 
+
+ADD INFO ON COMMITTEE MEETING VENUE
+
+## Map
+The location of the meeting venues and some of the nearest hotels can be found in this google map ADD LINK.
+
+## General information
+
+### Currency
+
+### Electricity
+
+### Local transportation in Brussels
+
+### Weather
+
+## Tourist information
+
+
+
