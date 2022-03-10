@@ -6,6 +6,13 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 });
 
 var siteConfig = {
+  routes: {
+    occurrenceSearch: {
+      url: ({basename}) => `${basename ? `/${basename}` : ''}/biodiversity-of-bruxelle`,
+      isHref: true,
+      route: '/biodiversity-of-bruxelle' // the route you are currently using for occurrence search
+    }
+  },
   occurrence: {
     rootPredicate: {
       "type": "and",
