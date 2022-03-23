@@ -1,6 +1,6 @@
 ---
 lang-ref: home
-layout: home
+layout home
 title: GB29 Belgium
 description: |
   The 29th meeting of the GBIF Governing Board and associated events,  
