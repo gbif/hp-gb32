@@ -27,15 +27,15 @@ cards:
   - title: Meeting documents
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
     background: /assets/images/GB29-card-bg-10.jpg
-    href: /registration
+    href: /meeting-documents
   - title: Financial support
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
     background: /assets/images/GB29-card-bg-11.jpg
-    href: /registration
+    href: /financial-support
   - title: Travel and accommodation
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
     background: /assets/images/GB29-card-bg-12.jpg
-    href: /registration
+    href: /travel-accommodation
 
 
 occurrences:
