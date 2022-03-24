@@ -47,4 +47,14 @@ a {
   align-items: stretch;
   display: flex;
   flex-shrink: 0;
-  min-height: $navbar-height; }
+  min-height: $navbar-height; 
+}
+
+.feature-img {
+    height: 0;
+    padding-bottom: 40%;
+    width: 100%;
+    margin: auto;
+    /* border: 0px solid #00000011; */
+    background-color: #eee; 
+}
