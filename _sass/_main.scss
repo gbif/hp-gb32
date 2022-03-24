@@ -37,3 +37,15 @@ a {
 .navbar-content {
   font-family: 'Rubik', sans-serif;
 }
+
+.navbar-brand {
+  .navbar-tabs {
+    font-family:'Bitter', serif;
+    font-weight: 700;
+    font-size: 1.4em;
+    align-items: stretch;
+    display: flex;
+    flex-shrink: 0;
+    min-height: $navbar-height; 
+  }
+}
