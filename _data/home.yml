@@ -14,7 +14,7 @@ cards:
   features: 
   - title: Programme
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/3058851394.jpeg
+    background: /assets/images/GB29-prog-card-bg.jpg
     href: /programme
     cta: 
     - text: download
