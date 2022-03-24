@@ -22,19 +22,19 @@ cards:
       isPrimary: true
   - title: Registration
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/3058851394.jpeg
+    background: /assets/images/GB29-card-bg-09.jpg
     href: /registration
   - title: Meeting documents
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/3058851394.jpeg
+    background: /assets/images/GB29-card-bg-10.jpg
     href: /registration
   - title: Financial support
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/3058851394.jpeg
+    background: /assets/images/GB29-card-bg-11.jpg
     href: /registration
   - title: Travel and accommodation
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/3058851394.jpeg
+    background: /assets/images/GB29-card-bg-12.jpg
     href: /registration
 
 
@@ -46,7 +46,7 @@ occurrences:
   description: |      # required
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   # img required
-  background: /assets/images/3058851394.jpeg
+  background: /assets/images/GB29-card-bg-13.jpg
   imageLicense: |
     [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   href: /biodiversity-of-bruxelle?view=MAP
