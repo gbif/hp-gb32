@@ -4,8 +4,8 @@ cards:
     The HOST INSTITUTION, on behalf of Belgium, is pleased to host the 29th meeting (GB29) of the GBIF Governing Board in Brussels, Belgium. 
     
     The following events will take place:
-    - 2 October 2022 - GBIF committee meetings
-    - 3-5 October 2022 - Official Governing Board meeting (morning), Combined BID - BiodiveERsA meeting (tbc) (afternoon)
+    2 October 2022 - GBIF committee meetings
+    3-5 October 2022 - Official Governing Board meeting (morning), Combined BID - BiodiveERsA meeting (tbc) (afternoon)
     
     We look forward to welcoming the GBIF Governing Board in Brussels.  
     
@@ -13,7 +13,7 @@ cards:
     
   features: 
   - title: Programme
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    description: Download a quick overview of the events or go to the programme page for more detailed descriptions.
     background: /assets/images/GB29-prog-card-bg.jpg
     href: /programme
     cta: 
@@ -21,19 +21,19 @@ cards:
       href: /assets/pdf/programme
       isPrimary: true
   - title: Registration
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    description: Register for the meeting.
     background: /assets/images/GB29-card-bg-09.jpg
     href: /registration
   - title: Meeting documents
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    description: Get access to the meeting documents.
     background: /assets/images/GB29-card-bg-10.jpg
     href: /meeting-documents
   - title: Financial support
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    description: Check here if you are looking for financial support for the meeting.
     background: /assets/images/GB29-card-bg-11.jpg
     href: /financial-support
   - title: Travel and accommodation
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    description: Information and tips on travel, hotels and venue.
     background: /assets/images/GB29-card-bg-12.jpg
     href: /travel-accommodation
 
