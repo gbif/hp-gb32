@@ -8,7 +8,7 @@ imageLicense: |
 
 The GBIF Secretariat offers the possibility of applying for partial funding to attend the Governing Board meeting on 3-5 October 2022. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation. 
 
-The application process is now open. 
+**The application process is now open.** 
 
 Please see below for more details on the guidelines for seeking partial funding for the event. Link to the application form can be found at the bottom of this page. 
 
@@ -21,6 +21,8 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries and in good standing in regard to GBIF financial contributions. 
 
 Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2027-2022). See list of developing GBIF country members here. ADD LINK
+
+Only one person per Voting Participant, the Head of Delegation, is eligible to apply. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
 **Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursemenht form which must be submitted within a month after the meeting.**
 
