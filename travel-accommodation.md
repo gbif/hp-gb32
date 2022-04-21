@@ -62,8 +62,6 @@ ADD MORE INFO. WILL THERE BE HOTELS PRE-BOOKED BY LOCAL ORGANIZER?
 
 The official Governing Board meeting will take place at the Comics Art Museum on 3-5 October. 
 
-![Comics Art Museum Brussels](/assets/images/Musée_Hergé_Brussels_13.jpg "Comics Art Museum").
-
 **Comics Art Museum**  
 Rue des Sables 20  
 1000 Brussels  
