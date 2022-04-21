@@ -20,7 +20,7 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries and in good standing in regard to GBIF financial contributions. 
 
-Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2027-2022). See list of developing GBIF country members here. ADD LINK
+Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2027-2022). See list of developing GBIF country members [here](/assets/documents/GB29_VP_developing_countries.pdf). 
 
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
