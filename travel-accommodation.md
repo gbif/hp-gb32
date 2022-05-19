@@ -52,7 +52,7 @@ More information on taxi sercies is available [here](https://www.brusselsairport
 ## Hotels
 The Governing Board meeting attendees are asked to organize their own accommodation. 
 
-There are a number of hotels located in close vicinity of the GB29 event locations. The below hotels ae within walking distance of the meeting venue. 
+There are a number of hotels located in close vicinity of the GB29 event locations. The below hotels are within walking distance of the meeting venue. 
 
 Early booking is advised. 
 
@@ -96,10 +96,9 @@ Info: 3* hotel, 800 m from meeting venue
 LOCAL ORGANIZERS TO INFORM US IF ANY BLOCK BOOKING HAS BEEN MADE  
 
 **Other hotels**  
-Further hotel options are available at hotels.com, booking.com or similar services. If you ar elloking for hostel, please check hostelcentral.com. 
-visitbrusels?
+Further hotel options are available at [hotels.com](http://hotels.com/), [booking.com](https://www.booking.com/) or similar services. 
 
-Check the map for hotel locations. 
+Check the [map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA) for hotel locations. 
 
 ## Venue
 
@@ -116,7 +115,7 @@ The GBIF committee meetings will take place at XXXXX on 2 October.
 ADD INFO ON COMMITTEE MEETING VENUE
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found in this google map ADD LINK.
+The location of the meeting venues and some of the nearest hotels can be found in this [google map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA).
 
 ## General information
 
@@ -130,5 +129,5 @@ The location of the meeting venues and some of the nearest hotels can be found i
 
 ## Tourist information
 
-
+Check out [visit.brussels](https://visit.brussels/en#) for information on Brussels. 
 
