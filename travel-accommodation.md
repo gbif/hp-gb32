@@ -52,11 +52,54 @@ More information on taxi sercies is available [here](https://www.brusselsairport
 ## Hotels
 The Governing Board meeting attendees are asked to organize their own accommodation. 
 
-There are a number of hotels located in close vicinity of the GB29 event locations. 
+There are a number of hotels located in close vicinity of the GB29 event locations. The below hotels ae within walking distance of the meeting venue. 
 
 Early booking is advised. 
 
-ADD MORE INFO. WILL THERE BE HOTELS PRE-BOOKED BY LOCAL ORGANIZER?
+
+**Radisson Collection Hotel, Grand Place Brussels**
+ 
+47 Rue du Fosse Aux Loups  
+Brussels 1000  
+Belgium  
+[www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
+Info: 5* hotel, 350 m from meeting venue
+
+**NH Brussels Grand Place Arenberg**  
+Rue d'Assaut 15  
+Brussels 1000  
+Belgium  
+[www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
+Info: 4* hotel, 500 m from meeting venue  
+
+**Hotel Hubert - Grand Place**  
+Rue Arenberg 18  
+Brussels 1000  
+Belgium  
+URL?  
+Info: 4* hotel, 600 m from meeting venue  
+
+**Pillow City Hotel Brussels Center**  
+Parochiaansstraat 15-23  
+Brussels 1000  
+Belgium  
+[www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
+Info: 4* hotel, 600 m from meeting venue  
+
+**Hotel du Congress**  
+Rue du Congres 42  
+Brussels 1000  
+Belgium  
+URL?  
+Info: 3* hotel, 800 m from meeting venue   
+
+LOCAL ORGANIZERS TO INFORM US IF ANY BLOCK BOOKING HAS BEEN MADE  
+
+**Other hotels**  
+Further hotel options are available at hotels.com, booking.com or similar services. If you ar elloking for hostel, please check hostelcentral.com. 
+visitbrusels?
+
+Check the map for hotel locations. 
 
 ## Venue
 
