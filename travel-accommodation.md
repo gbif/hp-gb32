@@ -58,7 +58,6 @@ Early booking is advised.
 
 
 **Radisson Collection Hotel, Grand Place Brussels**
- 
 47 Rue du Fosse Aux Loups  
 Brussels 1000  
 Belgium  
@@ -100,19 +99,29 @@ Further hotel options are available at [hotels.com](http://hotels.com/), [bookin
 
 Check the [map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA) for hotel locations. 
 
-## Venue
+## Venues
 
-The official Governing Board meeting will take place at the Comics Art Museum on 3-5 October. 
+The **GBIF committee meetings** will take place at XXXXX on 2 October. 
+
+ADD INFO ON COMMITTEE MEETING VENUE  
+
+The **Icebreaker** will take place at the Comics Art Museum on 2 October. The **official Governing Board meeting** will take place at the Comics Art Museum on 3-5 October. 
 
 **Comics Art Museum**  
 Rue des Sables 20  
 1000 Brussels  
 Belgium  
-[comicscenter.net](https://www.comicscenter.net)
+[comicscenter.net](https://www.comicscenter.net) 
 
-The GBIF committee meetings will take place at XXXXX on 2 October. 
+The **Official dinner** will take place in the Dinosaur Gallery at the Royal Belgian Institute of Natural Sciences on 4 October.
 
-ADD INFO ON COMMITTEE MEETING VENUE
+**Royal Belgian Institute of Natural Sciences (RBINS)**  
+Vautierstreet, 29  
+1000 Brussels  
+Belgium  
+[www.naturalsciences.be](https://www.naturalsciences.be)  
+
+
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in this [google map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA).
