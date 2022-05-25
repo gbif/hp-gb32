@@ -18,47 +18,51 @@ Below is a summary of all the events associated with GB26. Please read the infor
 
 ### Sunday 2 October 2022
 
-**Budget Committee meeting**
-Time: 09:00-12:30 (tbc)
-Venue: (tbc)
+**Budget Committee meeting**  
+Time: 09:00-12:30 (tbc)  
+Venue: (tbc)  
 
 *The meeting is open to members of the GBIF Budget Committee*
 
-**Nodes Steering Group meeting**
-Time: 09:00-12:30 (tbc)
-Venue: (tbc)
+**Nodes Steering Group meeting**  
+Time: 09:00-12:30 (tbc)  
+Venue: (tbc)  
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
-**Science Committee meeting**
-Time: 09:00-12:30 (tbc)
-Venue: (tbc)
+**Science Committee meeting**  
+Time: 09:00-12:30 (tbc)  
+Venue: (tbc)  
 
 *The meeting is open to members of the GBIF Science Committee*
 
-**Executive Committee meeting 1**
-Time: 13:30-17:00 (tbc)
-Venue: (tbc)
+**Executive Committee meeting 1**  
+Time: 13:30-17:00 (tbc)  
+Venue: (tbc)  
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 ### Monday 3 October 2022
-**Governing Board meeting Day 1**
-Time: 09:00-17:00 (tbc)
-Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
+**Governing Board meeting Day 1**  
+Time: 09:00-17:00 (tbc)  
+Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
 
 ### Tuesday 4 October 2022
-**Governing Board meeting Day 2**
-Time: 09:00-17:00 (tbc)
-Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
+**Governing Board meeting Day 2**  
+Time: 09:00-17:00 (tbc)  
+Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room  
 
-*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
+*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
 
 ### Wednesday 5 October 2022
-**Governing Board meeting Day 3**
-Time: 09:00-12:30 (tbc)
-Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
+**Governing Board meeting Day 3**  
+Time: 09:00-12:30 (tbc)  
+Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
+
+### Thursday 6 October 2022
+
+**Joint Symposium GBIF/Biodiversa+ (to be confirmed)  
