@@ -101,19 +101,29 @@ Check the [map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA) for hotel locations.
 
 ## Venues
 
-The **GBIF committee meetings** will take place at XXXXX on 2 October. 
+**2 October:**
+- GBIF committee meetings (Executive, Budget, Science committees and Nodes Steering Group) - ADD INFO ON COMMITTEE MEETING VENUE  
+- Icebreaker - [Comics Art Museum](https://www.comicscenter.net) 
 
-ADD INFO ON COMMITTEE MEETING VENUE  
+**3 October:**
+- Governing Board meeting Day 1 - [Comics Art Museum](https://www.comicscenter.net)  
 
-The **Icebreaker** will take place at the Comics Art Museum on 2 October. The **official Governing Board meeting** will take place at the Comics Art Museum on 3-5 October. 
+**4 October:**
+- Governing Board meeting Day 2 - [Comics Art Museum](https://www.comicscenter.net) 
+- Official dinner - [Royal Belgian Institute of Natural Sciences, Dinosaur Gallery](https://www.naturalsciences.be)  
+
+**5 October:**
+- Governing Board meeting Day 3 - [Comics Art Museum](https://www.comicscenter.net) 
+
+**6 October:**
+- Joint GBIF/BiodivERsA+ event - ADD INFO ON VENUE  
+
 
 **Comics Art Museum**  
 Rue des Sables 20  
 1000 Brussels  
 Belgium  
 [comicscenter.net](https://www.comicscenter.net) 
-
-The **Official dinner** will take place in the Dinosaur Gallery at the Royal Belgian Institute of Natural Sciences on 4 October.
 
 **Royal Belgian Institute of Natural Sciences (RBINS)**  
 Vautierstreet, 29  
@@ -125,6 +135,8 @@ Belgium
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in this [google map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d80550.62099110534!2d4.3518514!3d50.8828808!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sda!2sdk!4v1653486686315!5m2!1sda!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## General information
 
