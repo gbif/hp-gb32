@@ -42,6 +42,11 @@ Venue: (tbc)
 
 *The meeting is open to members of the GBIF Executive Committee*
 
+**Icebreaker** 
+Time: (tbc)
+Venue: Comics Art Museum
+
+
 ### Monday 3 October 2022
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00 (tbc)  
@@ -55,6 +60,10 @@ Time: 09:00-17:00 (tbc)
 Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
+
+**Official dinner**  
+Time: (tbc)  
+Venue: [RBINS, Dinosaur Gallery](https://www.naturalsciences.be/en/museum/exhibitions-view/239/394/390)
 
 ### Wednesday 5 October 2022
 **Governing Board meeting Day 3**  
