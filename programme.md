@@ -74,4 +74,10 @@ Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
 
 ### Thursday 6 October 2022
 
-**Joint Symposium GBIF/Biodiversa+ (to be confirmed)  
+**Data beyond borders: collaborating to support biodiversity information needs in Europe and beyond
+ (to be confirmed)**
+ 
+A one-day symposium organized by the European Biodiversity Partnership (Biodiversa+) and the Global Biodiversity Information Facility (GBIF), on the margins of the 29th meeting of the GBIF Governing Board (GB29)  
+
+Overall objective: to explore and catalyse collaboration across multiple EU institutions, in partnership with Biodiversa+, GBIF Secretariat and nodes, to exploit fully the opportunities for scaling up and harmonising efforts to improve availability of data for  implementation of European and global biodiversity objectives.  
+
