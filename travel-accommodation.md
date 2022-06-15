@@ -12,12 +12,13 @@ mobileToc: true
 GB29 participants are responsible for arranging their own travel and to ensure that they have the documentation required for entering Belgium. 
 
 ### Visa
-Whether a visa is needed or not depends on the nationality and lenght of stay. See more information at ADD LINK. 
+Whether a visa is needed or not depends on the nationality and lenght of stay. You can find more information [here](https://diplomatie.belgium.be/en/services/travel_to_belgium/visa_for_belgium). 
 
-If a visa is required, make sure to apply well in advance of the meeting. 
+If a visa is required, make sure to apply well in advance of the meeting. Also, if you need an invitation letter for visa puposes, please contact the Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org). 
 
 ### Insurance
 GB29 participants are advised to ensure appropriate travel insurance for travel to Belgium.
+
 
 ## Arriving in Bruxelles
 [Brussels Airport](https://www.brusselsairport.be) is a hub for many airlines. The airport is located approx. 12 km from the city centre of Brussels. 
@@ -39,7 +40,7 @@ There is a frequent train connection from the airport to Brussels (up to six tra
 
 You can plan your journey and buy your ticket online from [here](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport).
 
-More information on train services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/by-public-transport/train). 
+More information on train services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/train). 
 
 ### Taxi
 
@@ -61,14 +62,14 @@ Early booking is advised.
 47 Rue du Fosse Aux Loups  
 Brussels 1000  
 Belgium  
-[www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
+[URL: www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
 Info: 5* hotel, 350 m from meeting venue
 
 **NH Brussels Grand Place Arenberg**  
 Rue d'Assaut 15  
 Brussels 1000  
 Belgium  
-[www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
+[URL: www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
 Info: 4* hotel, 500 m from meeting venue  
 
 **Hotel Hubert - Grand Place**  
@@ -82,7 +83,7 @@ Info: 4* hotel, 600 m from meeting venue
 Parochiaansstraat 15-23  
 Brussels 1000  
 Belgium  
-[www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
+[URL: www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
 Info: 4* hotel, 600 m from meeting venue  
 
 **Hotel du Congress**  
@@ -97,12 +98,12 @@ LOCAL ORGANIZERS TO INFORM US IF ANY BLOCK BOOKING HAS BEEN MADE
 **Other hotels**  
 Further hotel options are available at [hotels.com](http://hotels.com/), [booking.com](https://www.booking.com/) or similar services. 
 
-Check the [map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA) for hotel locations. 
+Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel locations. 
 
 ## Venues
 
 **2 October:**
-- GBIF committee meetings (Executive, Budget, Science committees and Nodes Steering Group) - ADD INFO ON COMMITTEE MEETING VENUE  
+- GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee) - Venue to be confirmed 
 - Icebreaker - [Comics Art Museum](https://www.comicscenter.net) 
 
 **3 October:**
@@ -114,9 +115,10 @@ Check the [map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA) for hotel locations.
 
 **5 October:**
 - Governing Board meeting Day 3 - [Comics Art Museum](https://www.comicscenter.net) 
+- Second meeting of the Executive Committee - Venue to be confirmed
 
 **6 October:**
-- Joint GBIF/BiodivERsA+ event - ADD INFO ON VENUE  
+- Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond - Venue to be confirmed
 
 
 **Comics Art Museum**  
@@ -125,7 +127,7 @@ Rue des Sables 20
 Belgium  
 [comicscenter.net](https://www.comicscenter.net) 
 
-**Royal Belgian Institute of Natural Sciences (RBINS)**  
+**Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery**  
 Vautierstreet, 29  
 1000 Brussels  
 Belgium  
