@@ -1,5 +1,5 @@
 ---
-title: Travel and accommodation
+title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB29-hero-bg-10-14.jpg
 imageLicense: |
