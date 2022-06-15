@@ -32,7 +32,7 @@ cards:
     description: Apply for financial support.
     background: /assets/images/GB29-card-bg-11.jpg
     href: /financial-support
-  - title: Travel and accommodation
+  - title: Travel, accommodation and venues
     description: Find information on travel, hotels and venue.
     background: /assets/images/GB29-card-bg-12.jpg
     href: /travel-accommodation
