@@ -17,7 +17,7 @@ cta:
     href: /registration
     isPrimary: true
   - text: Venue
-    href: /travel-accommodation/#venue
+    href: /travel-accommodation/#venues
 permalink: /
 klass: home
 navbar:
