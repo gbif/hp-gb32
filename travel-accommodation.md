@@ -136,9 +136,9 @@ Belgium
 
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found in this [google map](https://goo.gl/maps/dJS5tBXdaT2bGfTJA).
+The location of the meeting venues and some of the nearest hotels can be found in the google map [here](https://www.google.com/maps/d/viewer?mid=1TCRuPS7HX7rgP8PfFeRRKaaqF8hwBHk&ll=50.84586940889908%2C4.364518999999989&z=15) or by clicking on the map below.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d80550.62099110534!2d4.3518514!3d50.8828808!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sda!2sdk!4v1653486686315!5m2!1sda!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1TCRuPS7HX7rgP8PfFeRRKaaqF8hwBHk&ehbc=2E312F" width="640" height="480"></iframe> 
 
 ## General information
 
