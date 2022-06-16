@@ -11,7 +11,7 @@ toc: true
 
 Download a printable one-page overview of GB29.
 
-[Download programme](/assets/pdf/programme){: .button .is-primary}
+[Download programme](/assets/documents/programme.pdf){: .button .is-primary}
 
 ## Summary of events
 Below is a summary of all the events associated with GB26. Please read the information carefully before registering. 
