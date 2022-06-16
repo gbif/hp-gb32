@@ -18,7 +18,7 @@ cards:
     href: /programme
     cta: 
     - text: download
-      href: /assets/pdf/programme
+      href: /assets/documents/programme.pdf
       isPrimary: true
   - title: Registration
     description: Register for the meeting.
