@@ -6,4 +6,4 @@ imageLicense: |
   [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-The meeting documents will be made available one month before the meeting. The documents are only available to official GBIF delegates and invited observers and require login.
+The meeting documents will be made available one month ahead of the meeting to comply with GBIF Rules of Procedure. The documents are only available to official GBIF delegates and invited observers and will require login.
