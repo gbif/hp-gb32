@@ -11,7 +11,7 @@ toc: true
 
 Download a printable one-page overview of GB29.
 
-[Download programme](/assets/documents/programme.pdf){: .button .is-primary}
+[Download one-page programme](/assets/documents/programme.pdf){: .button .is-primary}
 
 ## Summary of events
 Below is a summary of all the events associated with GB26. Please read the information carefully before registering. 
@@ -42,8 +42,8 @@ Venue: (tbc)
 
 *The meeting is open to members of the GBIF Executive Committee*
 
-**Icebreaker** 
-Time: 19:30- 
+**Icebreaker**  
+Start time: 19:30   
 Venue: [Comics Art Museum](https://www.comicscenter.net/)  
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker at the Comics Art Museum*
@@ -76,11 +76,12 @@ Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
 *Please note that this is a half day meeting*
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
 
-**Executive Committee meeting 2**
-Time: (tbc)
-Venue: (tbc)  
+**Executive Committee meeting 2**  
+Time: (tbc)  
+Venue: (tbc)   
 
-*The meeting is open to members of the GBIF Executive Committee*
+*The meeting is open to members of the GBIF Executive Committee*  
+
 **Excursion to the Meise Botanic Garden**  
 Departure time from the Comics Art Museum: 13:30
 Expected return: 18:30
