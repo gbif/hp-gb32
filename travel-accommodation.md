@@ -104,35 +104,55 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 
 **2 October:**
 - GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee) - Venue to be confirmed 
-- Icebreaker - [Comics Art Museum](https://www.comicscenter.net) 
+- Icebreaker - Comics Art Museum 
 
 **3 October:**
-- Governing Board meeting Day 1 - [Comics Art Museum](https://www.comicscenter.net)  
+- Governing Board meeting Day 1 - Comics Art Museum  
 
 **4 October:**
-- Governing Board meeting Day 2 - [Comics Art Museum](https://www.comicscenter.net) 
-- Official dinner - [Royal Belgian Institute of Natural Sciences, Dinosaur Gallery](https://www.naturalsciences.be)  
+- Governing Board meeting Day 2 - Comics Art Museum 
+- Hosted Dinner - Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery  
 
 **5 October:**
-- Governing Board meeting Day 3 - [Comics Art Museum](https://www.comicscenter.net) 
+- Governing Board meeting Day 3 - Comics Art Museum 
 - Second meeting of the Executive Committee - Venue to be confirmed
+- Excursion to the Meise Botanic Garden
 
 **6 October:**
 - Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond - Venue to be confirmed
 
 
-**Comics Art Museum**  
-Rue des Sables 20  
+**Comics Art Museum (Icebreaker, Governing Board meeting)**  
+Rue des Sables/Zandstraat 20  
 1000 Brussels  
 Belgium  
 [comicscenter.net](https://www.comicscenter.net) 
 
-**Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery**  
-Vautierstreet, 29  
+*The Comics ARt Museum, a true temple dedicated to comic strip art and also an undisputed masterpiece of the [Art Nouveau](https://www.comicscenter.net/en/about-us/a-masterpiece-of-art-nouveau), opened in 1989. In no time, this impressive museum became one of the main attractions of Brussels. Every year mroe than 200,000 visitors come here to explore 4,200 m2 of permanent and temporary exhibitions. It is also a cultural ambassador for Belgium, its regions and communities, a reference in the world of comics as well as a unique documentation center.*  
+
+*This kingdom of imagination is home to some of Belgium's best-known comic strip heroes: Tintin, Spirou, Bob and Bobette, the Smurfs, Lucky Luke, Blake and Mortimer, Marsupilami, etc.*
+
+**Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery (Hosted Dinner)**  
+Rue Vautier/VautierStraat 29  
 1000 Brussels  
 Belgium  
-[www.naturalsciences.be](https://www.naturalsciences.be)  
+[www.naturalsciences.be/en/museum/home](https://www.naturalsciences.be/en/museum/home)  
 
+*RBINS is a world-class research institute with more than 250 scientists and scientific collaborators covering a wide range of disciplines from biology to geology, oceanography to taxonomy and palaeontology to ecology. For their [research](https://www.naturalsciences.be/en/science/directional--operations), scientists and researchers often make use of the vast [collections](https://www.naturalsciences.be/en/science/collections) which contain almost 38 million specimens.**  
+
+*With a surface area of over 3,000 m2 and dozens of specimens, the Dinosaur Gallery is the largest room in Europe entirely devoted to dinosaurs, their discovery, lives and evolution. Of course, the famous Belgian dinosaurs, the [Bernissart Iguandons](https://artsandculture.google.com/story/GgVhRgnsYJgwIA), have the place of honour: their new glass case alone takes up a tenth of the room. 
+
+**Meise Botanic Garden (Excursion)**  
+Nieuwelaan 38  
+1860 Meise  
+Belgium
+[www.plantentuinmeise.be](https://www.plantentuinmeise.be) 
+
+*The history of Meise Botanic Garden goes back more than 200 years. The Botanic Garden is located in the grounds of Bouchot Castle, just North of Brussels. It is one of the largest botanical gardens in the world, with its 92 hectares, hosting approximately 18,800 living plants species and its herbarium of about 4 million specimens!*  
+
+*There is always something going on in the Batanic Garden, in sunshine or rain. You can immerse yourself in the topics in the [Plant Palace](https://www.plantentuinmeise.be/en/pQlx6T2/plant-palace), get to know the [Bouchot Castle](https://www.plantentuinmeise.be/en/pQxjzHK/bouchout-castle), or explore the [WOODlab](https://www.plantentuinmeise.be/en/pQ2Mkfv/woodlab) ...*  
+
+*Meise Botanic Garden is also an internationally renowned centre of excellence for plant diversity research, conservation, and documentation. Their science centres on collection-based research of plant diversity, evolution, ecology, and conservation and covers a wide range of taxonomic groups, including plants, algae, fungi, and lichens from all over the world.* 
 
 
 ## Map
