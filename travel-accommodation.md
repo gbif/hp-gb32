@@ -9,15 +9,33 @@ mobileToc: true
 ---
 
 ## Travel requirements for entering Belgium
-GB29 participants are responsible for arranging their own travel and to ensure that they have the documentation required for entering Belgium. 
+GB29 participants are responsible for arranging their own travel and to ensure that they have the documentation required for entering Belgium [(Schengen area)](https://ec.europa.eu/home-affairs/policies/schengen-borders-and-visa/schengen-area_en). 
 
-### Visa
-Whether a visa is needed or not depends on the nationality and lenght of stay. You can find more information [here](https://diplomatie.belgium.be/en/services/travel_to_belgium/visa_for_belgium). 
+### Schengen Visa and Passport requirements
+If you are a [non-EU national](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) wishing to visit or travel within the EU, you will need a passport: 
+- valid for at least 3 months after the date you intend to leave the EU country you are visiting, 
+- which was issued within the previous 10 years,
+and possibly a visa. You should apply for a visa from the [consulate or embassy](https://europa.eu/youreurope/citizens/embassies/index_en.htm) of the country you are visiting [(Belgium)](https://diplomatie.belgium.be/en/embassies-and-consulates). If your visa is from a [Schengen area country](https://ec.europa.eu/home-affairs/policies/schengen-borders-and-visa/schengen-area_en), it automatically allows you to travel to the other Schengen countries as well. If you have a valid residence permit from one of the Schengen countries, it is equivalent to a visa. You may need a national visa to visit non-Schengen countries.  
 
-If a visa is required, make sure to apply well in advance of the meeting. Also, if you need an invitation letter for visa puposes, please contact the Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org). 
+Border officials in EU countries may ask for other supporting documents such as an invitation letter, proof of lodging, return or round-trip ticket. For the precise requirements, please contact the [local consular services](https://europa.eu/youreurope/citizens/embassies/index_en.htm) of the EU country in question.  
+
+There are a [number of countries](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32018R1806#d1e32-54-1) whose nationals do not need a visa to visit the EU for three months or less. The list of countries whose nationals require visas to travel to Belgium differs slightly from other EU countries.
+ 
+You can find information on entering Belgium on website of the Ministry for Foreign Affairs of Belgium: https://diplomatie.belgium.be/en/services/travel_to_belgium
+
+If a visa is required, make sure to apply well in advance of the meeting. Also, if you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org). 
+
+See also information on visa requirements and travel documents from the Belgium Immigration Office: 
+- Information on visa requirements [here](https://dofi.ibz.be/en/themes/border-control/visa/visa-type-c)
+- List of countries which requires a visa [here](https://dofi.ibz.be/en/themes/entry/border-control/visa/visa-type-c/list-third-countries-are-required-hold-visa)
 
 ### Insurance
 GB29 participants are advised to ensure appropriate travel insurance for travel to Belgium.
+
+### COVID-19
+All meeting attendees are requested to check the [travellers Covid information page](https://www.info-coronavirus.be/en/travels/) for the latest information.  
+
+**Important: You are not allowed to travel when in quarantine or isolation. If you are in quarantine or isolation abroad, you must complete the quarantine or isolation before returning to Belgium. Only in exceptional cases and in consultation with the health authorities can this rule be deviated from.**
 
 
 ## Arriving in Bruxelles
@@ -177,13 +195,54 @@ The location of the meeting venues and some of the nearest hotels can be found i
 
 ## General information
 
-### Currency
-
 ### Electricity
+Check [here](https://www.power-plugs-sockets.com/belgium/) if you need a power plug travel adapter? In Belgium, types C, F and E are the official standards, and operates on a 230V supply voltage and 50Hz.  
 
-### Local transportation in Brussels
+### Health
+Check [www.info-coronavirus.be/en/travels/](https://www.info-coronavirus.be/en/travels/) for updates of the rules linked to COVID-19 and traveling to Belgium. 
+
+
+### Languages
+Belgium is a small country, but encompasses 3 communities using distinct languages : Dutch (Flemish community), French (French community), German (Germanish community). Most residents in Belgium can understand English and will be happy to help if needed.  
+
+### Money
+Belgium is considered the heart of the European union. The country is a world leader in financial services and has the highest rate of card payments in the world. For your trip to Belgium, you will need a product that lets you spend euros minus the extra international transaction fees. While it is true that the majority of payments in Belgium are made with cards, it is always a good idea to have some Euro cash. You will find some smaller vendors that only accept cash. 
+
+Travel money guide: [Belgium](https://www.finder.com/travel-money/belgium)
+
+Currency: € (Euro’s)
+
+Almost all shops accept cash, credit cards and debit cards (Maestro cards).
+
+### Opening hours (for banks and shops)
+Most shops will open from 8.00-20.00, varying depending on the type of commerce.  
+Banks usually have shorter and more variable opening hours, but offer 24-hour access to ATMs.
+
+### Personal security
+It is always good to know these two urgency phone number when in belgium: 
+- 112:Emergency medical assistance and fire services
+- 101: urgent police assistance
+
+The everlasting question of all tourists once they decide to visit a certain city is whether it is safe or dangerous. All in all, Brussels is considered a safe city with a safety score of 60%. 
+
+When the risk of using taxis in Brussels is concerned, there is a constant possibility of being overcharged or driven around the city. Licensed taxis are always a better solution. You should be vigilant when in public transport because pickpockets or bag snatchers might happen to be there.  
+
+Unfortunately, Brussels is considered one of the top capital cities where pickpocket risk is at a very high level. The whole of Belgium is believed to be unsafe regarding thieves, especially at train stations and subways.
+
+More information:
+- Travel Advisory from the US Department of State: [travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.htm)
+- Travel Safe Abroad: [www.travelsafe-abroad.com/belgium/brussels/](https://www.travelsafe-abroad.com/belgium/brussels/)
+
+### Telecommunication and internet (mobile phone networks, internet services)
+There is good coverage 4G and 5G networks in Belgium, especially in Brussels. Hotels and venues will offer free wifi connections that will also be available in most public/commercial places.
+
+### Tips and service gratuities (rules for tipping)
+Tipping is not standard in Belgium. Bills do usually include the service charge. Service staff in Belgium do not rely on tips to make up their income. Leaving a tip for cab, restaurants and other services is a welcomed but not mandatory gesture.
 
 ### Weather
+In the month of October, maximum temperature is 16°C and minimum temperature is 9°C (for an average temperature of 13°C). The climate is relatively cool in that area in October, but it is bearable by dressing cosy. With 79 mm over 5 days, rain may occur during your stay, with only temporary showers.  
+
+As the weather remains unpredictable, we advise you to check [the weather](https://www.meteobelgique.be/) in Brussels a few days in advance to adapt your luggage!
 
 ## Tourist information
 
