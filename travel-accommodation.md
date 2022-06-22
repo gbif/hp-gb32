@@ -187,5 +187,11 @@ The location of the meeting venues and some of the nearest hotels can be found i
 
 ## Tourist information
 
-Check out [visit.brussels](https://visit.brussels/en#) for information on Brussels. 
+General tourism information can be found [here](https://visit.brussels/en) and [here](https://www.brussels.be/tourism). [TripAdvisor](https://www.tripadvisor.com/Attractions-g188634-Activities-Belgium.html) can also help you to find worthwhile activities in Brussels or Belgium.  
+
+The [Brussels Card](https://visit.brussels/site/en/sites/brusselscard/m_article/what-s-included) is an ideal travelling companion for discovering the fascinating capital of Europe. For 24/48/72 hours, the Brussels Card allows you to benefit from: 
+
+- free access to 49 museums of Brussels, including all highlights. For as long as your card is valid, you can visit the same museum as many times as you like. The Brussels Card gives you free access to all permanent collections of the museums and to most of the temporary exhibitions (except for the Royal Museums of Fine Arts of Belgium and the Art & History Museum where you pay the normal entrance fee if you want to visit the temporary exhibitions.
+- discounts to tourist attractions, guided tours, shops, restaurants and bars.
+- free illustrated information guide (100 pages, in 3 languages), free city map and free museum map presenting all Brussels museums.
 
