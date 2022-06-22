@@ -42,7 +42,7 @@ All meeting attendees are requested to check the [travellers Covid information p
 
 Right in the heart of Europe, Brussels has superb air, road and rail connections.  
 
-More than 60 million Europeans live within 300km of Brussels, less than two hours by high-speed train. For those who fly in, it takes only 20 minutes from the airport to the city centre. And when you have arrived, it's easy to move around the compact city, by public transport or on foot. [More info!](https://visit.brussels/en/article/Getting-to-Brussels)
+More than 60 million Europeans live within 300 km of Brussels, less than two hours by high-speed train. For those who fly in, it takes only 20 minutes from the airport to the city centre. And when you have arrived, it's easy to move around the compact city, by public transport or on foot. [More info!](https://visit.brussels/en/article/Getting-to-Brussels)
 
 ### Brussels by train
 [Brussels South railway station](https://www.b-europe.com/EN/Stations/Brussels-Midi) is the major hub for international trains ([Thalys](https://www.b-europe.com/EN/Trains/Thalys), [Eurostar](https://www.b-europe.com/EN/Trains/Eurostar), [TGV Brussels-France](https://www.b-europe.com/EN/Trains/TGV-Brussels-France), [ICE](https://www.b-europe.com/EN/Trains/ICE), [InterCity](https://www.b-europe.com/EN/Trains/InterCity)) and can be a comfortable and durable transport solution for people coming from near European countries.  
@@ -58,12 +58,7 @@ From the airport the city centre can be reached by [bus](https://www.brusselsair
 Train services:  
 From the airport the city centre can also be reached by [train](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport). 
 
-There is a direct train that runs from Brussels Airport – Zaventem station to the city centre of Brussels(station Brussels-Central) every 10 minutes practically 24/7. Tickets cost just 12.70€ (diabolo tax included) one-way and the journey takes 17 minutes. Buy your ticket at the Brussels Airport train station.
-
-
-You can plan your journey and buy your ticket online from [here](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport).
-
-More information on train services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/train). 
+There is a direct train that runs from [Brussels Airport – Zaventem station](https://www.brusselsairport.be/en/passengers/access-parking/train) to the city centre of Brussels (station Brussels-Central) every 10 minutes practically 24/7. Tickets cost just 12.70€ ([diabolo tax](https://www.belgiantrain.be/en/tickets-and-railcards/airports/diabolo-fee) included) one-way and the journey takes 17 minutes. Buy your ticket at the Brussels Airport train station.
 
 Taxi:  
 Official taxi stands are located in front of the arrival hall. A taxi fromm the airport to the centre of Brussels costs around €45. 
@@ -73,14 +68,22 @@ Licensed taxis can be identified by the yellow-blue licence marks. Please do not
 More information on taxi sercies is available [here](https://www.brusselsairport.be/en/passengers/access-parking/taxi-and-limousine-services).
 
 #### Brussels South Charleroi Airport (CRL)
-Brussels-South Charleroi Airport, the second busiest airport in Belgium is located in Gosselies, South of Brussels). Going to Brussels City centre by public transport is a burden. We suggest to take the Flibco bus to Brussels Midi, which leaves every 20 minutes.
-
+[Brussels-South Charleroi Airport](https://www.brussels-charleroi-airport.com/en/flights/live), the second busiest airport in Belgium is located in Gosselies, South of Brussels). Going to Brussels City centre by public transport is a burden. We suggest to take the [Flibco](https://www.flibco.com/en) bus to Brussels Midi, which leaves every 20 minutes.
 
 #### Schiphol, the Netherlands  (AMS)  
-From Schiphol Airport it is fairly easy to take a train to Brussels. Fast trains between Schiphol and Brussels need upfront reservation.  
+From [Schiphol Airport](https://www.schiphol.nl/en/) it is fairly easy to take a train to Brussels. Fast trains between Schiphol and Brussels need upfront reservation.  
 
 #### Charles de Gaulle Airport, France (CDG)  
-From Paris Charles de Gaulle Airport, it is fairly easy to take a train to Brussels. Fast trains between CDG and Brussels need upfront reservations. 
+From Paris [Charles de Gaulle Airport](https://www.parisaeroport.fr/en), it is fairly easy to take a train to Brussels. Fast trains between CDG and Brussels need upfront reservations. 
+
+## Getting around in Brussels
+Brussels is very simple to navigate and easily accessible. If you want to travel around the capital, choose soft mobility and public transport over the car. Traffic in the city is heavy, so you can often get around more quickly by public transport, bicycle or even electric scooter.
+[More info!](https://visit.brussels/site/en/article/transport-in-brussels)  
+
+Whether your journey takes you to Trône or to the Brussels South train station, public transportation will allow you to easily reach the European district where the conference and the suggested hotels are located (metro 2 and 6, bus 71).  
+
+Different formulas for Brussels public transports can be found [here](https://www.stib-mivb.be/article.html?l=en&_guid=f06631b4-33f1-3910-2a8c-988f71b287a7).
+
 
 
 ## Hotels
@@ -92,102 +95,101 @@ We have listed below some nearby hotels which will have available rooms for GB29
 
 *Please note that Brussels Tourism Tax will be asked per room per night (€3.00 - €4.24).*
 
-
-
-**Radisson Collection Hotel, Grand Place Brussels**
+**Radisson Collection Hotel, Grand Place Brussels**  
 Rue du Fosse Aux Loups 47  
 1000 Brussels  
 [www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
-Rooms: 189-219 €/night
-Reservation code: TBD
+Rooms: 189-219 €/night  
+Reservation code: TBD  
 *Info: 5 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
 **NH Grand Place Arenberg**  
 Rue d'Assaut 15  
 1000 Brussels  
 [www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
-Rooms: 115-165 €/night
-Reservation code: TBD
+Rooms: 115-165 €/night  
+Reservation code: TBD  
 *Info: 4 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
 **NH Collection Brussels Center**  
 Bd Adolphe Max 7  
-1000 Brussels
-[www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest](https://www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest)
-Rooms: 140-195 €/night
-Reservation code: TBD
+1000 Brussels  
+[www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest](https://www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest)  
+Rooms: 140-195 €/night  
+Reservation code: TBD  
 *Info: 4 star hotel, 650 m from meeting venue, 8 minutes walk*  
 
 **Pillow City Hotel Brussels Center**  
 Rue des Paroissiens 15/23  
 1000 Brussels  
 [www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
-Rooms: TBD
-Reservation code: TBD
+Rooms: TBD  
+Reservation code: TBD  
 *Info: 3 star hotel, 600 m from meeting venue, 8 minutes walk*  
 
-**Hotel IBIS Brussels Centre**
+**Hotel IBIS Brussels Centre**  
 Rue Joseph Plateau No 2  
-1000 Brussels
-[all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps](https://all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
-Rooms: 80-160 €/night 
+1000 Brussels  
+[all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps](https://all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
+Rooms: 80-160 €/night  
 Reservation code: TBD 
 *Info: 3 star hotel, 1 km from the meeting venue, 12 minutes walk*  
 
-**Best western Hotel Royal Centre** 
-Rue Royale 160
-1000 Brussels
-[www.bestwestern-royal-bruxelles.be/](https://www.bestwestern-royal-bruxelles.be/)
-Rooms: 140-155 €/night 
+**Best western Hotel Royal Centre**  
+Rue Royale 160  
+1000 Brussels  
+[www.bestwestern-royal-bruxelles.be/](https://www.bestwestern-royal-bruxelles.be/)  
+Rooms: 140-155 €/night  
 Reservation Code: TBD 
-*Info: 3 star hotel, 650m from the meeting venue, 9 minutes walk 
+*Info: 3 star hotel, 650m from the meeting venue, 9 minutes walk  
 
-**Hotel Hubert, Grand Place**
-Rue d'Arenberg 18
-1000 Brussels 
-[www.hotelhubert-brussels.be/](https://www.hotelhubert-brussels.be/)
-Rooms: TBD
-Reservation Code: TBD
+**Hotel Hubert, Grand Place**  
+Rue d'Arenberg 18  
+1000 Brussels  
+[www.hotelhubert-brussels.be/](https://www.hotelhubert-brussels.be/)  
+Rooms: TBD  
+Reservation Code: TBD  
 *Info: 4 star hotel, 550 m from the meeting venue, 7 minutes walk*  
 
-**Easy Hotel**
-Rue d'Argent 1
-1000 Brussels 
-[easyhotelbenelux.com/brussels-city-centre/](https://easyhotelbenelux.com/brussels-city-centre/)
+**Easy Hotel**  
+Rue d'Argent 1  
+1000 Brussels  
+[easyhotelbenelux.com/brussels-city-centre/](https://easyhotelbenelux.com/brussels-city-centre/)  
 Rooms:  70 €/night   
-Reservation Code: TBD
+Reservation Code: TBD  
 *Info: 2 star hotel, 450 m from the meeting venue, 5 minutes walk*  
 
-**Hotel du Congres**
-Rue du Congrès 42
-1000 Bruxelles 
-[www.hotelducongres.be/](http://www.hotelducongres.be/)
-Rooms:  80-160 €/night 
-Reservation Code: TBD
+**Hotel du Congres**  
+Rue du Congrès 42  
+1000 Bruxelles  
+[www.hotelducongres.be/](http://www.hotelducongres.be/)  
+Rooms:  80-160 €/night  
+Reservation Code: TBD  
 *Info: 3 star hotel, 750 m from meeting venue, 11 minutes walk*  
 
-Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel locations. 
+Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel locations.  
 
 ## Venues
 
 **2 October:**
-- GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee) - Venue to be confirmed 
-- Icebreaker - Comics Art Museum 
+- Venue to be confirmed - GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee)  
+- Comics Art Museum - Icebreaker
 
 **3 October:**
-- Governing Board meeting Day 1 - Comics Art Museum  
+- Comics Art Museum - Governing Board meeting Day 1   
 
 **4 October:**
-- Governing Board meeting Day 2 - Comics Art Museum 
-- Hosted Dinner - Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery  
+- Comics Art Museum - Governing Board meeting Day 2  
+- Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery - Hosted Dinner   
 
 **5 October:**
-- Governing Board meeting Day 3 - Comics Art Museum 
-- Second meeting of the Executive Committee - Venue to be confirmed
-- Excursion to the Meise Botanic Garden
+- Comics Art Museum - Governing Board meeting Day 3  
+- Venue to be confirmed - Second meeting of the Executive Committee  
+- Meise Botanic Garden - Excursion
 
 **6 October:**
-- Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond - Venue to be confirmed
+- Venue to be confirmed - Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond   
+
 
 
 **Comics Art Museum (Icebreaker, Governing Board meeting)**  
