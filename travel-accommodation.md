@@ -21,34 +21,49 @@ GB29 participants are advised to ensure appropriate travel insurance for travel 
 
 
 ## Arriving in Bruxelles
-[Brussels Airport](https://www.brusselsairport.be) is a hub for many airlines. The airport is located approx. 12 km from the city centre of Brussels. 
 
-### Bus services
-There are various bus services operating between the airport and the centre of Brussels:
+Right in the heart of Europe, Brussels has superb air, road and rail connections.  
 
-- Coach and airport shuttles
-- Intercity bus services
-- Public bus services
-- Hotel shuttles
+More than 60 million Europeans live within 300km of Brussels, less than two hours by high-speed train. For those who fly in, it takes only 20 minutes from the airport to the city centre. And when you have arrived, it's easy to move around the compact city, by public transport or on foot. [More info!](https://visit.brussels/en/article/Getting-to-Brussels)
 
-More information on bus services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/by-public-transport/bus)
+### Brussels by train
+[Brussels South railway station](https://www.b-europe.com/EN/Stations/Brussels-Midi) is the major hub for international trains ([Thalys](https://www.b-europe.com/EN/Trains/Thalys), [Eurostar](https://www.b-europe.com/EN/Trains/Eurostar), [TGV Brussels-France](https://www.b-europe.com/EN/Trains/TGV-Brussels-France), [ICE](https://www.b-europe.com/EN/Trains/ICE), [InterCity](https://www.b-europe.com/EN/Trains/InterCity)) and can be a comfortable and durable transport solution for people coming from near European countries.  
 
+### Brussels by plane
 
-### Train services
+#### Brussels Airport  (BRU) 
+[Brussels Airport](https://www.brusselsairport.be/en/our-airport/about-brussels-airport) is the main international plane transit point of Belgium. It is located North of Brussels. 
 
-There is a frequent train connection from the airport to Brussels (up to six train an hour). 
+Bus services:  
+From the airport the city centre can be reached by [bus](https://www.brusselsairport.be/en/passengers/access-parking/bus/public-bustransport). It is suggested to take bus 12 from STIB and then off of at the [Trône station](https://www.google.com/maps/place/Troon/@50.8412946,4.3643728,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3c484669466a5:0x4681f9f07f2903dc!8m2!3d50.8412946!4d4.3665615).
+
+Train services:  
+From the airport the city centre can also be reached by [train](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport). 
+
+There is a direct train that runs from Brussels Airport – Zaventem station to the city centre of Brussels(station Brussels-Central) every 10 minutes practically 24/7. Tickets cost just 12.70€ (diabolo tax included) one-way and the journey takes 17 minutes. Buy your ticket at the Brussels Airport train station.
+
 
 You can plan your journey and buy your ticket online from [here](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport).
 
 More information on train services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/train). 
 
-### Taxi
-
+Taxi:  
 Official taxi stands are located in front of the arrival hall. A taxi fromm the airport to the centre of Brussels costs around €45. 
 
 Licensed taxis can be identified by the yellow-blue licence marks. Please do not use taxis that do not have a license. 
 
 More information on taxi sercies is available [here](https://www.brusselsairport.be/en/passengers/access-parking/taxi-and-limousine-services).
+
+#### Brussels South Charleroi Airport (CRL)
+Brussels-South Charleroi Airport, the second busiest airport in Belgium is located in Gosselies, South of Brussels). Going to Brussels City centre by public transport is a burden. We suggest to take the Flibco bus to Brussels Midi, which leaves every 20 minutes.
+
+
+#### Schiphol, the Netherlands  (AMS)  
+From Schiphol Airport it is fairly easy to take a train to Brussels. Fast trains between Schiphol and Brussels need upfront reservation.  
+
+#### Charles de Gaulle Airport, France (CDG)  
+From Paris Charles de Gaulle Airport, it is fairly easy to take a train to Brussels. Fast trains between CDG and Brussels need upfront reservations. 
+
 
 ## Hotels
 The Governing Board meeting attendees are asked to organize their own accommodation. 
