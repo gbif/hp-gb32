@@ -86,50 +86,85 @@ From Paris Charles de Gaulle Airport, it is fairly easy to take a train to Bruss
 ## Hotels
 The Governing Board meeting attendees are asked to organize their own accommodation. 
 
-There are a number of hotels located in close vicinity of the GB29 event locations. The below hotels are within walking distance of the meeting venue. 
+The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
 
-Early booking is advised. 
+We have listed below some nearby hotels which will have available rooms for GB29 attendees, and we suggest early booking. The possibilities of accommodation near the GB29 are not limited to these hotels and we suggest having a look at [booking.com](https://tinyurl.com/2s74h64z) or [AirBnB](https://www.airbnb.be/s/Brussels--Belgium/).
+
+*Please note that Brussels Tourism Tax will be asked per room per night (€3.00 - €4.24).*
+
 
 
 **Radisson Collection Hotel, Grand Place Brussels**
-47 Rue du Fosse Aux Loups  
-Brussels 1000  
-Belgium  
-[URL: www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
-Info: 5* hotel, 350 m from meeting venue
+Rue du Fosse Aux Loups 47  
+1000 Brussels  
+[www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
+Rooms: 189-219 €/night
+Reservation code: TBD
+*Info: 5 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
-**NH Brussels Grand Place Arenberg**  
+**NH Grand Place Arenberg**  
 Rue d'Assaut 15  
-Brussels 1000  
-Belgium  
-[URL: www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
-Info: 4* hotel, 500 m from meeting venue  
+1000 Brussels  
+[www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
+Rooms: 115-165 €/night
+Reservation code: TBD
+*Info: 4 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
-**Hotel Hubert - Grand Place**  
-Rue Arenberg 18  
-Brussels 1000  
-Belgium  
-URL?  
-Info: 4* hotel, 600 m from meeting venue  
+**NH Collection Brussels Center**  
+Bd Adolphe Max 7  
+1000 Brussels
+[www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest](https://www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest)
+Rooms: 140-195 €/night
+Reservation code: TBD
+*Info: 4 star hotel, 650 m from meeting venue, 8 minutes walk*  
 
 **Pillow City Hotel Brussels Center**  
-Parochiaansstraat 15-23  
-Brussels 1000  
-Belgium  
-[URL: www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
-Info: 4* hotel, 600 m from meeting venue  
+Rue des Paroissiens 15/23  
+1000 Brussels  
+[www.pillowshotels.com/brussels-centre/](https://www.pillowshotels.com/brussels-centre/)  
+Rooms: TBD
+Reservation code: TBD
+*Info: 3 star hotel, 600 m from meeting venue, 8 minutes walk*  
 
-**Hotel du Congress**  
-Rue du Congres 42  
-Brussels 1000  
-Belgium  
-URL?  
-Info: 3* hotel, 800 m from meeting venue   
+**Hotel IBIS Brussels Centre**
+Rue Joseph Plateau No 2  
+1000 Brussels
+[all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps](https://all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+Rooms: 80-160 €/night 
+Reservation code: TBD 
+*Info: 3 star hotel, 1 km from the meeting venue, 12 minutes walk*  
 
-LOCAL ORGANIZERS TO INFORM US IF ANY BLOCK BOOKING HAS BEEN MADE  
+**Best western Hotel Royal Centre** 
+Rue Royale 160
+1000 Brussels
+[www.bestwestern-royal-bruxelles.be/](https://www.bestwestern-royal-bruxelles.be/)
+Rooms: 140-155 €/night 
+Reservation Code: TBD 
+*Info: 3 star hotel, 650m from the meeting venue, 9 minutes walk 
 
-**Other hotels**  
-Further hotel options are available at [hotels.com](http://hotels.com/), [booking.com](https://www.booking.com/) or similar services. 
+**Hotel Hubert, Grand Place**
+Rue d'Arenberg 18
+1000 Brussels 
+[www.hotelhubert-brussels.be/](https://www.hotelhubert-brussels.be/)
+Rooms: TBD
+Reservation Code: TBD
+*Info: 4 star hotel, 550 m from the meeting venue, 7 minutes walk*  
+
+**Easy Hotel**
+Rue d'Argent 1
+1000 Brussels 
+[easyhotelbenelux.com/brussels-city-centre/](https://easyhotelbenelux.com/brussels-city-centre/)
+Rooms:  70 €/night   
+Reservation Code: TBD
+*Info: 2 star hotel, 450 m from the meeting venue, 5 minutes walk*  
+
+**Hotel du Congres**
+Rue du Congrès 42
+1000 Bruxelles 
+[www.hotelducongres.be/](http://www.hotelducongres.be/)
+Rooms:  80-160 €/night 
+Reservation Code: TBD
+*Info: 3 star hotel, 750 m from meeting venue, 11 minutes walk*  
 
 Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel locations. 
 
