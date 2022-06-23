@@ -12,7 +12,7 @@ The GBIF Secretariat offers the possibility of applying for partial funding to a
 
 Please see below for more details on the guidelines for seeking partial funding for the event. Link to the application form can be found at the bottom of this page. 
 
-Deadline for applying is **ADD DATE**.
+Deadline for applying is **31 July 2022**.
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
 
@@ -28,7 +28,7 @@ Only one person per Voting Participant, the Head of Delegation, is eligible to a
 
 ### How to apply?
 
-Fill in the [financial application form](https://forms.gle/5bzjPYD4EMQGfs658) and submit it no later than **DATE**. 
+Fill in the [financial application form](https://forms.gle/5bzjPYD4EMQGfs658) and submit it no later than **31 July 2022**. 
 
 If you have any questions, please contact the GBIF Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org).
 
