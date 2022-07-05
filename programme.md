@@ -13,32 +13,34 @@ Download a printable one-page overview of GB29.
 
 [Download one-page programme](/assets/documents/programme.pdf){: .button .is-primary}
 
-## Summary of events
-Below is a summary of all the events associated with GB26. Please read the information carefully before registering. 
+## List of events
+Below is a list of all the events associated with GB29. 
+
+Please read the information carefully before registering. 
 
 ### Sunday 2 October 2022
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: (tbc)  
+Venue: Radisson Collection Hotel, Grand Place Brussels  
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: (tbc)  
+Venue: Radisson Collection Hotel, Grand Place Brussels  
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: (tbc)  
+Venue: Radisson Collection Hotel, Grand Place Brussels  
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**  
 Time: 13:30-17:00  
-Venue: (tbc)  
+Venue: Radisson Collection Hotel, Grand Place Brussels  
 
 *The meeting is open to members of the GBIF Executive Committee*
 
