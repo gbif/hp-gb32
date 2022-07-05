@@ -63,10 +63,12 @@ Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
 
 **Hosted dinner**  
-Time: 19:30-    
+Time: 18:30-22:00    
 Venue: [RBINS, Dinosaur Gallery](https://www.naturalsciences.be/en/museum/exhibitions-view/239/394/390)
 
-*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner in the Dinosaur Gallery at the RBINS*
+*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
+
+*The Royal Belgian Institute for Natural Sciences will welcome you for an informal cocktail and seated dinner in its prestigious Dinosaur Gallery. Before the diner, participants will have the opportunity to walk through the Dinosaur Gallery where the famous Belgian dinosaurs, the Bernissart Iguanodons, have the place of honour. Upon request, more detailed information will be delivered by Museum guides.*
 
 ### Wednesday 5 October 2022
 **Governing Board meeting Day 3**  
@@ -74,7 +76,8 @@ Time: 09:00-12:30
 Venue: [Comics Art Museum](https://www.comicscenter.net/), Cloak room  
 
 *Please note that this is a half day meeting*
-*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
+*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
+
 
 **Executive Committee meeting 2**  
 Time: (tbc)  
@@ -86,7 +89,9 @@ Venue: (tbc)
 Departure time from the Comics Art Museum: 13:30
 Expected return: 18:30
 
-*All Governing Board delegates, GBIF committee members and invited observers are invited to join an excursion to the [Meise Botanic Garden](https://www.plantentuinmeise.be)*
+*All Governing Board delegates, GBIF committee members and invited observers are invited to join an excursion to the [Meise Botanic Garden](https://www.plantentuinmeise.be)*  
+
+*Our headquarters for the day will be the Armory room of our medieval Castle of Bouchout, where you will have the opportunity to network with our staff, get demos of our virtual herbarium, our crowdsourcing platform and other contributions to GBIF.  You can also enjoy a free visit of our castle with its permanent and temporary exhibition. You will be offered a permanent buffet with coffee/tea, refreshments, home made cakes and fruits.  Excursions will depart from the castle in several groups. You will have the opportunity to visit our herbarium, our living collections, seedbank, greenhouses, wood museum and parts of our 92 ha domain. We envisage using our train to visit the different spots.*  
 
 ### Thursday 6 October 2022
 
