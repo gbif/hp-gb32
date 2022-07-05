@@ -3,7 +3,7 @@ title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/gb29-programme-bg2.jpg
 imageLicense: |
-  Illustration of a buzzard soaring, (Buteo buteo (Linnaeus, 1758))[https://www.gbif.org/species/2480537], from Birds on flight, Published by London, Gay & Hancock Limited, 1922. Via (Biodiversity Heritage Library.)[https://flic.kr/p/2m5SSsM]
+  Illustration of (*Iris pseudacorus* L.)[https://www.gbif.org/species/5298231] from the swallowtail Garden Seeds collection of botanical photographs and illustrations via (flickr)[https://flic.kr/p/re5gfN]
 toc: true
 ---
 
