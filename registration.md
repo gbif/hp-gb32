@@ -3,7 +3,7 @@ title: Registration
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB29-hero-bg-10-15.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  Illustration of Nautilus praegravis by L. G. De Koninck from Faune du calcaire carbonifère de la Belgique Bruxelles,F. Hayez, impr.,1878-87. Via the [Biodiversity Heritage Library](https://flic.kr/p/2jeTAFX)
 ---
 
 Here you can register for:
