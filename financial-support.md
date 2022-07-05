@@ -3,7 +3,7 @@ title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB29-hero-bg-10-13.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  Illustration of a buzzard soaring, [*Buteo buteo* (Linnaeus, 1758)](https://www.gbif.org/species/2480537), from Birds on flight, Published by London, Gay & Hancock Limited, 1922. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m5SSsM)
 ---
 
 The GBIF Secretariat offers the possibility of applying for partial funding to attend the Governing Board meeting on 3-5 October 2022. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation. 
