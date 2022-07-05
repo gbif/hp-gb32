@@ -172,7 +172,7 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 ## Venues
 
 **2 October:**
-- Venue to be confirmed - GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee)  
+- Radisson Collection Hotel, Grand Place Brussels - GBIF committee meetings (Budget committee, Science committees, Nodes Steering Group and first meeting of the Executive Committee)  
 - Comics Art Museum - Icebreaker
 
 **3 October:**
@@ -191,32 +191,44 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 - Venue to be confirmed - Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond   
 
 
+### Radisson Collection Hotel, Grand Place Brussels
+Rue du Fosse Aux Loups 47  
+1000 Brussels  
+[www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
 
-### Comics Art Museum (Icebreaker, Governing Board meeting)  
+*The GBIF committee meetings will take place at the Radisson Collection Hotel, Grand Place Brussels on 2 October.*  
+
+### Comics Art Museum  
 Rue des Sables/Zandstraat 20  
 1000 Brussels  
 Belgium  
 [comicscenter.net](https://www.comicscenter.net) 
 
+*The Icebreaker on 2 October and the official Governing Board meeting on 3-5 October will take place at the Comics Art Museum.*  
+
 *The Comics ARt Museum, a true temple dedicated to comic strip art and also an undisputed masterpiece of the [Art Nouveau](https://www.comicscenter.net/en/about-us/a-masterpiece-of-art-nouveau), opened in 1989. In no time, this impressive museum became one of the main attractions of Brussels. Every year mroe than 200,000 visitors come here to explore 4,200 m2 of permanent and temporary exhibitions. It is also a cultural ambassador for Belgium, its regions and communities, a reference in the world of comics as well as a unique documentation center.*  
 
 *This kingdom of imagination is home to some of Belgium's best-known comic strip heroes: Tintin, Spirou, Bob and Bobette, the Smurfs, Lucky Luke, Blake and Mortimer, Marsupilami, etc.*
 
-### Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery (Hosted Dinner)  
+### Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery  
 Rue Vautier/VautierStraat 29  
 1000 Brussels  
 Belgium  
 [www.naturalsciences.be/en/museum/home](https://www.naturalsciences.be/en/museum/home)  
 
+*The hosted dinner on 4 October will take place at the RBINS in the Dinosaur Gallery.*  
+
 *RBINS is a world-class research institute with more than 250 scientists and scientific collaborators covering a wide range of disciplines from biology to geology, oceanography to taxonomy and palaeontology to ecology. For their [research](https://www.naturalsciences.be/en/science/directional--operations), scientists and researchers often make use of the vast [collections](https://www.naturalsciences.be/en/science/collections) which contain almost 38 million specimens.**  
 
 *With a surface area of over 3,000 m2 and dozens of specimens, the Dinosaur Gallery is the largest room in Europe entirely devoted to dinosaurs, their discovery, lives and evolution. Of course, the famous Belgian dinosaurs, the [Bernissart Iguandons](https://artsandculture.google.com/story/GgVhRgnsYJgwIA), have the place of honour: their new glass case alone takes up a tenth of the room. 
 
-### Meise Botanic Garden (Excursion)  
+### Meise Botanic Garden   
 Nieuwelaan 38  
 1860 Meise  
 Belgium
 [www.plantentuinmeise.be](https://www.plantentuinmeise.be) 
+
+*The Excursion on 5 October will take you to the Meise Botanic Garden.*  
 
 *The history of Meise Botanic Garden goes back more than 200 years. The Botanic Garden is located in the grounds of Bouchot Castle, just North of Brussels. It is one of the largest botanical gardens in the world, with its 92 hectares, hosting approximately 18,800 living plants species and its herbarium of about 4 million specimens!*  
 
