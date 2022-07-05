@@ -8,7 +8,7 @@ description: |
   2-6 October 2022
 background: /assets/images/gb29-web-bg-b.jpg
 imageLicense: |
-  Photo by <a href="https://unsplash.com/@idmytro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dimitri Iakymuk</a> on <a href="https://unsplash.com/s/photos/brussels?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  GBIF secretariat 2022 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
 height: 85vh
 parallax: true
