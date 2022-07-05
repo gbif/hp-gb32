@@ -49,7 +49,7 @@ occurrences:
   # img required
   background: /assets/images/GB29-card-bg-13.jpg
   imageLicense: |
-    GBIF secretariat 2022 [licensed under CC-BY 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+    GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   href: /biodiversity-of-bruxelle?view=MAP
   cta:
   - text: Explore the area
