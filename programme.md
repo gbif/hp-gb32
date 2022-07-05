@@ -3,7 +3,7 @@ title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/gb29-programme-bg2.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  Illustration of a buzzard soaring, (Buteo buteo (Linnaeus, 1758))[https://www.gbif.org/species/2480537], from Birds on flight, Published by London, Gay & Hancock Limited, 1922. Via (Biodiversity Heritage Library.)[https://flic.kr/p/2m5SSsM]
 toc: true
 ---
 
