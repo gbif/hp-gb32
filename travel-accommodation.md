@@ -21,7 +21,7 @@ Border officials in EU countries may ask for other supporting documents such as 
 
 There are a [number of countries](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32018R1806#d1e32-54-1) whose nationals do not need a visa to visit the EU for three months or less. The list of countries whose nationals require visas to travel to Belgium differs slightly from other EU countries.
  
-You can find information on entering Belgium on website of the Ministry for Foreign Affairs of Belgium: https://diplomatie.belgium.be/en/services/travel_to_belgium
+You can find information on entering Belgium on website of the Ministry for Foreign Affairs of Belgium: [https://diplomatie.belgium.be/en/services/travel_to_belgium](https://diplomatie.belgium.be/en/services/travel_to_belgium).
 
 If a visa is required, make sure to apply well in advance of the meeting. Also, if you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB29@gbif.org](mailto:GB29@gbif.org). 
 
@@ -35,7 +35,7 @@ GB29 participants are advised to ensure appropriate travel insurance for travel 
 ### COVID-19
 All meeting attendees are requested to check the [travellers Covid information page](https://www.info-coronavirus.be/en/travels/) for the latest information.  
 
-**Important: You are not allowed to travel when in quarantine or isolation. If you are in quarantine or isolation abroad, you must complete the quarantine or isolation before returning to Belgium. Only in exceptional cases and in consultation with the health authorities can this rule be deviated from.**
+**Important: You are not allowed to travel when in quarantine or isolation. If you are in quarantine or isolation abroad, you must complete the quarantine or isolation before entering Belgium. Only in exceptional cases and in consultation with the health authorities can this rule be deviated from.**
 
 
 ## Arriving in Bruxelles
@@ -55,17 +55,17 @@ More than 60 million Europeans live within 300 km of Brussels, less than two hou
 Bus services:  
 From the airport the city centre can be reached by [bus](https://www.brusselsairport.be/en/passengers/access-parking/bus/public-bustransport). It is suggested to take bus 12 from STIB and then off of at the [Trône station](https://www.google.com/maps/place/Troon/@50.8412946,4.3643728,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3c484669466a5:0x4681f9f07f2903dc!8m2!3d50.8412946!4d4.3665615).
 
-Train services:  
+**Train services:**  
 From the airport the city centre can also be reached by [train](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport). 
 
 There is a direct train that runs from [Brussels Airport – Zaventem station](https://www.brusselsairport.be/en/passengers/access-parking/train) to the city centre of Brussels (station Brussels-Central) every 10 minutes practically 24/7. Tickets cost just 12.70€ ([diabolo tax](https://www.belgiantrain.be/en/tickets-and-railcards/airports/diabolo-fee) included) one-way and the journey takes 17 minutes. Buy your ticket at the Brussels Airport train station.
 
-Taxi:  
+**Taxi:**  
 Official taxi stands are located in front of the arrival hall. A taxi fromm the airport to the centre of Brussels costs around €45. 
 
 Licensed taxis can be identified by the yellow-blue licence marks. Please do not use taxis that do not have a license. 
 
-More information on taxi sercies is available [here](https://www.brusselsairport.be/en/passengers/access-parking/taxi-and-limousine-services).
+More information on taxi services is available [here](https://www.brusselsairport.be/en/passengers/access-parking/taxi-and-limousine-services).
 
 #### Brussels South Charleroi Airport (CRL)
 [Brussels-South Charleroi Airport](https://www.brussels-charleroi-airport.com/en/flights/live), the second busiest airport in Belgium is located in Gosselies, South of Brussels). Going to Brussels City centre by public transport is a burden. We suggest to take the [Flibco](https://www.flibco.com/en) bus to Brussels Midi, which leaves every 20 minutes.
@@ -91,7 +91,7 @@ The Governing Board meeting attendees are asked to organize their own accommodat
 
 The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
 
-We have listed below some nearby hotels which will have available rooms for GB29 attendees, and we suggest early booking. The possibilities of accommodation near the GB29 are not limited to these hotels and we suggest having a look at [booking.com](https://tinyurl.com/2s74h64z) or [AirBnB](https://www.airbnb.be/s/Brussels--Belgium/).
+We have listed below some nearby hotels which will have available rooms for GB29 attendees, and we suggest early booking. The possibilities of accommodation near the GB29 venues are not limited to these hotels and we suggest having a look at [booking.com](https://tinyurl.com/2s74h64z) or [AirBnB](https://www.airbnb.be/s/Brussels--Belgium/).
 
 *Please note that Brussels Tourism Tax will be asked per room per night (€3.00 - €4.24).*
 
