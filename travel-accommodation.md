@@ -3,7 +3,7 @@ title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB29-hero-bg-10-14-a.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  Illustration of a hedge sparrow [*Prunella modularis* (Linnaeus, 1758)](https://www.gbif.org/species/5231763)from Coloured illustrations of British birds, and their eggs. London: G.W. Nickisson,1842-1850. Via the [Biodiversity Heritage Library](https://flic.kr/p/2kSK8W3)
 toc: true
 mobileToc: true
 ---
