@@ -192,7 +192,7 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 
 
 
-**Comics Art Museum (Icebreaker, Governing Board meeting)**  
+### Comics Art Museum (Icebreaker, Governing Board meeting)  
 Rue des Sables/Zandstraat 20  
 1000 Brussels  
 Belgium  
@@ -202,7 +202,7 @@ Belgium
 
 *This kingdom of imagination is home to some of Belgium's best-known comic strip heroes: Tintin, Spirou, Bob and Bobette, the Smurfs, Lucky Luke, Blake and Mortimer, Marsupilami, etc.*
 
-**Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery (Hosted Dinner)**  
+### Royal Belgian Institute of Natural Sciences (RBINS), Dinosaur Gallery (Hosted Dinner)  
 Rue Vautier/VautierStraat 29  
 1000 Brussels  
 Belgium  
@@ -212,7 +212,7 @@ Belgium
 
 *With a surface area of over 3,000 m2 and dozens of specimens, the Dinosaur Gallery is the largest room in Europe entirely devoted to dinosaurs, their discovery, lives and evolution. Of course, the famous Belgian dinosaurs, the [Bernissart Iguandons](https://artsandculture.google.com/story/GgVhRgnsYJgwIA), have the place of honour: their new glass case alone takes up a tenth of the room. 
 
-**Meise Botanic Garden (Excursion)**  
+### Meise Botanic Garden (Excursion)  
 Nieuwelaan 38  
 1860 Meise  
 Belgium
