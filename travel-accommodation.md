@@ -218,9 +218,9 @@ Belgium
 
 *The hosted dinner on 4 October will take place at the RBINS in the Dinosaur Gallery.*  
 
-*RBINS is a world-class research institute with more than 250 scientists and scientific collaborators covering a wide range of disciplines from biology to geology, oceanography to taxonomy and palaeontology to ecology. For their [research](https://www.naturalsciences.be/en/science/directional--operations), scientists and researchers often make use of the vast [collections](https://www.naturalsciences.be/en/science/collections) which contain almost 38 million specimens.**  
+*RBINS is a world-class research institute with more than 250 scientists and scientific collaborators covering a wide range of disciplines from biology to geology, oceanography to taxonomy and palaeontology to ecology. For their [research](https://www.naturalsciences.be/en/science/directional--operations), scientists and researchers often make use of the vast [collections](https://www.naturalsciences.be/en/science/collections) which contain almost 38 million specimens.*  
 
-*With a surface area of over 3,000 m2 and dozens of specimens, the Dinosaur Gallery is the largest room in Europe entirely devoted to dinosaurs, their discovery, lives and evolution. Of course, the famous Belgian dinosaurs, the [Bernissart Iguandons](https://artsandculture.google.com/story/GgVhRgnsYJgwIA), have the place of honour: their new glass case alone takes up a tenth of the room. 
+*With a surface area of over 3,000 m2 and dozens of specimens, the Dinosaur Gallery is the largest room in Europe entirely devoted to dinosaurs, their discovery, lives and evolution. Of course, the famous Belgian dinosaurs, the [Bernissart Iguandons](https://artsandculture.google.com/story/GgVhRgnsYJgwIA), have the place of honour: their new glass case alone takes up a tenth of the room.* 
 
 ### Meise Botanic Garden   
 Nieuwelaan 38  
