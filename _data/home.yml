@@ -45,7 +45,7 @@ occurrences:
   title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=BEL.1_1&limit=0">890,000</span> occurrences in Bruxelles
 
   description: |      # required
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+    Check out the GBIF data for Brussels.
   # img required
   background: /assets/images/GB29-card-bg-13.jpg
   imageLicense: |
