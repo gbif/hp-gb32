@@ -6,7 +6,7 @@ description: |
   The 29th meeting of the GBIF Governing Board and associated events,  
   Brussels, Belgium,  
   2-6 October 2022
-background: /assets/images/gb29-web-bg-b.jpg
+background: /assets/images/gb29-web-bg-c.jpg
 imageLicense: |
   GBIF secretariat 2022 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
