@@ -1,9 +1,10 @@
 ---
 title: Contact
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/3058851394.jpeg
+background: /assets/images/GB29-hero-bg-10-18.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  llustration of [*Hypholoma fasciculare* (Huds.) P.Kumm.](https://www.gbif.org/species/3293632) published in Führer für Pilzfreunde by Edmund Michael. Available via the [Biodiversity Heritage Library](https://flic.kr/p/dXWYGp)
+
 ---
 
 Please contact the GBIF Secretariat if you have any questions regarding the following: 
