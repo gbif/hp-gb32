@@ -167,7 +167,7 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 - Meise Botanic Garden - Excursion
 
 **6 October:**
-- Venue to be confirmed - Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond   
+- Centre De Conférences Albert Borschette (CCAB) - Biodiversa+/GBIF joint event: Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond   
 
 
 ### Radisson Collection Hotel, Grand Place Brussels
@@ -214,6 +214,12 @@ Belgium
 *There is always something going on in the Batanic Garden, in sunshine or rain. You can immerse yourself in the topics in the [Plant Palace](https://www.plantentuinmeise.be/en/pQlx6T2/plant-palace), get to know the [Bouchot Castle](https://www.plantentuinmeise.be/en/pQxjzHK/bouchout-castle), or explore the [WOODlab](https://www.plantentuinmeise.be/en/pQ2Mkfv/woodlab) ...*  
 
 *Meise Botanic Garden is also an internationally renowned centre of excellence for plant diversity research, conservation, and documentation. Their science centres on collection-based research of plant diversity, evolution, ecology, and conservation and covers a wide range of taxonomic groups, including plants, algae, fungi, and lichens from all over the world.* 
+
+### Centre De Conférences Albert Borschette (CCAB) 
+Rue Froissart 36  
+1040 Etterbeek  
+
+*The Biodiversa+/GBIF joint event: 'Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond' will take place at the Centre De Conférences Albert Borschette.* 
 
 
 ## Map
