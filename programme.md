@@ -102,7 +102,7 @@ Expected return: 18:30
 
 **Data beyond borders: collaborating to support biodiversity information needs in Europe and beyond**
 Time: 09:00-17:00  
-Venue: (tbc)    
+Venue: [Centre De Conférences Albert Borschette (CCAB)](/travel-accommodation#centre-de-conf%C3%A9rences-albert-borschette-ccab)  
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the symposium*  
 
