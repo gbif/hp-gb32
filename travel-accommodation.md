@@ -123,7 +123,7 @@ Bd Adolphe Max 7
 
 Rooms: 140-195 €/night  
 Reservation code: TBD  
-Block booking of 20 rooms
+Block booking of 20 rooms  
 *Info: 4 star hotel, 650 m from meeting venue, 8 minutes walk*  
 
 **Hotel IBIS Brussels Centre**  
