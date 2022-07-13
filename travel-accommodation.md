@@ -112,8 +112,8 @@ Rue d'Assaut 15
 [www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
 
 Rooms: 115-165 €/night  
-Reservation code: TBD
-Block booking of 20 rooms
+Reservation code: TBD  
+Block booking of 20 rooms  
 *Info: 4 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
 **NH Collection Brussels Center**  
