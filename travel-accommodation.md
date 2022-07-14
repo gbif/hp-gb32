@@ -112,8 +112,8 @@ Rue d'Assaut 15
 [www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg](https://www.nh-hotels.com/hotel/nh-brussels-grand-place-arenberg)  
 
 Rooms: 115-165 €/night  
-Reservation code: TBD  
-Block booking of 20 rooms  
+Reservation website: [here](https://www.nh-hotels.com/event/global-biodiversity)  
+Block booking of 25 rooms  
 *Info: 4 star hotel, 400 m from meeting venue, 5 minutes walk*  
 
 **NH Collection Brussels Center**  
@@ -122,8 +122,8 @@ Bd Adolphe Max 7
 [www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest](https://www.nh-hotels.fr/hotel/nh-collection-brussels-centre?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest)  
 
 Rooms: 140-195 €/night  
-Reservation code: TBD  
-Block booking of 20 rooms  
+Reservation website: [here](https://www.nh-hotels.com/event/gbif-global-biodiversity)  
+Block booking of 25 rooms  
 *Info: 4 star hotel, 650 m from meeting venue, 8 minutes walk*  
 
 **Hotel IBIS Brussels Centre**  
