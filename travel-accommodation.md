@@ -101,7 +101,7 @@ Rue du Fosse Aux Loups 47
 [www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels)  
 
 Rooms: 189-219 €/night  
-Reservation website [here](https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels?facilitatorId=RHGSEM&cid=a:ps+b:ggl+c:emea+i:brand+e:rco+d:ukirwe+r:brt+f:en-US+g:ho+h:BEBRUROY+v:cf&gclsrc=aw.ds)  
+Reservation website [here]([https://www.radissonhotels.com/en-us/hotels/radisson-collection-grand-place-brussels?facilitatorId=RHGSEM&cid=a:ps+b:ggl+c:emea+i:brand+e:rco+d:ukirwe+r:brt+f:en-US+g:ho+h:BEBRUROY+v:cf&gclsrc=aw.ds](https://www.radissonhotels.com/en-us/booking/room-display?hotelCode=BEBRUROY&checkInDate=2022-10-02&checkOutDate=2022-10-05&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=GBIF22&voucher=)  
 Reservation code: GBIF22  
 Block booking of 30 rooms   
 *Info: 5 star hotel, 400 m from meeting venue, 5 minutes walk*  
