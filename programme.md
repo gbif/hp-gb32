@@ -110,4 +110,6 @@ Venue: [Centre De Conférences Albert Borschette (CCAB)](/travel-accommodation#c
 
 *Overall objective: to explore and catalyse collaboration across multiple EU institutions, in partnership with Biodiversa+, GBIF Secretariat and nodes, to exploit fully the opportunities for scaling up and harmonising efforts to improve availability of data for  implementation of European and global biodiversity objectives.*  
 
+*Please note that in order to access the meeting room, all attendees will be asked to submit information on name, nationality, etc. *
+
 
