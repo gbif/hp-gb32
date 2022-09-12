@@ -163,7 +163,8 @@ Check the map ([here](https://goo.gl/maps/dJS5tBXdaT2bGfTJA)) for hotel location
 
 **5 October:**
 - Comics Art Museum - Governing Board meeting Day 3  
-- Venue to be confirmed - Second meeting of the Executive Committee  
+- Comics Art Museum - Public event: Looking forward: working together to achieve GBIF's strategic priorities   
+- Comics Art Museum - Second meeting of the Executive Committee  
 - Meise Botanic Garden - Excursion
 
 **6 October:**
@@ -220,6 +221,8 @@ Rue Froissart 36
 1040 Etterbeek  
 
 *The Biodiversa+/GBIF joint event: 'Data beyond borders: collaborating to support biodiversity information needs in Eureop and beyond' will take place at the Centre De Conférences Albert Borschette.* 
+
+*Please note that in order to access the CCAB meeting room, all attendees will be asked to submit information on name, nationality, etc.*
 
 
 ## Map
