@@ -78,11 +78,16 @@ Venue: [RBINS, Dinosaur Gallery](/travel-accommodation#royal-belgian-institute-o
 
 ### Wednesday 5 October 2022
 **Governing Board meeting Day 3**  
-Time: 09:00-12:30   
+Time: 09:00-09:30   
 Venue: [Comics Art Museum](/travel-accommodation#comics-art-museum), Cloak room  
 
-*Please note that this is a half day meeting*
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
+
+**Public session: Looking forward: working together to achieve GBIF's Strategic priorities**  
+Time: 09:30-12:30   
+Venue: [Comics Art Museum](/travel-accommodation#comics-art-museum), Cloak room  
+
+*The meeting is open to the public*  
 
 **Executive Committee meeting 2**  
 Time: (tbc)  
