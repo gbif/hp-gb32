@@ -142,7 +142,7 @@ Rue d'Argent 1
 [easyhotelbenelux.com/brussels-city-centre/](https://easyhotelbenelux.com/brussels-city-centre/)  
 
 Rooms:  70 €/night   
-Reservation Code: TBD  
+Reservation: please contact the reservation manager [Mr. Aart van der Sluis by email](mailto:aart.vandersluis@easyhotelbenelux.com), mentioning the block booking name 'Belgian Biodiversity Platform'   
 Block booking of 10 rooms  
 *Info: 2 star hotel, 450 m from the meeting venue, 5 minutes walk*  
 
