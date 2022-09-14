@@ -90,8 +90,8 @@ Venue: [Comics Art Museum](/travel-accommodation#comics-art-museum), Cloak room
 *The meeting is open to the public*  
 
 **Executive Committee meeting 2**  
-Time: (tbc)  
-Venue: (tbc)   
+Time: 12:30-13:30  
+Venue: [Comics Art Museum](/travel-accommodation#comics-art-museum)    
 
 *The meeting is open to members of the GBIF Executive Committee*  
 
@@ -114,6 +114,8 @@ Venue: [Centre De Conférences Albert Borschette (CCAB)](/travel-accommodation#c
 *A one-day symposium organized by the European Biodiversity Partnership (Biodiversa+) and the Global Biodiversity Information Facility (GBIF), on the margins of the 29th meeting of the GBIF Governing Board (GB29)*  
 
 *Overall objective: to explore and catalyse collaboration across multiple EU institutions, in partnership with Biodiversa+, GBIF Secretariat and nodes, to exploit fully the opportunities for scaling up and harmonising efforts to improve availability of data for  implementation of European and global biodiversity objectives.*  
+
+*More information on the event is available [here](https://www.gbif.org/event/3HwbtLlzS7jHGYa534evEB/data-beyond-borders-collaborating-to-support-biodiversity-information-needs-in-europe-and-beyond).*
 
 *Please note that in order to access the CCAB meeting room, all attendees will be asked to submit information on name, nationality, etc.*
 
