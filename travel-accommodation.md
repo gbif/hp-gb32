@@ -126,16 +126,6 @@ Reservation website: [here](https://www.nh-hotels.com/event/gbif-global-biodiver
 Block booking of 25 rooms  
 *Info: 4 star hotel, 650 m from meeting venue, 8 minutes walk*  
 
-**Hotel IBIS Brussels Centre**  
-Rue Joseph Plateau No 2  
-1000 Brussels  
-[all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps](https://all.accor.com/hotel/1454/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
-
-Rooms: 80-160 €/night  
-Reservation code: TBD 
-Block booking of 20 rooms  
-*Info: 3 star hotel, 1 km from the meeting venue, 12 minutes walk*  
-
 **Easy Hotel**  
 Rue d'Argent 1  
 1000 Brussels  
