@@ -89,7 +89,7 @@ Venue: [Comics Art Museum](/travel-accommodation#comics-art-museum), Cloak room
 
 *The aim of this session will be to demonstrate through concrete examples and open discussion the critical role that nodes will play in implementing the objectives of the [GBIF Strategic Framework 2023-2027](https://docs.gbif.org/strategic-framework/en/). The session will take place in hybrid format from 09.30 to 12.30 Copenhagen time (UTC+2). All node managers and staff will be welcome to participate, whether or not they are registered as delegates for the Governing Board. The session will be structured around the four priority areas of the Strategic Framework, with facilitated segments of approximately 25 minutes for each priority, showcasing ongoing or planned activities from nodes submitted in advance.*
 
-*The meeting is open to the public*  
+*More information available [here](https://www.gbif.org/event/2VBAZwjuvcNx0JYU09cRmn/looking-forward-working-together-to-achieve-gbifs-strategic-priorities).*
 
 **Executive Committee meeting 2**  
 Time: 12:30-13:30  
