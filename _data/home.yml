@@ -43,16 +43,15 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=BEL.1_1&limit=0">890,000</span> occurrences in Bruxelles
-
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=AUS.2.1_1&limit=0">890,000</span> occurrences in Australian Capital Territory
   description: |      # required
-    Check out the GBIF data for Brussels.
+    Check out the GBIF data for Australian Capital Territory.
   # img required
   background: /assets/images/GB29-card-bg-13.jpg
   imageLicense: |
     GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-  href: /biodiversity-of-bruxelle?view=MAP
+  href: /biodiversity-of-canberra?view=MAP
   cta:
   - text: Explore the area
-    href: /biodiversity-of-bruxelle?view=MAP
+    href: /biodiversity-of-canberra?view=MAP
     isPrimary: true
