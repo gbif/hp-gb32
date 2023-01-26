@@ -75,7 +75,7 @@ Venue: TBC
 ### Wednesday 18 October 2023
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00   
-Venue: Shine Dome[Shine Dome](/travel-accommodation#shine-dome)  
+Venue: [Shine Dome](/travel-accommodation#shine-dome)  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
 
@@ -88,7 +88,7 @@ Venue: National Museum - TBC
 ### Thursday 19 October 2022
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: Shine Dome[Shine Dome](/travel-accommodation#shine-dome)  
+Venue: [Shine Dome](/travel-accommodation#shine-dome)  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
 
