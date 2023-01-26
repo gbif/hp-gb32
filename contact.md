@@ -13,10 +13,10 @@ Please contact the GBIF Secretariat if you have any questions regarding the foll
 - the rules for requesting financial support to attend the meeting, or
 - if you need an invitation letter.  
 
-GBIF Secretariat
+GBIF Secretariat  
 Email: [GB30@gbif.org](mailto:GB30@gbif.org)
 
-Please contact the local organizers if you have any questions regarding practical information relating to your stay in Canberra:
+Please contact the local organizers if you have any questions regarding practical information relating to your stay in Canberra:  
 
 ADD CONTACT INFO
 
