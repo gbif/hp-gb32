@@ -11,7 +11,7 @@ Here you can register for:
 - Global nodes meeting and training
 - GBIF committee meetings
 - GBIF Governing Board meeting 30 (GB30), including social events
-- Biodiversity Symposium
+- Biodiversity Symposium WHEN FORMAT HAS BEEN AGREED UPON WE NEED TO DECIDE IF PRE-REGISTRATION IS NEEDED FOR THIS EVENT
 
 Before registering, we kindly ask you to read the requirements for registering for the events in the 'General Terms and Conditions for the GB30 meeting and associated events'.  ADD LINK
 
