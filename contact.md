@@ -3,7 +3,7 @@ title: Contact
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB30-hero-bg-10-18.jpg
 imageLicense: |
-  llustration of [*Hypholoma fasciculare* (Huds.) P.Kumm.](https://www.gbif.org/species/3293632) published in Führer für Pilzfreunde by Edmund Michael. Available via the [Biodiversity Heritage Library](https://flic.kr/p/dXWYGp)
+  llustration of Australasian Darter [*Anhinga novaehollandiae* (Gould, 1847)](https://www.gbif.org/species/2482085) from Companion to Gould's Handbook; or, Synopsis of the birds of Australia, 1877 via the [Biodiversity Heritage Library](https://flic.kr/p/bmFhGL)
 
 ---
 
