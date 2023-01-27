@@ -1,7 +1,7 @@
 ---
 title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB29-hero-bg-10-14-a.jpg
+background: /assets/images/GB30-hero-bg-10-14-a.jpg
 imageLicense: |
   Illustration of a hedge sparrow [*Prunella modularis* (Linnaeus, 1758)](https://www.gbif.org/species/5231763)from Coloured illustrations of British birds, and their eggs. London: G.W. Nickisson,1842-1850. Via the [Biodiversity Heritage Library](https://flic.kr/p/2kSK8W3)
 toc: true
