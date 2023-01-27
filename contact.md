@@ -1,7 +1,7 @@
 ---
 title: Contact
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB29-hero-bg-10-18.jpg
+background: /assets/images/GB30-hero-bg-10-18.jpg
 imageLicense: |
   llustration of [*Hypholoma fasciculare* (Huds.) P.Kumm.](https://www.gbif.org/species/3293632) published in Führer für Pilzfreunde by Edmund Michael. Available via the [Biodiversity Heritage Library](https://flic.kr/p/dXWYGp)
 
