@@ -1,7 +1,7 @@
 ---
 title: Registration
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB29-hero-bg-10-15.jpg
+background: /assets/images/GB30-hero-bg-10-15.jpg
 imageLicense: |
   Illustration of Nautilus praegravis by L. G. De Koninck from Faune du calcaire carbonifère de la Belgique Bruxelles,F. Hayez, impr.,1878-87. Via the [Biodiversity Heritage Library](https://flic.kr/p/2jeTAFX)
 ---
