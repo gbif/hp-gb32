@@ -3,7 +3,7 @@ title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB30-hero-bg-10-13.jpg
 imageLicense: |
-  Illustration of a buzzard soaring, [*Buteo buteo* (Linnaeus, 1758)](https://www.gbif.org/species/2480537), from Birds on flight, Published by London, Gay & Hancock Limited, 1922. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m5SSsM)
+  Illustration of a nest and egg of *Ailuroedus viridis* from Descriptive catalogue of the nests & eggs of birds found breeding in Australia and Tasmania, 1889. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m5SSsM)
 ---
 
 The GBIF Secretariat offers the possibility of applying for partial funding to attend 1) the Nodes Training and Global Nodes meeting on 15-17 October 2023 and/or 2) the Governing Board meeting on 18-19 October 2023. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation.  
