@@ -18,7 +18,7 @@ cards:
   features: 
   - title: Programme
     description: See the detailed programme for the events. To get a quick overview of the events, download the one-page overview.
-    background: /assets/images/GB29-prog-card-bg.jpg
+    background: /assets/images/GB30-prog-card-bg.jpg
     href: /programme
     cta: 
     - text: download
@@ -26,19 +26,19 @@ cards:
       isPrimary: true
   - title: Registration
     description: Register for the meeting.
-    background: /assets/images/GB29-card-bg-09.jpg
+    background: /assets/images/GB30-card-bg-09.jpg
     href: /registration
   - title: Meeting documents
     description: Get access to the meeting documents.
-    background: /assets/images/GB29-card-bg-10-a.jpg
+    background: /assets/images/GB30-card-bg-10-a.jpg
     href: /meeting-documents
   - title: Financial support
     description: Apply for financial support.
-    background: /assets/images/GB29-card-bg-11.jpg
+    background: /assets/images/GB30-card-bg-11.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
     description: Find useful information on travel, hotels and venue.
-    background: /assets/images/GB29-card-bg-12-a.jpg
+    background: /assets/images/GB30-card-bg-12-a.jpg
     href: /travel-accommodation
 
 
@@ -49,7 +49,7 @@ occurrences:
   description: |      # required
     Check out the GBIF data for Australian Capital Territory.
   # img required
-  background: /assets/images/GB29-card-bg-13.jpg
+  background: /assets/images/GB30-card-bg-13.jpg
   imageLicense: |
     GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   href: /biodiversity-of-canberra?view=MAP
