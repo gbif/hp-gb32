@@ -24,10 +24,10 @@ Only Node managers who will attend both the Nodes Training and Global Nodes meet
 
 As the funds available are limited, the requests for support will be prioritized as follows:
 - Node managers from Voting Participant countries which are in good standing in regard to GBIF financial contributions
-- Node managers from other Voting Participants and Associate Participant countries, based on their level of activity and contributions to GBIF
-- Node managers from Associate Participant organizations, based on level of activity and contributions to GBIF
+- Node managers from other Voting Participants and Associate Participant countries
+- Node managers from Associate Participant organizations
 
-Only one person per Participant, the Node manager, is eligible to apply for partial support. 
+Only one person per Participant, the node manager or designated alternate, is eligible to apply for partial support. 
 
 ### Governing Board meeting, 18-19 October 2023
 
@@ -39,7 +39,7 @@ Only one person per Voting Participant, the Head of Delegation, is eligible to a
 
 ### Attending both the Nodes Training and Global Nodes meeting and the Governing Board meeting?
 
-People who will be attending both the Nodes Training and Global Nodes meeting and the Governing Board meeting may apply for funding covering both events. 
+Individuals attending both the Nodes Training and Global Nodes meeting and the Governing Board meeting may apply for support for one return flight and accommodation to cover the period of both events. 
 
 
 ## How to apply
