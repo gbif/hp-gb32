@@ -20,7 +20,7 @@ Please read the information carefully before registering.
 
 ### Sunday, 15 October 2023
 
-**Nodes training**
+**Nodes training - Day 1**
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
@@ -28,7 +28,7 @@ Venue: CSIRO venue
 
 ### Monday, 16 October 2023
 
-**Global Nodes meeting - Day 1**
+**Nodes training - Day 2**
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
@@ -36,7 +36,7 @@ Venue: CSIRO venue
 
 ### Tuesday, 17 October 2023
 
-**Global Nodes meeting - Day 2**
+**Global Nodes meeting**
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
