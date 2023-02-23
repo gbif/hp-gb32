@@ -20,7 +20,7 @@ Please read the information carefully before registering.
 
 ### Sunday, 15 October 2023
 
-**Nodes training - Day 1**
+**Nodes training - Day 1**  
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
@@ -28,7 +28,7 @@ Venue: CSIRO venue
 
 ### Monday, 16 October 2023
 
-**Nodes training - Day 2**
+**Nodes training - Day 2**  
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
@@ -36,7 +36,7 @@ Venue: CSIRO venue
 
 ### Tuesday, 17 October 2023
 
-**Global Nodes meeting**
+**Global Nodes meeting**  
 Time: 09:00-17:00  
 Venue: CSIRO venue 
 
@@ -75,7 +75,7 @@ Venue: TBC
 ### Wednesday 18 October 2023
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00   
-Venue: [Shine Dome](/travel-accommodation#shine-dome)  
+Venue: TBC  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
 
@@ -88,7 +88,7 @@ Venue: National Museum - TBC
 ### Thursday 19 October 2022
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: [Shine Dome](/travel-accommodation#shine-dome)  
+Venue: TBC  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
 
