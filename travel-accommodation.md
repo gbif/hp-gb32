@@ -10,59 +10,148 @@ mobileToc: true
 
 ## Travel requirements for entering Australia
 Meeting attendees are responsible for arranging their own travel and to ensure that they have the documentation required for entering Australia. 
-ADD USEFUL LINKS  
 
-### Visa and Passport requirements
+### Australian Visa and Passport requirements
 Most people will need to obtain a visa before travelling to Australia. Australian passport holders do not need a visa to enter Australia and New Zealand passport holders can travel to Australia without a visa and obtain a visa on arrival at the airport.  
+
+You will need the correct visa to come to Australia and you will need to get your visa before you travel to Australia. There are many different visa types available depending on the main purpose of your visit and the country in which you reside. You should apply for a visa to visit Australia, and the main purpose of your visit will be ‘attending a conference or expo’. The type of visa that will be available to you is dependent on your country of residence.   
+
+You can find information on entering Australia on the [Australian Government Department of Home Affairs website](https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/can-i-go-to-australia).  
+
+Members from the following countries should apply for an eVisitor visa (subclass 651). This visa is free.  
+-	Andorra, Belgium, Croatia, Denmark, Estonia, Finland, France, Germany, Iceland, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland.  
+
+Members from the United States, Canadian and the Republic of Korea will need to apply for either:  
+-	Business visitor stream visa (subclass 600). Cost AUD150; or
+-	Electronic Travel Authority (subclass 601). There may be an application service charge of AUD20. You cannot apply for an ETA online; however, some travellers can apply for an ETA using the Australian ETA app (Android or iOS).  
+
+Members from the following countries will need to apply for a Business visitor stream visa (subclass 600). Cost AUD150.  
+- Angola, Argentina, Armenia, Belarus, Benin, Brazil, Cambodia, Cameroon, Central African Republic, Chile, Columbia, Costa Rica, Ecuador, Ghana, Guatemala, Guinea, Kenya, Republic of Korea, Liberia, Madagascar, Malawi, Mauritania, Mexico, Namibia, Nigeria, Peru, Sierra Leone, South Africa, South Sudan, Suriname, Tajikistan, Tanzania, Togo, Tonga, Uganda, Uruguay, Uzbekistan, Viet Nam, Zimbabwe.  
 
 **Please note that the visa application process can be lengthy and all participants are requested to start the process well in advance of the meeting.**  
 
 If you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB30@gbif.org](mailto:GB30@gbif.org). 
 
-MORE INFO NEEDED
-
-### Health requirements, COVID-19
-All meeting attendees are requested to meet the general health requirements for entering Australia ADD LINK and to check the status on COVID-19.  
-
-
 ### Insurance
 Meeting attendees are advised to ensure appropriate travel insurance for travel to Australia.  
 
 
+## Entering Australia
+
+### Covid-19
+All meeting attendees are requested meet the general health requirements for entering Australia and to check the Department of Home Affairs [website](https://www.homeaffairs.gov.au/covid19/entering-and-leaving-australia) for the most up to date COVID-19 information.   
+
+### Biosecurity
+Australia has strict biosecurity and border controls in place to protect Australia’s environment, economy, health and wellbeing and security. To avoid issues, penalties, fines and to reduce the risk experiencing delays on arrival to Australia, please check [Australia’s biosecurity and border controls](https://www.smartraveller.gov.au/while-youre-away/biosecurity-border) for information about what goods you can and cannot bring into Australia.  
+
+
 ## Arriving in Canberra
 
-ADD INFO ON INTERNATIONAL TRAVEL TO CANBERRA  
+### Canberra by plane 
+ 
+There are no direct international flights into Canberra and your first Australian destination will be either Melbourne Tullamarine<sup>1</sup> or Sydney Kingsford Smith. Canberra is about a one-hour flight from either of these airports.  
+
+For members attending the TDWG Conference in Hobart, there are flights from Hobart to Canberra (via Melbourne or Sydney).  
+
+It is about a 10-minute drive from the airport to the city centre.  
+
+*(<sup>1</sup> Melbourne international is the easiest airport to arrive into as the domestic terminal is in the same building; in Sydney you will be required to transfer by bus from the international terminal to the domestic terminal.)*  
+
+### Canberra by train/bus
+There are two [train](https://transportnsw.info/routes/details/regional-coaches/631/76631) services per day and several [bus](https://www.murrays.com.au/express-services/) services per day from Sydney to Canberra. Trains leave from [Central Station](https://www.sydneymetro.info/station/central-station) in Sydney and arrive at [Canberra Railway Station, Kingston](https://goo.gl/maps/7fRCu4ofzSjmT3Cb6), travel time approximately 4 hours; bus services pick up and drop off at the domestic and international terminals at Kingsford Smith Airport and arrive at [Jolimont Tourist Centre](https://goo.gl/maps/zBfX4XKeAHw63Frv9) in the city, travel time approximately 3 hours.
 
 ## Getting around in Canberra
-ADD INFO ON LOCAL TRANSPORTATION - HOW TO GET FROM HOTELS TO VENUES
 
+### On arrival at Canberra Airport
+There is a dedicated taxi rank for flight arrivals outside the baggage collection area at Canberra airport to transport you to your accommodation. Ubers are also readily available on arrival at Canberra airport.  
 
+### In Canberra
+Getting around Canberra is quick, affordable and easy with its various taxi cabs and ride sharing services. Most attractions and things to see and do are located very close to each other.  
+
+Hiring an e-scooter is another great way to get around the city and surrounds. [Beam](https://visitcanberra.com.au/hire/5f9f8badeb104fa77f934973/beam-scooter) and [Neuron](https://visitcanberra.com.au/hire/5f9f83eb7e6c235463cf6442/neuron-scooter), hire out e-scooters with helmets. Road rules and conditions apply so make sure you familiarise yourself with these before you ride.  
+
+Canberra has an extensive network of cycle paths and dedicated bike lanes on our main roads making cycling an easy way to get around the city. There are many options available for [hiring a bike](https://visitcanberra.com.au/articles/how-to-hire-a-bike-in-canberra) in Canberra.  
+
+The [Neighbourhood Guide](https://visitcanberra.com.au/traveller-information/guides-to-canberra) Canberra City provides lots of information on restaurants, shopping, and cultural experiences in the Inner North including the city, Acton and Braddon.  
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
 
-The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
+The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly with the hotels by using the specific reservation codes. As it will be a Parliamentary sitting week in Canberra, we suggest booking early.    
 
-We have listed below some nearby hotels which will have available rooms for attendees, and we suggest early booking. 
-ADD ALTERNATIVE WAYS PEOPLE CAN FIND HOTELS
+We have listed below some nearby hotels which will have available rooms for GB30 attendees. The possibilities of accommodation near the GB30 venues are not limited to these hotels and we suggest having a look at [booking.com](https://www.booking.com/searchresults.en-gb.html?aid=2198085&label=canberra-EIZFgorNygbd3MVN9E7aZAS556442970452%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-361480122408%3Alp1000142%3Ali%3Adec%3Adm&sid=6e1cc8ba5fc68fe7f69b5029847e5120&sb=1&sb_lp=1&src=theme_landing_city&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fbooking-home%2Fcity%2Fau%2Fcanberra.en-gb.html%3Faid%3D2198085%26label%3Dcanberra-EIZFgorNygbd3MVN9E7aZAS556442970452%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-361480122408%253Alp1000142%253Ali%253Adec%253Adm%26sid%3D6e1cc8ba5fc68fe7f69b5029847e5120%26&order=upsort_bh&top_ufis=0&theme_id=74&theme_source=theme_landing_city&ss=Canberra&is_ski_area=0&ssne=Canberra&ssne_untouched=Canberra&dest_id=-1563952&dest_type=city&checkin_year=2023&checkin_month=10&checkin_monthday=14&checkout_year=2023&checkout_month=10&checkout_monthday=21&efdco=1&group_adults=1&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1) or [AirBnB](https://www.airbnb.com.au/s/Canberra--Australia/homes?adults=1&place_id=ChIJIZBcsGlNFmsRYFZpp27qAAU&refinement_paths%5B%5D=%2Fhomes&checkin=2023-10-14&checkout=2023-10-21).
 
-ADD LIST OF PRE-BOOKED HOTELS
+**QT Canberra**
+1 London Circuit, Canberra  
+[www.qthotels.com/canberra/rooms/](http://www.qthotels.com/canberra/rooms/)  
+Rate: AUD190/night  
+Reservation website [here](http://www.qthotels.com/)
+Reservation code: GBIF23  
+Or call reservations team on +61 2 6267 6244 and quote GBIF23  
+*Info: 4 star hotel, 205 rooms, 2km from CSIRO, 25 minutes’ walk; 3.2km from National Portrait Gallery, 6 minute drive*
+
+**Mantra on Northbourne**  
+84 Northbourne Avenue, Canberra  
+[www.mantra.com.au/australian-capital-territory/canberra-and-surrounds/canberra/accommodation/hotels/mantra-on-northbourne/](http://www.mantra.com.au/australian-capital-territory/canberra-and-surrounds/canberra/accommodation/hotels/mantra-on-northbourne/)  
+Rate from: AUD186-429/night  
+Reservation website [here](http://www.mghotels.com.au/)  
+Reservation code: GB30 (10% discount off best available rate)  
+Block booking of 25 rooms  
+*Info: 4.5 star hotel, 177 rooms, 1.8km from CSIRO, 25 minutes’ walk; 3.5km from National Portrait Gallery, 7 minute drive*
+
+**Avenue Hotel**  
+80 Northbourne Avenue, Canberra  
+[https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&trackPage=yes](https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items%5b0%5d%5badults%5d=2&items%5b0%5d%5bchildren%5d=0&items%5b0%5d%5binfants%5d=0&trackPage=yes)  
+Rate: 20% discount for GB2023 attendees; AUD 233-599/night  
+Reservation website here  LINK MISSING
+Reservation code: CODE MISSING
+*Info: 5 star hotel, 213 rooms, 1.7km from CSIRO, 20 minutes’ walk; 3.4km from National Portrait Gallery, 7 minute drive*
+
+**Novotel Canberra** NOT CONFIRMED  
+65 Northbourne Avenue, Canberra  
+[all.accor.com/hotel/2796/](https://all.accor.com/hotel/2796/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
+Rate: AUD xx/night  RATE MISSING
+Reservation website here  LINK MISSING  
+Reservation code:  CODE MISSING  
+Block booking of 25 rooms (not confirmed)  
+*Info: 4.5 star hotel, 286 rooms, 1.7km from CSIRO, 20 minutes’ walk*  
+
 
 ADD LINK TO A GOOGLE MAP OR SIMILAR THAT WILL DISPLAY LOCATION OF HOTELS AND VENUES
 
 
 ## Venues
 
-- 15 October - CSIRO - Nodes Training and Global Nodes meeting  
-- 16 October - CSIRO - Nodes Training and Global Nodes meeting 
-- 17 October - CSIRO - Nodes Training and Global Nodes meeting, GBIF committee meeting, Icebreaker
-- 18 October - Shine Dome - Governing Board meeting Day 1, Dinner
-- 19 October - Shine Dome - Governing Board meeting Day 2
-- 20 October - Venue TBC - Biodiversity Symposium
+15 October
+- CSIRO - Nodes Training  
+
+16 October 
+- CSIRO - Nodes Training 
+
+17 October
+- CSIRO - Global Nodes meeting
+- CSIRO - GBIF committee meetings (Budget Committee, Science Committee, Nodes Steering Group and Executive Committee)
+- National Portrait Gallery - Icebreaker
+
+18 October
+- National Portrait Gallery - Governing Board meeting Day 1
+- National Museum of Australia - Dinner
+
+19 October
+- National Portrait Gallery - Governing Board meeting Day 2  
+
+20 October
+- CSIRO Discovery Theatre - Biodiversity Symposium  
 
 
 ### CSIRO 
-GET FULL ADDRESS AND POSSIBLY AN IMAGE
+**Commonwealth Scientific and Industrial Research Organisation (CSIRO), Clunies Ross Street, Acton**  
+CSIRO is the Australian Government agency responsible for scientific research, and works with industry, government, the research community, and leading organisations around the world to turn science into solutions to address Australia’s greatest challenges.   
+
+The Nodes Training and Global Nodes meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.  
+
+
+
 
 *The Nodes Training and Global Nodes meeting will take place at CSIRO on 15-17 October.*  
 
