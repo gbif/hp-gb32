@@ -185,7 +185,7 @@ AWAITING IMAGE FROM LOCAL ORGANIZER
 
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14) or by clicking on the map below.  
+The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14).    
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ehbc=2E312F" width="640" height="480"></iframe>
 
