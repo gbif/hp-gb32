@@ -6,7 +6,7 @@ imageLicense: |
   Illustration of a nest and egg of *Ailuroedus viridis* from Descriptive catalogue of the nests & eggs of birds found breeding in Australia and Tasmania, 1889. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m5SSsM)
 ---
 
-The GBIF Secretariat offers the possibility of applying for partial funding to attend 1) the Nodes Training and Global Nodes meeting on 15-17 October 2023 and/or 2) the Governing Board meeting on 18-19 October 2023. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation.  
+The GBIF Secretariat offers the possibility of applying for partial financial support to attend 1) the Nodes Training and Global Nodes meeting on 15-17 October 2023 and/or 2) the Governing Board meeting on 18-19 October 2023. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation.  
 
 **The application process is now open**  
 
@@ -20,7 +20,7 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 
 ### Nodes Training and Global Nodes meeting, 15-17 October 2023
 
-Only Node managers who will attend both the Nodes Training and Global Nodes meeting can apply for partial financial support. 
+Only GBIF Node managers who will attend both the Nodes Training and Global Nodes meeting can apply for partial financial support. 
 
 As the funds available are limited, the requests for support will be prioritized as follows:
 - Node managers from Voting Participant countries which are in good standing in regard to GBIF financial contributions
