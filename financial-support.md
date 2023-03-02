@@ -44,13 +44,15 @@ Individuals attending both the Nodes Training and Global Nodes meeting and the G
 
 ## How to apply
 
-Fill in the financial application form ADD LINK and submit no later than **XX XXXX 2023**. 
+Fill in the financial application form ADD LINK and submit no later than **XX XXXX 2023**. Applications received after the deadline will not be considered.   
+
 The application form must include the following information:
-- A draft economy class flight schedule and costs
+- A confirmation that the attendees will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket. 
 - The number of hotel nights requested
 - A confirmation that the attendee will be able to cover all other costs (visa, health insurance, per diem, etc.)
+- Confirmation of whether the attendee will cover the air ticket costs 
 
-**Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursement form which must be submitted togethet with proof of costs within one month after the meeting.**  
+**Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send you the reimbursement form for the accommodation subsidy and air ticket costs if not already covered directly by GBIF. The reimbursement form must be submitted togethet with proof of costs within one month after the meeting.**  
 
 If you have any questions, please contact the GBIF Secretariat at [GB30@gbif.org](mailto:GB30@gbif.org).
 
