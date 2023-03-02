@@ -81,18 +81,18 @@ The local organisers recommend booking a room in one of the hotels mentioned bel
 
 We have listed below some nearby hotels which will have available rooms for GB30 attendees. The possibilities of accommodation near the GB30 venues are not limited to these hotels and we suggest having a look at [booking.com](https://www.booking.com/searchresults.en-gb.html?aid=2198085&label=canberra-EIZFgorNygbd3MVN9E7aZAS556442970452%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-361480122408%3Alp1000142%3Ali%3Adec%3Adm&sid=6e1cc8ba5fc68fe7f69b5029847e5120&sb=1&sb_lp=1&src=theme_landing_city&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fbooking-home%2Fcity%2Fau%2Fcanberra.en-gb.html%3Faid%3D2198085%26label%3Dcanberra-EIZFgorNygbd3MVN9E7aZAS556442970452%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-361480122408%253Alp1000142%253Ali%253Adec%253Adm%26sid%3D6e1cc8ba5fc68fe7f69b5029847e5120%26&order=upsort_bh&top_ufis=0&theme_id=74&theme_source=theme_landing_city&ss=Canberra&is_ski_area=0&ssne=Canberra&ssne_untouched=Canberra&dest_id=-1563952&dest_type=city&checkin_year=2023&checkin_month=10&checkin_monthday=14&checkout_year=2023&checkout_month=10&checkout_monthday=21&efdco=1&group_adults=1&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1) or [AirBnB](https://www.airbnb.com.au/s/Canberra--Australia/homes?adults=1&place_id=ChIJIZBcsGlNFmsRYFZpp27qAAU&refinement_paths%5B%5D=%2Fhomes&checkin=2023-10-14&checkout=2023-10-21).
 
-**QT Canberra**
+**QT Canberra**  
 1 London Circuit, Canberra  
-[www.qthotels.com/canberra/rooms/](http://www.qthotels.com/canberra/rooms/)  
+[Hotel website](http://www.qthotels.com/canberra/rooms/)  
 Rate: AUD190/night  
-Reservation website [here](http://www.qthotels.com/)
+Reservation website [here](http://www.qthotels.com/)  
 Reservation code: GBIF23  
 Or call reservations team on +61 2 6267 6244 and quote GBIF23  
 *Info: 4 star hotel, 205 rooms, 2km from CSIRO, 25 minutes’ walk; 3.2km from National Portrait Gallery, 6 minute drive*
 
 **Mantra on Northbourne**  
 84 Northbourne Avenue, Canberra  
-[www.mantra.com.au/australian-capital-territory/canberra-and-surrounds/canberra/accommodation/hotels/mantra-on-northbourne/](http://www.mantra.com.au/australian-capital-territory/canberra-and-surrounds/canberra/accommodation/hotels/mantra-on-northbourne/)  
+[Hotel website](http://www.mantra.com.au/australian-capital-territory/canberra-and-surrounds/canberra/accommodation/hotels/mantra-on-northbourne/)  
 Rate from: AUD186-429/night  
 Reservation website [here](http://www.mghotels.com.au/)  
 Reservation code: GB30 (10% discount off best available rate)  
@@ -101,7 +101,7 @@ Block booking of 25 rooms
 
 **Avenue Hotel**  
 80 Northbourne Avenue, Canberra  
-[https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&trackPage=yes](https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items%5b0%5d%5badults%5d=2&items%5b0%5d%5bchildren%5d=0&items%5b0%5d%5binfants%5d=0&trackPage=yes)  
+[Hotel website](https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items%5b0%5d%5badults%5d=2&items%5b0%5d%5bchildren%5d=0&items%5b0%5d%5binfants%5d=0&trackPage=yes)  
 Rate: 20% discount for GB2023 attendees; AUD 233-599/night  
 Reservation website here  LINK MISSING
 Reservation code: CODE MISSING
@@ -109,7 +109,7 @@ Reservation code: CODE MISSING
 
 **Novotel Canberra** NOT CONFIRMED  
 65 Northbourne Avenue, Canberra  
-[all.accor.com/hotel/2796/](https://all.accor.com/hotel/2796/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
+[Hotel website](https://all.accor.com/hotel/2796/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
 Rate: AUD xx/night  RATE MISSING
 Reservation website here  LINK MISSING  
 Reservation code:  CODE MISSING  
@@ -117,64 +117,79 @@ Block booking of 25 rooms (not confirmed)
 *Info: 4.5 star hotel, 286 rooms, 1.7km from CSIRO, 20 minutes’ walk*  
 
 
-ADD LINK TO A GOOGLE MAP OR SIMILAR THAT WILL DISPLAY LOCATION OF HOTELS AND VENUES
+A map with the location of hotels and venues can be found [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14)  
 
 
 ## Venues
 
-15 October
+**15 October**
 - CSIRO - Nodes Training  
 
-16 October 
+**16 October** 
 - CSIRO - Nodes Training 
 
-17 October
+**17 October**
 - CSIRO - Global Nodes meeting
 - CSIRO - GBIF committee meetings (Budget Committee, Science Committee, Nodes Steering Group and Executive Committee)
 - National Portrait Gallery - Icebreaker
 
-18 October
+**18 October**
 - National Portrait Gallery - Governing Board meeting Day 1
 - National Museum of Australia - Dinner
 
-19 October
+**19 October**
 - National Portrait Gallery - Governing Board meeting Day 2  
 
-20 October
+**20 October**
 - CSIRO Discovery Theatre - Biodiversity Symposium  
 
 
 ### CSIRO 
 **Commonwealth Scientific and Industrial Research Organisation (CSIRO), Clunies Ross Street, Acton**  
+
+*The Nodes Training and Global Nodes meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.*  
+
+AWAITING IMAGE FROM LOCAL ORGANIZER
+
 CSIRO is the Australian Government agency responsible for scientific research, and works with industry, government, the research community, and leading organisations around the world to turn science into solutions to address Australia’s greatest challenges.   
 
-The Nodes Training and Global Nodes meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.  
+
+### National Portrait Gallery
+**National Portrait Gallery, King Edward Terrace, Parkes**  
+
+*The Icebreaker and Governing Board meeting will take place at the National Portrait Gallery on the southern shores of Lake Burley Griffin on 18-19 October.*
+
+AWAITING IMAGE FROM LOCAL ORGANIZER
+
+The National Portrait Gallery is one of Canberra’s most remarkable cultural institutions housing portraits of prominent Australians. The gallery is Canberra’s youngest cultural institution having been established only in 1998 and will provide a wonderful backdrop to GB30.  
 
 
+### National Museum of Australia
+**National Museum of Australia, Lawson Crescent, Acton**  
+
+*The hosted dinner will take place in the Gandel Atrium, National Museum of Australia on the evening of 18 October.*
+
+AWAITING IMAGE FROM LOCAL ORGANIZER
+
+The Museum brings to life the rich and diverse stories of Australia through compelling objects, ideas and events. It focuses on Indigenous histories and cultures, European settlement and human's interaction with the environment.  
 
 
-*The Nodes Training and Global Nodes meeting will take place at CSIRO on 15-17 October.*  
+### CSIRO Discovery Building
+**CSIRO Discovery Building, North Science Road, Acton**
 
+*The GBIF Committee meetings will take place in the CSIRO Discovery Building on 17 October. The post-GB30 Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
 
-### Shine Dome
-GET FULL ADDRESS AND POSSIBLY AN IMAGE
+AWAITING IMAGE FROM LOCAL ORGANIZER
 
-*The Governing Board meeting will take place at the Shine Dome on 18-19 October.*
-
-### National Museum TBC  
-GET FULL ADDRESS AND POSSIBLY AN IMAGE
-
-*The hosted dinner will take place at the National Musem on 18 October.*  
-
-### Venue TBC
-GET FULL ADDRESS AND POSSIBLY AN IMAGE
-
-CONFIRM VENUE FOR GBIF COMMITTEE MEETINGS, ICEBREAKER AND BIODIVERSITY SYMPOSIUM
 
 
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found here ADD LINK TO MAP.
+The location of the meeting venues and some of the nearest hotels can be found [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14) or by clicking on the map below.  
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ehbc=2E312F" width="640" height="480"></iframe>
+
+
 
 ## General information
 
