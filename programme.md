@@ -22,7 +22,7 @@ Please read the information carefully before registering.
 
 **Nodes training - Day 1**  
 Time: 09:00-17:00  
-Venue: CSIRO venue 
+Venue: CSIRO Black Mountin  
 
 *This meeting is open to GBIF node managers*
 
@@ -30,7 +30,7 @@ Venue: CSIRO venue
 
 **Nodes training - Day 2**  
 Time: 09:00-17:00  
-Venue: CSIRO venue 
+Venue: CSIRO Black Mountain  
 
 *This meeting is open to GBIF node managers*
 
@@ -38,59 +38,65 @@ Venue: CSIRO venue
 
 **Global Nodes meeting**  
 Time: 09:00-17:00  
-Venue: CSIRO venue 
+Venue: CSIRO Black Mountain  
 
 *This meeting is open to GBIF node managers*
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: TBC   
+Venue: CSIRO Discovery Centre   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: TBC  
+Venue: CSIRO Discovery Centre  
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: TBC   
+Venue: CSIRO Discovery Centre   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**  
 Time: 13:30-17:00  
-Venue: TBC    
+Venue: CSIRO Discovery Centre    
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker - TBC**  
 Start time: TBC   
-Venue: TBC  
+Venue: National Portrait Gallery  
 
 *All GBIF Node managers, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
 ### Wednesday 18 October 2023
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00   
-Venue: TBC  
+Venue: National Portrait Gallery  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
 
 **GB30 Dinner**  
 Time: TBC   
-Venue: National Museum - TBC  
+Venue: National Museum of Australia  
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
 ### Thursday 19 October 2022
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: TBC  
+Venue: National Portait Gallery  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
+
+**Executive Committee meeting 2**  
+Time: 17:00-18:00   
+Venue: TBC  
+
+*The meeting is open to members of the GBIF Executive Committee* 
 
 
 ### Friday 20 October 2023
@@ -100,8 +106,8 @@ Venue: TBC
 
 **Executive Committee meeting 2**  
 Time: TBC  
-Venue: TBC    
+Venue: CSIRO Discovery Centre    
 
-*The meeting is open to members of the GBIF Executive Committee*  
+*WHO CAN ATTEND THIS?*  
 
 
