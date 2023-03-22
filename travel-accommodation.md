@@ -47,6 +47,12 @@ Australia has strict biosecurity and border controls in place to protect Austral
 
 ## Arriving in Canberra
 
+### About Canberra
+
+Canberra is the capital of Australia and occupies part of the Australian Capital Territory (ACT), in south-eastern Australia; Canberra is situated inland between the cities of Sydney and Melbourne. Canberra was founded as the Capital City of Australia, and the seat of Australian Government in 1913.  
+
+Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet.  
+
 ### Canberra by plane 
  
 There are no direct international flights into Canberra and your first Australian destination will be either Melbourne Tullamarine<sup>1</sup> or Sydney Kingsford Smith. Canberra is about a one-hour flight from either of these airports.  
