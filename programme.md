@@ -7,7 +7,9 @@ imageLicense: |
 toc: true
 ---
 
-## Printable PDF programme
+The GB30 meeting and associated events will take place in Canberra, Austalia in the period 15-20 October 2023. Prior to the GB30 events, the [TDWG 2023 Conference](https://www.tdwg.org/conferences/2023/) takes place on 9-13 October in Hobart, Tasmania and some GB30 attendees may also be attending this conference.
+
+## Printable GB30 PDF programme
 
 Download a printable one-page overview of the GB30 meeting and associated events.
 
