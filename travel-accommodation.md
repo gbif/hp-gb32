@@ -70,6 +70,8 @@ Canberra is the capital of Australia and occupies part of the Australian Capital
 
 Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet.  
 
+![Photo by Freesally from Pixabay](/assets/images/Canberra.jpg/601x263){:standalone}
+
 ### Canberra by plane 
  
 There are no direct international flights into Canberra and your first Australian destination will be either Melbourne Tullamarine<sup>1</sup> or Sydney Kingsford Smith. Canberra is about a one-hour flight from either of these airports.  
