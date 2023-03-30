@@ -70,7 +70,7 @@ Canberra is the capital of Australia and occupies part of the Australian Capital
 
 Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet.  
 
-![Photo by Freesally from Pixabay](/assets/images/Canberra.jpg/601x263){:standalone}
+![Photo by Freesally from Pixabay](/assets/images/Canberra.jpg)
 
 ### Canberra by plane 
  
