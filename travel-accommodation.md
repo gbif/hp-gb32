@@ -11,6 +11,23 @@ mobileToc: true
 ## Travel requirements for entering Australia
 Meeting attendees are responsible for arranging their own travel and to ensure that they have the documentation required for entering Australia. 
 
+## Image examples
+image examples image examples image examples image examples image examples image examples 
+
+![image caption goes here](https://via.placeholder.com/1200x800){:standalone}
+
+image examples image examples image examples image examples image examples image examples image examples image examples 
+image examples image examples image examples 
+
+![smaller centered image](https://via.placeholder.com/350x400){:standalone .has-text-centered}
+
+image examples image examples image examples image examples image examples image examples image examples image examples 
+image examples image examples image examples 
+
+left floating image ![image description should go here for those that cannot see well](https://via.placeholder.com/200x200){: .inline-left } inline image inline image inline image inline image inline image inline image inline image 
+
+image examples image examples image examples image examples image examples image examples image examples 
+
 ### Australian Visa and Passport requirements
 Most people will need to obtain a visa before travelling to Australia. Australian passport holders do not need a visa to enter Australia and New Zealand passport holders can travel to Australia without a visa and obtain a visa on arrival at the airport.  
 
