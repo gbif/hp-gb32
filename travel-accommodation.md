@@ -177,7 +177,7 @@ The National Portrait Gallery is one of Canberra’s most remarkable cultural in
 
 *The hosted dinner will take place in the Gandel Atrium, National Museum of Australia on the evening of 18 October.*
 
-![Garden of Australian Dreams by the National Museum of Australia](/assets/images/NMA.jpg){:standalone}
+![Garden of Australian Dreams by the National Museum of Australia](/assets/images/NMA.png){:standalone}
 
 The Museum brings to life the rich and diverse stories of Australia through compelling objects, ideas and events. It focuses on Indigenous histories and cultures, European settlement and human's interaction with the environment.  
 
@@ -187,7 +187,7 @@ The Museum brings to life the rich and diverse stories of Australia through comp
 
 *The GBIF Committee meetings will take place in the CSIRO Discovery Building on 17 October. The post-GB30 Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
 
-![CSIRO Discovery - TripAdvisor, WinnieW](/assets/images/DiscoveryCentre.jpg){:standalone}
+![CSIRO Discovery - TripAdvisor, WinnieW](/assets/images/Discovery Centre.jpg){:standalone}
 
 
 
