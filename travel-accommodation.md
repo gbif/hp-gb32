@@ -70,7 +70,7 @@ Canberra is the capital of Australia and occupies part of the Australian Capital
 
 Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet.  
 
-![Photo by Freesally from Pixabay](/assets/images/Canberra.jpg){:standalone}
+![Canberra, photo by Freesally from Pixabay](/assets/images/Canberra.jpg){:standalone}
 
 ### Canberra by plane 
  
@@ -174,7 +174,7 @@ A map with the location of hotels and venues can be found [here](https://www.goo
 
 *The Nodes Training and Global Nodes meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.*  
 
-AWAITING IMAGE FROM LOCAL ORGANIZER
+![CSIRO, photo by Jian-Wei Liu](/assets/images/CSIRO.jpg){:standalone}
 
 CSIRO is the Australian Government agency responsible for scientific research, and works with industry, government, the research community, and leading organisations around the world to turn science into solutions to address Australia’s greatest challenges.   
 
@@ -184,7 +184,7 @@ CSIRO is the Australian Government agency responsible for scientific research, a
 
 *The Icebreaker and Governing Board meeting will take place at the National Portrait Gallery on the southern shores of Lake Burley Griffin on 18-19 October.*
 
-AWAITING IMAGE FROM LOCAL ORGANIZER
+![National Portrait Gallery, photo by National Portrait Gallery](/assets/images/NPG.jpg){:standalone}
 
 The National Portrait Gallery is one of Canberra’s most remarkable cultural institutions housing portraits of prominent Australians. The gallery is Canberra’s youngest cultural institution having been established only in 1998 and will provide a wonderful backdrop to GB30.  
 
@@ -194,7 +194,7 @@ The National Portrait Gallery is one of Canberra’s most remarkable cultural in
 
 *The hosted dinner will take place in the Gandel Atrium, National Museum of Australia on the evening of 18 October.*
 
-AWAITING IMAGE FROM LOCAL ORGANIZER
+![Garden of Australian Dreams by the National Museum of Australia](/assets/images/NMA.jpg){:standalone}
 
 The Museum brings to life the rich and diverse stories of Australia through compelling objects, ideas and events. It focuses on Indigenous histories and cultures, European settlement and human's interaction with the environment.  
 
@@ -204,8 +204,7 @@ The Museum brings to life the rich and diverse stories of Australia through comp
 
 *The GBIF Committee meetings will take place in the CSIRO Discovery Building on 17 October. The post-GB30 Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
 
-AWAITING IMAGE FROM LOCAL ORGANIZER
-
+![CSIRO Discovery - TripAdvisor, WinnieW](/assets/images/DiscoveryCentre.jpg){:standalone}
 
 
 
