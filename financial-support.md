@@ -12,7 +12,7 @@ The GBIF Secretariat offers the possibility of applying for partial financial su
 
 Please see below for more details on the guidelines for seeking partial funding for the events. Link to the application form can be found at the bottom of this page. 
 
-Deadline for applying is **XX XXXXX 2023**.  
+Deadline for applying is **30 May 2023**.  
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
 
@@ -44,7 +44,7 @@ Individuals attending both the Nodes Training and Global Nodes meeting and the G
 
 ## How to apply
 
-Fill in the financial application form ADD LINK and submit no later than **XX XXXX 2023**. Applications received after the deadline will not be considered.   
+Fill in the financial application form ADD LINK and submit no later than **30 May 2023**. Applications received after the deadline will not be considered.   
 
 The application form must include the following information:
 - A confirmation that the attendees will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket. 
