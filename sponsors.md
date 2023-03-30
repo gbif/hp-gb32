@@ -3,7 +3,7 @@ title: Sponsors
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB30-hero-bg-10-18.jpg
 imageLicense: |
-  lllustration of Australasian Darter [*Anhinga novaehollandiae* (Gould, 1847)](https://www.gbif.org/species/2482085) from Companion to Gould's Handbook; or, Synopsis of the birds of Australia, 1877 via the [Biodiversity Heritage Library](https://flic.kr/p/bmFhGL)
+  lllustration of [*Echidna hystrix* (Home, 1802)](https://www.gbif.org/species/8949676) from The mammals of Australia, 1871 via the [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary/41157579672)
 ---
 
 ## About the sponsors  
