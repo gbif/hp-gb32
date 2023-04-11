@@ -20,14 +20,14 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 
 ### Nodes Training and Global Nodes meeting, 15-17 October 2023
 
-Only GBIF Node managers who will attend both the Nodes Training and Global Nodes meeting can apply for partial financial support. 
-
-As the funds available are limited, the requests for support will be prioritized as follows:
-- Node managers from Voting Participant countries which are in good standing in regard to GBIF financial contributions
-- Node managers from other Voting Participants and Associate Participant countries
-- Node managers from Associate Participant organizations
+Partial financial support is only available to those who will attend both the Nodes Training and Global Nodes meeting. 
 
 Only one person per Participant, the node manager or designated alternate, is eligible to apply for partial support. 
+
+As the funds available are limited, the requests for support will be prioritized as follows:
+- Node managers/alternates from Voting Participant countries which are in good standing in regard to GBIF financial contributions
+- Node managers/alternates from other Voting Participants and Associate Participant countries
+- Node managers/alternates from Associate Participant organizations
 
 ### Governing Board meeting, 18-19 October 2023
 
