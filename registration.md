@@ -8,9 +8,9 @@ imageLicense: |
 
 Here you can register for:  
 
-- Global nodes meeting and training
+- Global Nodes Meeting and Training
 - GBIF committee meetings
-- GBIF Governing Board meeting 30
+- GBIF Governing Board meeting 
 - Social events
 - Biodiversity Symposium 
 
@@ -18,7 +18,7 @@ Before registering, we kindly ask you to read the requirements for registering f
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat. 
 
-Click [here](https://forms.gle/oNVGc79WZMAcFSME8).
+Click [here](https://forms.gle/oNVGc79WZMAcFSME8) to register.
 
 The registration closes on **29 September 2023**. 
 
