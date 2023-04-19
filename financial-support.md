@@ -20,7 +20,7 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 
 ### Nodes Training and Global Nodes Meeting, 15-17 October 2023
 
-Partial financial support is only available to those who will attend both the Nodes Training and Global Nodes meeting. 
+Partial financial support is only available to those who will attend both the Nodes Training and Global Nodes Meeting. 
 
 Only one person per Participant, the node manager or designated alternate, is eligible to apply for partial support. 
 
@@ -37,22 +37,23 @@ Developing countries are defined as countries whose per capita GDP was less than
 
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation. 
 
-### Attending both the Nodes Training and Global Nodes meeting and the Governing Board meeting?
+### Attending both the Nodes Training and Global Nodes Meeting and the Governing Board meeting?
 
-Individuals attending both the Nodes Training and Global Nodes meeting and the Governing Board meeting may apply for support for one return flight and accommodation to cover the period of both events. 
+Individuals attending both the Nodes Training and Global Nodes Meeting and the Governing Board meeting may apply for support for one return flight and accommodation to cover the period of both events. 
 
 
 ## How to apply
 
-Fill in the financial application form ADD LINK and submit no later than **30 May 2023**. Applications received after the deadline will not be considered.   
+Fill in the GB30 partial financial application form [here](https://forms.gle/xWmHhRPcWzX5v2N68) and submit no later than **30 May 2023**.   
+**Applications received after the deadline will not be considered.**   
 
 The application form must include the following information:
-- A confirmation that the attendees will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket. 
+- A confirmation that the attendees will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket (direct economy-class ticket from home country to Canberra and back only). 
 - The number of hotel nights requested
 - A confirmation that the attendee will be able to cover all other costs (visa, health insurance, per diem, etc.)
-- Confirmation of whether the attendee will cover the air ticket costs 
 
-**Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send you the reimbursement form for the accommodation subsidy and air ticket costs if not already covered directly by GBIF. The reimbursement form must be submitted togethet with proof of costs within one month after the meeting.**  
+
+**Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send you the reimbursement form for the accommodation subsidy and air ticket costs (if not already covered directly by GBIF). The reimbursement form must be submitted togethet with proof of costs within one month after the meeting.**  
 
 If you have any questions, please contact the GBIF Secretariat at [GB30@gbif.org](mailto:GB30@gbif.org).
 
