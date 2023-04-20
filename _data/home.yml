@@ -28,7 +28,7 @@ cards:
     background: /assets/images/GB30-card-bg-10-a.jpg
     href: /meeting-documents
   - title: Financial support
-    description: Apply for financial support. Deadline: 30 May 2023.
+    description: "Apply for financial support. Deadline: 30 May 2023."
     background: /assets/images/GB30-card-bg-11.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
