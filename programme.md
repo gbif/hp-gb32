@@ -11,6 +11,7 @@ The GB30 meeting and associated events will take place in Canberra, Austalia in 
 
 Prior to the GB30 events, the [TDWG 2023 Conference](https://www.tdwg.org/conferences/2023/) takes place on 9-13 October in Hobart, Tasmania and some GB30 attendees may also be attending this conference.  
 
+
 ## Printable GB30 PDF programme
 
 Download a printable one-page overview of the GB30 meeting and associated events.
@@ -19,12 +20,13 @@ Download a printable one-page overview of the GB30 meeting and associated events
 
 ## List of events
 Below is a list of all the events associated with GB30. 
+Unless stated below, both in-person and virtual attendance is possible.  
 
 Please read the information carefully before registering. 
 
 ### Sunday, 15 October 2023
 
-**Nodes Training - Day 1**  
+**Nodes Training - Day 1**  (no virtual attendance)  
 Time: 09:00-17:00  
 Venue: CSIRO offices  
 
@@ -32,7 +34,7 @@ Venue: CSIRO offices
 
 ### Monday, 16 October 2023
 
-**Nodes Training - Day 2**  
+**Nodes Training - Day 2**  (no virtual attendance)  
 Time: 09:00-17:00  
 Venue: CSIRO offices  
 
@@ -71,7 +73,7 @@ Venue: ALA offices
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**  
-Yime: 18:30-20:30   
+Time: 18:30-20:30   
 Venue: National Portrait Gallery  
 
 *All GBIF Node managers and nodes staff, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
