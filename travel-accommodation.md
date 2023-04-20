@@ -51,9 +51,9 @@ Australia has strict biosecurity and border controls in place to protect Austral
 
 Canberra is the capital of Australia and occupies part of the Australian Capital Territory (ACT), in south-eastern Australia; Canberra is situated inland between the cities of Sydney and Melbourne. Canberra was founded as the Capital City of Australia, and the seat of Australian Government in 1913.  
 
-Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet.  
-
 ![Canberra, photo by Freesally from Pixabay](/assets/images/Canberra.jpg){:standalone}
+
+Canberra is located on the lands of the Ngunnawal people, the Indigenous people of this region and the traditional owners of the land on which we will meet. 
 
 ### Canberra by plane 
  
@@ -85,7 +85,9 @@ The [Neighbourhood Guide](https://visitcanberra.com.au/traveller-information/gui
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
 
-The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly with the hotels by using the specific reservation codes. As it will be a Parliamentary sitting week in Canberra, we suggest booking early.    
+The local organisers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly with the hotels by using the specific reservation codes.   
+
+**As it will be a Parliamentary sitting week in Canberra, we suggest booking early.**    
 
 We have listed below some nearby hotels which will have available rooms for GB30 attendees. The possibilities of accommodation near the GB30 venues are not limited to these hotels and we suggest having a look at [booking.com](https://www.booking.com/searchresults.en-gb.html?aid=2198085&label=canberra-EIZFgorNygbd3MVN9E7aZAS556442970452%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-361480122408%3Alp1000142%3Ali%3Adec%3Adm&sid=6e1cc8ba5fc68fe7f69b5029847e5120&sb=1&sb_lp=1&src=theme_landing_city&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fbooking-home%2Fcity%2Fau%2Fcanberra.en-gb.html%3Faid%3D2198085%26label%3Dcanberra-EIZFgorNygbd3MVN9E7aZAS556442970452%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-361480122408%253Alp1000142%253Ali%253Adec%253Adm%26sid%3D6e1cc8ba5fc68fe7f69b5029847e5120%26&order=upsort_bh&top_ufis=0&theme_id=74&theme_source=theme_landing_city&ss=Canberra&is_ski_area=0&ssne=Canberra&ssne_untouched=Canberra&dest_id=-1563952&dest_type=city&checkin_year=2023&checkin_month=10&checkin_monthday=14&checkout_year=2023&checkout_month=10&checkout_monthday=21&efdco=1&group_adults=1&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1) or [AirBnB](https://www.airbnb.com.au/s/Canberra--Australia/homes?adults=1&place_id=ChIJIZBcsGlNFmsRYFZpp27qAAU&refinement_paths%5B%5D=%2Fhomes&checkin=2023-10-14&checkout=2023-10-21).
 
@@ -111,19 +113,9 @@ Block booking of 25 rooms
 80 Northbourne Avenue, Canberra  
 [Hotel website](https://book-directonline.com/avenuedirect/properties/avenuedirect/about?locale=en&_gads_gcid=751303339&_gads_gclabel=4F6CCNCE-qIBEKv1n-YC&_gha_gcid=100087500&_gha_phid=e293f477-0163-4bff-84dc-b4762353de22&_src=DemandPlus&booking_source=organic&campaign_id=&checkInDate=2023-10-14&checkOutDate=2023-10-21&country=AU&currency=AUD&device=desktop&meta=Google&utm_source=GoogleHotelAds&items%5b0%5d%5badults%5d=2&items%5b0%5d%5bchildren%5d=0&items%5b0%5d%5binfants%5d=0&trackPage=yes)  
 Rate: 20% discount for GB2023 attendees; AUD 233-599/night  
-Reservation website here  LINK MISSING
-Reservation code: CODE MISSING
+Reservation website [here](https://avenuehotel.com.au/)    
+Reservation code: GBIF23  
 *Info: 5 star hotel, 213 rooms, 1.7km from CSIRO, 20 minutes’ walk; 3.4km from National Portrait Gallery, 7 minute drive*
-
-**Novotel Canberra** NOT CONFIRMED  
-65 Northbourne Avenue, Canberra  
-[Hotel website](https://all.accor.com/hotel/2796/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  
-Rate: AUD xx/night  RATE MISSING
-Reservation website here  LINK MISSING  
-Reservation code:  CODE MISSING  
-Block booking of 25 rooms (not confirmed)  
-*Info: 4.5 star hotel, 286 rooms, 1.7km from CSIRO, 20 minutes’ walk*  
-
 
 A map with the location of hotels and venues can be found [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14)  
 
@@ -131,39 +123,43 @@ A map with the location of hotels and venues can be found [here](https://www.goo
 ## Venues
 
 **15 October**
-- CSIRO - Nodes Training  
+- CSIRO offices - Nodes Training  
 
 **16 October** 
-- CSIRO - Nodes Training 
+- CSIRO offices - Nodes Training and meeting of the Nodes Steering Group
 
 **17 October**
-- CSIRO - Global Nodes meeting
-- CSIRO - GBIF committee meetings (Budget Committee, Science Committee, Nodes Steering Group and Executive Committee)
+- CSIRO offices - Global Nodes Meeting
+- ALA offices - GBIF committee meetings (Budget Committee, Science Committee and Executive Committee)
 - National Portrait Gallery - Icebreaker
 
 **18 October**
-- National Portrait Gallery - Governing Board meeting Day 1
-- National Museum of Australia - Dinner
+- National Portrait Gallery - Governing Board meeting Day 1  
+- National Museum of Australia - Dinner  
 
 **19 October**
-- National Portrait Gallery - Governing Board meeting Day 2  
+- National Portrait Gallery - Governing Board meeting Day 2 and meeting of the Executive Committee  
 
 **20 October**
 - CSIRO Discovery Theatre - Biodiversity Symposium  
 
 
-### CSIRO 
-**Commonwealth Scientific and Industrial Research Organisation (CSIRO), Clunies Ross Street, Acton**  
+### CSIRO offices
+**Commonwealth Scientific and Industrial Research Organisation (CSIRO), Clunies Ross Street, Acton, Canberra**  
 
-*The Nodes Training and Global Nodes meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.*  
+*The Nodes Training, meeting of the Nodes Steering Group and the Global Nodes Meeting will take place at CSIRO’s Canberra Headquarters on 15-17 October.*  
 
 ![CSIRO, photo by Jian-Wei Liu](/assets/images/CSIRO.jpg){:standalone}
 
 CSIRO is the Australian Government agency responsible for scientific research, and works with industry, government, the research community, and leading organisations around the world to turn science into solutions to address Australia’s greatest challenges.   
 
+### ALA offices
+**ALA offices, B279, CSIRO Black Mountain Laboratories, Clunies Ros Street, Acton, Canberra**
+
+*The meetings of the GBIF Budget, Science and Executive committees will take place at the ALA offices on 17 October.*  
 
 ### National Portrait Gallery
-**National Portrait Gallery, King Edward Terrace, Parkes**  
+**National Portrait Gallery, King Edward Terrace, Parkes, Canberra**  
 
 *The Icebreaker and Governing Board meeting will take place at the National Portrait Gallery on the southern shores of Lake Burley Griffin on 18-19 October.*
 
@@ -173,7 +169,7 @@ The National Portrait Gallery is one of Canberra’s most remarkable cultural in
 
 
 ### National Museum of Australia
-**National Museum of Australia, Lawson Crescent, Acton**  
+**National Museum of Australia, Lawson Crescent, Acton, Canberra**  
 
 *The hosted dinner will take place in the Gandel Atrium, National Museum of Australia on the evening of 18 October.*
 
@@ -183,9 +179,9 @@ The Museum brings to life the rich and diverse stories of Australia through comp
 
 
 ### CSIRO Discovery Building
-**CSIRO Discovery Building, North Science Road, Acton**
+**CSIRO Discovery Building, North Science Road, Acton, Canberra**
 
-*The GBIF Committee meetings will take place in the CSIRO Discovery Building on 17 October. The post-GB30 Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
+*The post-GB30 Biodiversity Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
 
 ![CSIRO Discovery - TripAdvisor, WinnieW](/assets/images/Discovery Centre.jpg){:standalone}
 
