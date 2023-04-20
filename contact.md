@@ -14,8 +14,9 @@ Please contact the GBIF Secretariat if you have any questions regarding the foll
 - if you need an invitation letter.  
 
 GBIF Secretariat  
-Email: [GB30@gbif.org](mailto:GB30@gbif.org)
+Email: [GB30@gbif.org](mailto:GB30@gbif.org)  
 Phone: +45 35 32 14 70  
+
 
 Please contact the national host if you have any questions regarding practical information relating to your stay in Canberra:  
 
@@ -29,5 +30,5 @@ Phone: +61 413 233 952
 
 Heather Walsh, Atlas of Living Australia  
 Email: [heather.walsh@csiro.au](heather.walsh@csiro.au)  
-Phhone: +61 401 228 620  
+Phone: +61 401 228 620  
 
