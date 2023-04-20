@@ -105,7 +105,7 @@ Venue: TBC
 *The meeting is open to members of the GBIF Executive Committee* 
 
 ### Friday 20 October 2023
-**Biodiversity Symposium**  
+**Biodiversity Symposium**  (no virtual attendance)  
 Time: 09:00-17:00   
 Venue: CSIRO Discovery Centre  
 
