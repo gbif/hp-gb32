@@ -13,7 +13,9 @@ columns:
     
   - name: sponsors
     description: |
-    
+    [Atlas of Living Australia (ALA)](http://ala.org.au/)
+    [National Research Collections Australia](https://www.csiro.au/en/about/facilities-collections/Collections)
+    [GBIF](https://www.gbif.org/)
 
 # EXAMPLE
 #- name: Group name
