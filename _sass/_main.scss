@@ -60,3 +60,17 @@ a {
 box-shadow: 2.01043701171875px 4.0104169845581055px 3px rgba(0, 0, 0, 0.06);
 border: 1px solid #cccccc;
 }
+
+// sponsors images
+
+  .image-sponsors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .image-sponsors img {
+    max-width: calc(100% / 3 - 10px);
+    height: auto;
+    margin: 5px;
+  }
