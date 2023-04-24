@@ -14,8 +14,6 @@ The [Atlas of Living Australia (ALA)](http://ala.org.au/) is Australia’s natio
 
 ---
 
-## Sponsored by
-
 <div class="image-sponsors">
   <img src="/assets/images/ALA-1.png" />
   <img src="/assets/images/csiro.png" /> 
