@@ -105,9 +105,12 @@ Venue: TBC
 *The meeting is open to members of the GBIF Executive Committee* 
 
 ### Friday 20 October 2023
-**Biodiversity Symposium**  (no virtual attendance)  
+**National Symposium: The Role of Biological Collections in Australia's Science-Policy Interface**  (no virtual attendance)  
 Time: 09:00-17:00   
 Venue: CSIRO Discovery Centre  
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers*  
+
+Biological collections' fundamental role in supporting Australian and international science, decision-making and industry has received renewed recognition in recent years. The decadal plan for taxonomy and biosystematics in Australia and New Zealand, the National Research Infrastructure Roadmap’s call for a Step Change around a national approach to collections, and a transformational investment in digitising our biological collections in several major state collections create new opportunities and challenges for how best to leverage this capability to support Australia’s innovation system and government policy needs. This symposium will bring together international and national stakeholders to explore the future role of biological collections in Australia’s innovation system and as a core element of Australia’s operational biodiversity data system. The symposium will also explore emerging drivers at the Australian policy-science interface for more globally connected biological collections data.  
+
 
