@@ -25,3 +25,8 @@ The [Atlas of Living Australia (ALA)](http://ala.org.au/) is Australia’s natio
   <a href="https://www.csiro.au"><img src="/assets/images/csiro.png" style="display:inline-block; margin-right:10px;" /></a> 
   <a href="https://www.gbif.org"><img src="/assets/images/gbif-s.png" style="display:inline-block;" /></a>
 </div>
+
+|   |   |   |
+|---|---|---|
+| [<img src="/assets/images/ALA-1.png" width="200px">](https://www.ala.org.au) | [<img src="/assets/images/csiro.png" width="200px">](https://www.csiro.au) | [<img src="/assets/images/gbif-s.png" width="200px">](https://www.gbif.org) |
+
