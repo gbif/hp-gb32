@@ -12,7 +12,6 @@ The [Atlas of Living Australia (ALA)](http://ala.org.au/) is Australia’s natio
 
 [National Research Collections Australia](https://www.csiro.au/en/about/facilities-collections/Collections) is Australia’s national biological collection focused on discovering, exploring and managing Australia’s unique biodiversity.  The collection consists of 15+ million specimens of plants and animals from Australia and the Indo-pacific region along with associated tissue samples, DNA sequences, images and metadata.  The collection supports research on biodiversity discovery, biosecurity, bioprospecting, indigenous knowledge, environmental monitoring and ecosystem management.  
 
-
 |   |   |   |
 |---|---|---|
 | [<img src="/assets/images/ALA-1.png" width="200px">](https://www.ala.org.au) | [<img src="/assets/images/csiro.png" width="200px">](https://www.csiro.au) | [<img src="/assets/images/gbif-s.png" width="200px">](https://www.gbif.org) |
