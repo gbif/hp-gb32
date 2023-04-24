@@ -77,3 +77,19 @@ border: 1px solid #cccccc;
   .image-sponsors a {
     display: inline-block;
   }
+
+footer ul.sponsors-footer {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+footer ul.sponsors-footer li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+footer ul.sponsors-footer li:last-child {
+  margin-right: 0;
+}
