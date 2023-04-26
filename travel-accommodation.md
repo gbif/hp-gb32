@@ -232,7 +232,7 @@ Canberra is one of the safest cities in the world, with a safety score of 86.
 More information:  
 Travel advisory from US Department of State: [travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html).  
 
-Travel Safe Abroad: 8www.travelsafe-abroad.com/australia/canberra/](https://user-images.githubusercontent.com/19302703/221866698-15597dc4-b7b2-42b4-96e8-064db432a28a.png)
+Travel Safe Abroad: [www.travelsafe-abroad.com/australia/canberra/](https://www.travelsafe-abroad.com/australia/canberra/)
 
 ### Telecommunication and internet (mobile phone networks, internet services)
 There is good coverage of 4G and 5G networks in Canberra. Hotels and venues will offer free Wi-Fi connections.  
