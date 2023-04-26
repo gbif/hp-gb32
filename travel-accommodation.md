@@ -158,6 +158,8 @@ CSIRO is the Australian Government agency responsible for scientific research, a
 
 *The meetings of the GBIF Budget, Science and Executive committees will take place at the ALA offices on 17 October.*  
 
+![ALA offices, Building 279](/assets/images/CSIRO_B279_ALA.jpg){:standalone}
+
 ### National Portrait Gallery
 **National Portrait Gallery, King Edward Terrace, Parkes, Canberra**  
 
