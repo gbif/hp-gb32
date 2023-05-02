@@ -83,7 +83,7 @@ Venue: National Portrait Gallery
 Time: 09:00-17:00   
 Venue: National Portrait Gallery  
 
-*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*
+*The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
 **GB30 Dinner**  
 Time: 18:30-22:00   
@@ -96,7 +96,7 @@ Venue: National Museum of Australia
 Time: 09:00-17:00   
 Venue: National Portait Gallery  
 
-*The meeting is open to Governing Board delegates, GBIF committee members and and invited observers*  
+*The meeting is open to Governing Board delegates, GBIF committee members and invited observers*  
 
 **Executive Committee meeting 2**  
 Time: 17:00-18:00   
