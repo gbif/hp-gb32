@@ -94,7 +94,7 @@ Venue: National Museum of Australia
 ### Thursday 19 October 2022
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: National Portait Gallery  
+Venue: National Portrait Gallery  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*  
 
