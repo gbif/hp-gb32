@@ -72,7 +72,7 @@ Venue: ALA offices
 
 *The meeting is open to members of the GBIF Executive Committee*
 
-**Icebreaker**  
+**Icebreaker**  (no virtual attendance)   
 Time: 18:30-20:30   
 Venue: National Portrait Gallery  
 
@@ -85,7 +85,7 @@ Venue: National Portrait Gallery
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
-**GB30 Dinner**  
+**GB30 Dinner**  (no virtual attendance)   
 Time: 18:30-22:00   
 Venue: National Museum of Australia  
 
