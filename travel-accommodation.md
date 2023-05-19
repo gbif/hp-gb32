@@ -117,6 +117,30 @@ Reservation website [here](https://avenuehotel.com.au/)
 Reservation code: GBIF23  
 *Info: 5 star hotel, 213 rooms, 1.7km from CSIRO, 20 minutes’ walk; 3.4km from National Portrait Gallery, 7 minute drive*
 
+**Burbury Hotel**  
+1 Burbury Close, Barton  
+[Hotel website](http://www.burburyhotel.com.au/)  
+15% discount for GB2023 attendees  
+Reservation code: EVENT  
+Rate: from $263 (before discount)  
+*Info: 4.5 star hotel, 152 rooms, 6.4km from CSIRO, 10 minutes’ drive; 1.5km  from National Portrait Gallery, 18 minute walk*  
+
+**Little National Hotel**  
+21 National Circuit, Barton  
+[Hotel website](http://www.littlenationalhotel.com.au/)  
+15% discount for GB2023 attendees  
+Reservation code: EVENT  
+Rate: from $263 (before discount)  
+*Info: 4 star hotel, 230 rooms, 6.4km from CSIRO, 10 minutes’ drive; 1.4km from National Portrait Gallery, 18 minute walk*  
+
+**Brassey Hotel**  
+Belmore Gardens & Macquarie Street, Barton  
+[Hotel website](http://www.brasseyhotel.com.au/)  
+15% discount for GB2023 attendees  
+Reservation code: EVENT  
+Rate from $215 (before discount)  
+*Info: 4 star hotel, 80 rooms, 7.8km from CSIRO, 10 minutes’ drive; 2.3km from National Portrait Gallery, 18 minute walk*  
+
 A map with the location of hotels and venues can be found [here](https://www.google.com/maps/d/edit?mid=1fn2iNjaRK2Rnrasbi4UceBlIH6yTpWc&ll=-35.28844479942971%2C149.15202129999997&z=14)  
 
 
