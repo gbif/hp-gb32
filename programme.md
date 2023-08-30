@@ -26,8 +26,8 @@ Please read the information carefully before registering.
 
 ### Tuesday, 19 September 2023
 
-**2023 Global Nodes Events Launch** (virtual event)
-More information at [here](https://www.gbif.org/event/1cdb04-93c3-4552-ac4c-d856eda/2023-global-nodes-events-launch)  
+**2023 Global Nodes Events Launch** (virtual event)  
+More information [here](https://www.gbif.org/event/1cdb04-93c3-4552-ac4c-d856eda/2023-global-nodes-events-launch)  
 
 
 
