@@ -24,6 +24,13 @@ Unless stated below, both in-person and virtual attendance is possible.
 
 Please read the information carefully before registering. 
 
+### Tuesday, 19 September 2023
+
+**2023 Global Nodes Events Launch** (virtual event)
+More information at [here](https://www.gbif.org/event/1cdb04-93c3-4552-ac4c-d856eda/2023-global-nodes-events-launch)  
+
+
+
 ### Sunday, 15 October 2023
 
 **Nodes Training - Day 1**  (no virtual attendance)  
