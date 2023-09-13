@@ -155,7 +155,7 @@ A map with the location of hotels and venues can be found [here](https://www.goo
 **17 October**
 - CSIRO offices - Global Nodes Meeting
 - ALA offices - GBIF committee meetings (Budget Committee, Science Committee and Executive Committee)
-- National Portrait Gallery - Icebreaker
+- Pollen Cafe - Icebreaker  **NOTE - NEW VENUE**  
 
 **18 October**
 - National Portrait Gallery - Governing Board meeting Day 1  
@@ -184,10 +184,18 @@ CSIRO is the Australian Government agency responsible for scientific research, a
 
 ![ALA offices, Building 279](/assets/images/CSIRO_B279_ALA.jpg){:standalone}
 
+### Pollen Cafe
+**Pollen Cafe, Australian National Botanic Gardens, Clunies Ross Street, Acton, Canberra**
+
+![Pollen Cafe, photo by Jonathan Phoon](/assets/images/Pollen.jpg){:standalone}
+
+*Please note that this event was previously announced as taking place at the National Portrait Gallery, but this has changed to the Pollen Cafe.*  
+*Set in the heart of the Australian Botanic Gardens in Canberra, Pollen is a design focused space with an atmosphere of relaxed elegance, surrounded by the beauty of the world’s most diverse collection of Australian plants.* 
+
 ### National Portrait Gallery
 **National Portrait Gallery, King Edward Terrace, Parkes, Canberra**  
 
-*The Icebreaker and Governing Board meeting will take place at the National Portrait Gallery on the southern shores of Lake Burley Griffin on 18-19 October.*
+*The Governing Board meeting will take place at the National Portrait Gallery on the southern shores of Lake Burley Griffin on 18-19 October.*
 
 ![National Portrait Gallery, photo by National Portrait Gallery](/assets/images/NPG.jpg){:standalone}
 
