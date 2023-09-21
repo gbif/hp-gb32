@@ -37,15 +37,17 @@ More information [here](https://www.gbif.org/event/1cdb04-93c3-4552-ac4c-d856eda
 Time: 09:00-17:00  
 Venue: CSIRO offices  
 
-*This meeting is open to GBIF node managers and node staff*
+*This meeting is open to GBIF node managers and node staff.*  
+*More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 ### Monday, 16 October 2023
 
 **Nodes Training - Day 2**  (no virtual attendance)  
 Time: 09:00-17:00  
 Venue: CSIRO offices  
-
-*This meeting is open to GBIF node managers and nodes staff*
+ 
+*This meeting is open to GBIF node managers and nodes staff*  
+*More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 **Nodes Steering Group meeting**  
 Time: 17:30-19:00   
@@ -59,7 +61,8 @@ Venue: CSIRO offices
 Time: 09:00-17:00  
 Venue: CSIRO offices  
 
-*This meeting is open to GBIF node managers and nodes staff*
+*This meeting is open to GBIF node managers and nodes staff*  
+*More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
