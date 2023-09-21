@@ -81,7 +81,7 @@ Venue: ALA offices
 
 **Icebreaker**  (no virtual attendance)   
 Time: 18:30-20:30   
-Venue: National Portrait Gallery  
+Venue: Pollen Cafe, Australian Botanic Gardens in Canberra  
 
 *All GBIF Node managers and nodes staff, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
