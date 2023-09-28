@@ -115,8 +115,8 @@ Venue: TBC
 *The meeting is open to members of the GBIF Executive Committee* 
 
 ### Friday 20 October 2023
-**National Symposium: The Role of Biological Collections in Australia's Science-Policy Interface**  (no virtual attendance)  
-Time: 09:00-17:00   
+**Symposium: The changing face of biological collections - data, science and applications**  (no virtual attendance)  
+Time: 10:00-16:00   
 Venue: CSIRO Discovery Centre  
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers*  
