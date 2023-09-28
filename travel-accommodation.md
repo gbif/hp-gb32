@@ -215,7 +215,7 @@ The Museum brings to life the rich and diverse stories of Australia through comp
 ### CSIRO Discovery Building
 **CSIRO Discovery Building, North Science Road, Acton, Canberra**
 
-*The post-GB30 Biodiversity Symposium will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
+*The post-GB30 Symposium, 'The changing face of biological collections - data, science and applications', will be held in the CSIRO Discovery Building Lecture Theatre on 20 October.*
 
 ![CSIRO Discovery - TripAdvisor, WinnieW](/assets/images/Discovery Centre.jpg){:standalone}
 
