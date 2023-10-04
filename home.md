@@ -13,9 +13,6 @@ imageLicense: |
 height: 85vh
 parallax: true
 cta:
-  - text: Register now
-    href: /registration
-    isPrimary: true
   - text: Venue
     href: /travel-accommodation/#venues
 permalink: /
