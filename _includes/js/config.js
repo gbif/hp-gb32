@@ -11,9 +11,9 @@ var siteConfig = {
   },
   routes: {
     occurrenceSearch: {
-      url: ({basename}) => `${basename ? `/${basename}` : ''}/biodiversity-of-canberra`,
+      url: ({basename}) => `${basename ? `/${basename}` : ''}/biodiversity-of-porto`,
       isHref: true,
-      route: '/biodiversity-of-canberra' // the route you are currently using for occurrence search
+      route: '/biodiversity-of-porto' // the route you are currently using for occurrence search
     }
   },
   occurrence: {
@@ -23,15 +23,15 @@ var siteConfig = {
         {
           "type": "equals",
           "key": "gadmGid",
-          "value": "AUS.2.1_1"
+          "value": "PRT.15_1"
         },
       ]
     },
     highlightedFilters: ['taxonKey', 'occurrenceStatus', 'year', 'datasetName', 'occurrenceIssue', 'datasetKey'],
     mapSettings: {
       zoom: 11.78,
-      lng: 149.1200429101405,
-      lat: -35.31902952444375
+      lng: 8.6291,
+      lat: 41.1579
     }
   }
 };
