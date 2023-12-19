@@ -41,9 +41,9 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=AUS.2.1_1&limit=0">890,000</span> occurrences in Australian Capital Territory
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=PRT.15_1&limit=0">550,000</span> occurrences in the municipality of Porto
   description: |      # required
-    Check out the GBIF data for Australian Capital Territory.
+    Check out the GBIF data for Porto.
   # img required
   background: /assets/images/GB30-card-bg-13.jpg
   imageLicense: |
