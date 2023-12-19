@@ -48,8 +48,8 @@ occurrences:
   background: /assets/images/GB30-card-bg-13.jpg
   imageLicense: |
     GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-  href: /biodiversity-of-canberra?view=MAP
+  href: /biodiversity-of-porto?view=MAP
   cta:
   - text: Explore the area
-    href: /biodiversity-of-canberra?view=MAP
+    href: /biodiversity-of-porto?view=MAP
     isPrimary: true
