@@ -1,5 +1,3 @@
-[![Build Status](https://builds.gbif.org/job/hp-gb30/badge/icon)](https://builds.gbif.org/job/hp-gb30/lastBuild/console)
+[![Build Status](https://builds.gbif.org/job/hp-gb31/badge/icon)](https://builds.gbif.org/job/hp-gb31/lastBuild/console)
 
-# GBIF 29th Governing Board Meeting website
-
-in progress
+# GBIF 31st Governing Board Meeting website
