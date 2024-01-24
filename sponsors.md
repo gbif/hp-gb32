@@ -8,9 +8,9 @@ imageLicense: |
 
 ## About the sponsors  
 
-The [Atlas of Living Australia (ALA)](http://ala.org.au/) is Australia’s national biodiversity data infrastructure. ALA is a collaborative, digital, open database that pulls together Australian biodiversity data from multiple sources, making them accessible and reusable. With over 100 million species occurrence records to date, ALA creates a more detailed picture of Australia’s biodiversity, enabling scientists, policy makers, environmental planners and land managers, industry and the general public to work more efficiently.  
+WILL THERE BE ANY SPONSORS WE NEED TO MENTION HERE?
 
-[National Research Collections Australia](https://www.csiro.au/en/about/facilities-collections/Collections) is Australia’s national biological collection focused on discovering, exploring and managing Australia’s unique biodiversity.  The collection consists of 15+ million specimens of plants and animals from Australia and the Indo-pacific region along with associated tissue samples, DNA sequences, images and metadata.  The collection supports research on biodiversity discovery, biosecurity, bioprospecting, indigenous knowledge, environmental monitoring and ecosystem management. 
+REMEMBER TO REPLACE LOGOS BELOW.
 
 |   |   |   |
 |---|---|---|
