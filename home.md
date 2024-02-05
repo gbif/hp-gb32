@@ -6,7 +6,7 @@ description: |
   The 31st meeting of the GBIF Governing Board and associated events,  
   Porto, Portugal,  
   ** October 2024
-background: /assets/images/GB30-1.jpg
+background: /assets/images/GB31-bg.jpg
 imageLicense: |
   GBIF secretariat 2022 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
