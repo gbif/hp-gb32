@@ -1,7 +1,7 @@
 ---
 title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/gb30-programme-bg2.jpg
+background: /assets/images/GB31-h-17.jpg
 imageLicense: |
   Illustration of [*Vombatus ursinus* (Shaw, 1800)](https://www.gbif.org/species/2440301) from The mammals of Australia. Sydney: Thomas Richards, 1871. Via [flickr](https://flic.kr/p/re5gfN)
 toc: true
