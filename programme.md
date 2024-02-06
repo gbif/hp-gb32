@@ -3,7 +3,7 @@ title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB31-h-17.jpg
 imageLicense: |
-  Illustration of [*Vombatus ursinus* (Shaw, 1800)](https://www.gbif.org/species/2440301) from The mammals of Australia. Sydney: Thomas Richards, 1871. Via [flickr](https://flic.kr/p/re5gfN)
+  Illustration of a peregrine falcon [*Falco peregrinus* Tunstall, 1771](https://www.gbif.org/species/2481047) from The birds of Shakespeare. Glasgow: James Maclehose and sons, 1916. Via [flickr](https://flic.kr/p/2m6MZjC)
 toc: true
 ---
 
