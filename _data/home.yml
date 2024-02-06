@@ -45,7 +45,7 @@ occurrences:
   description: |      # required
     Check out the GBIF data for Porto.
   # img required
-  background: /assets/images/GB30-card-bg-13.jpg
+  background: /assets/images/GB31-bg.jpg
   imageLicense: |
     GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   href: /biodiversity-of-porto?view=MAP
