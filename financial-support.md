@@ -3,7 +3,7 @@ title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB31-h-14.jpg
 imageLicense: |
-  Illustration of a nest and egg of *Ailuroedus viridis* from Descriptive catalogue of the nests & eggs of birds found breeding in Australia and Tasmania, 1889. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m5SSsM)
+  Illustration of a Fire salamander *Salamandra salamandra* (Linnaeus, 1758) from Recherches embryologiques, histologiques et physiologiques sur les glandes à venin de la salamandre terrestre. Paris, 1900. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m4UnCV)
 ---
 
 The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on XX-XX XXXXX 2024. Support may include funding of economy-class tickets and a subsidy to cover accommodation. 
