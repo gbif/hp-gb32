@@ -47,7 +47,7 @@ occurrences:
   # img required
   background: /assets/images/GB31-bg.jpg
   imageLicense: |
-    GBIF secretariat 2022 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    GBIF secretariat 2024 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   href: /biodiversity-of-porto?view=MAP
   cta:
   - text: Explore the area

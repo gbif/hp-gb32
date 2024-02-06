@@ -8,7 +8,7 @@ description: |
   ** October 2024
 background: /assets/images/GB31-bg.jpg
 imageLicense: |
-  GBIF secretariat 2022 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+  GBIF secretariat 2024 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
 height: 85vh
 parallax: true
