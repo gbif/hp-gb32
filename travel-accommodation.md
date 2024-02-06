@@ -1,7 +1,7 @@
 ---
 title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB30-hero-bg-10-14-a.jpg
+background: /assets/images/GB31-h-15.jpg
 imageLicense: |
   Illustration of a Pride of India [*Lagerstroemia speciosa* (L.) Pers.](https://www.gbif.org/species/3188724)from Plants of the coast of Coromandel. 1795-1819. Via the [Biodiversity Heritage Library](https://flic.kr/p/dHb3tY)
 toc: true

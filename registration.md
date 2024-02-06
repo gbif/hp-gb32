@@ -1,7 +1,7 @@
 ---
 title: Registration
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB30-hero-bg-10-15.jpg
+background: /assets/images/GB31-h-12.jpg
 imageLicense: |
   Illustration of [*Podacanthus wilkinsoni* Macleay, 1881](https://www.gbif.org/species/1413050) from Australian insects. Brooks, 1907. Via the [Biodiversity Heritage Library](https://flic.kr/p/c5gx7j)
 ---
