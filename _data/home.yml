@@ -1,7 +1,7 @@
 cards:
-  title: Welcome to Porto, Portugal
+  title: Welcome to XXXX, Portugal
   description: |
-    NAME OF HOST, on behalf of Portugal, are pleased to host the 31st meeting (GB31) of the GBIF Governing Board in Porto, Portugal. 
+    NAME OF HOST, on behalf of Portugal, are pleased to host the 31st meeting (GB31) of the GBIF Governing Board in XXXX, Portugal. 
     
     For a full description of the individual events taking place, please visit the [programme page](/programme). 
    
@@ -9,7 +9,7 @@ cards:
     
   features: 
   - title: Programme
-    description: See the detailed programme for the events. To get a quick overview of the events, download the one-page overview.
+    description: See the detailed programme for the events and download the one-page overview of all the events.
     background: /assets/images/GB31-feat-08.jpg
     href: /programme
     cta: 
@@ -25,7 +25,7 @@ cards:
     background: /assets/images/GB31-feat-10.jpg
     href: /meeting-documents
   - title: Financial support
-    description: "Apply for financial support. Deadline: 30 May 2023."
+    description: "Apply for financial support. Deadline: XXXXX 2024."
     background: /assets/images/GB31-feat-03.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
