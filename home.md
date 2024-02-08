@@ -4,7 +4,7 @@ layout: home
 title: GB31 Portugal
 description: |
   The 31st meeting of the GBIF Governing Board and associated events,  
-  Porto, Portugal,  
+  XXX, Portugal,  
   ** October 2024
 background: /assets/images/GB31-bg.jpg
 imageLicense: |
