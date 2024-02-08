@@ -16,7 +16,7 @@ Deadline for applying is **XX XXXX 2024**.
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
 
-##Guidelines for seeking partial funding
+## Guidelines for seeking partial funding
 
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries that are in good standing in regard to GBIF financial contributions. 
 
@@ -24,7 +24,7 @@ Developing countries are defined as countries whose per capita GDP was less than
 
 Only one person per Voting Participant, the Head of Delegation, is eligible for partial support. However, the Head of Delegation can reassign the support to a member of the delegation. 
 
-##How to apply
+## How to apply
 
 Fill in the GB31 partial financial support application form here ADD LINK and submit it no later than **XX XXXXX 2024**. 
 
