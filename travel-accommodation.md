@@ -3,7 +3,7 @@ title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB31-h-15.jpg
 imageLicense: |
-  Illustration of a Pride of India [*Lagerstroemia speciosa* (L.) Pers.](https://www.gbif.org/species/3188724)from Plants of the coast of Coromandel. 1795-1819. Via the [Biodiversity Heritage Library](https://flic.kr/p/dHb3tY)
+  Illustration of a Portuguese Man O' War [*Physalia physalis* (Linnaeus, 1758).](https://www.gbif.org/species/2264734)from Manuel d'actinologie ou de zoophytologie. Paris, 1834-1836. Via the [Biodiversity Heritage Library](https://flic.kr/p/bSQdzZ)
 toc: true
 mobileToc: true
 ---
