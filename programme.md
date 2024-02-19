@@ -7,7 +7,7 @@ imageLicense: |
 toc: true
 ---
 
-The GB31 meeting and associated events will take place in Porto, Portugal, Austalia in the period XX-XX XXXXXX 2024.  
+The GB31 meeting and associated events will take place in XXX, Portugal, in the period 30 September - 4 October 2024.  
 
 
 
@@ -69,6 +69,12 @@ Venue: XXX
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
 ### DATE
+**National Symposium**    
+Time: XX:XX-XX:XX   
+Venue: XXX  
+
+*The symposium is open to Governing Board delegates, GBIF committee members and and invited observers*  
+### DATE
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
 Venue: XXX  
@@ -88,12 +94,7 @@ Venue: XXX
 
 *The meeting is open to members of the GBIF Executive Committee* 
 
-### DATE
-**National Symposium**    
-Time: XX:XX-XX:XX   
-Venue: XXX  
 
-*The symposium is open to Governing Board delegates, GBIF committee members and and invited observers*  
 
 
 
