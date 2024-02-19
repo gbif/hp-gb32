@@ -27,15 +27,15 @@ DO WE NEED SPECIFIC COVID-19 INFORMATION HERE? ANY OTHER SPECIFIC INFORMATION?
 
 ## Arriving in Portugal 
 
-### The meeting will take place in Vairão which is located just outside Porto. 
+The meeting will take place in Vairão which is located just outside Porto. Hotels will be available in the nearby town of Vila do Conde or in Porto. 
 
 
-### Porto or Lissbon by plane 
+### Arriving by plane 
 
 ADD INFO
 
 
-### Porto or Lissbon by train/bus
+### Arriving by train/bus
 
 ADD INFO
 
