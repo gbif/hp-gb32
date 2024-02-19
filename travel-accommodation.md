@@ -20,32 +20,22 @@ If you require an official letter of invitation for visa puposes, please contact
 ### Insurance
 Meeting attendees are advised to ensure appropriate health and travel insurance for travel to Portugal.  
 
-
-## Entering Portugal
-
 ### Covid-19
-DO WE NEED SPECIFIC COVID-19 INFORMATION HERE? ANY OTHER INFORMATION?
+DO WE NEED SPECIFIC COVID-19 INFORMATION HERE? ANY OTHER SPECIFIC INFORMATION?
 
 
 
-## Arriving in Porto 
+## Arriving in Portugal 
 
-### About Porto and Vila do Conde   MAKE SURE THAT PEOPLE KNOW THAT THE GB MEETING WILL TAKE PLACE IN VILA DO CONDE
-
-ADD INFO
+### The meeting will take place in Vairão which is located just outside Porto. 
 
 
-### Porto by plane 
+### Porto or Lissbon by plane 
 
 ADD INFO
 
 
-### Porto by train/bus
-
-ADD INFO
-
-
-## Getting to/from Vila do Conde
+### Porto or Lissbon by train/bus
 
 ADD INFO
 
@@ -62,30 +52,24 @@ A map with the location of hotels and venues can be found here  ADD LINK
 
 ## Venues
 
-**DATE**
-- VENUE INFO
-
-**DATEr**
-- VENUE INFO  
-
-
-
-
-### VENUE INFO
+### VENUE 1 INFO
 **ADDRESS**  
 
 *The GBIF committee meetings and the official Governing Board meeting will take place at XXXX on XX-XX XXXX 2024.*  
 
-### VENUE INFO
+### VENUE 2 INFO
 **ADDRESS**  
 
 *The Icebreaker will take place at XXXX on XX-XX XXXX 2024.*  
 
-### VENUE INFO
+### VENUE 3 INFO
 **ADDRESS**  
 
 *The official dinner will take place at XXXX on XX-XX XXXX 2024.*  
 
+### How to get to/from venues
+
+ADD INFO ON BUS TRANSFER
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking here ADD LINK.    
