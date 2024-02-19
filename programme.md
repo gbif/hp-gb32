@@ -8,7 +8,7 @@ toc: true
 ---
 
 The GB31 meeting and associated events will take place in XXX, Portugal, in the period 30 September - 4 October 2024.  
-
+[Pre-registration](/registration) is required for all the below events. 
 
 
 ## Printable GB31 PDF programme
@@ -94,8 +94,12 @@ Venue: XXX
 
 *The meeting is open to members of the GBIF Executive Committee* 
 
+### DATE
+**Excursion**  
+Time: XX:XX-XX:XX   
+Venue: XXX  
 
-
+*The excursion is open to Governing Board delegates, GBIF committee members and invited observers*  
 
 
 
