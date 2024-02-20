@@ -7,8 +7,8 @@ imageLicense: |
 toc: true
 ---
 
-The GB31 meeting and associated events will take place in XXX, Portugal, in the period 30 September - 4 October 2024.  
-[Pre-registration](/registration) is required for all the below events. 
+The GB31 meeting and associated events will take place in XXX, Portugal, in the period 30 September - 4 October 2024.   
+[Pre-registration](/registration) is required for all events. 
 
 
 ## Printable GB31 PDF programme
@@ -18,7 +18,9 @@ Download a printable one-page overview of the GB31 meeting and associated events
 [Download one-page programme](/assets/documents/programme.pdf){: .button .is-primary}
 
 ## List of events
-Below is a list of all the events associated with GB31. 
+Below is a list of all the events associated with GB31. Unless stated below, both in-person and virtual attendance is possible.
+
+Please read the information carefully before registering.
  
 
 Please read the information carefully before registering. 
@@ -49,7 +51,7 @@ Venue: XXX
 
 *The meeting is open to members of the GBIF Executive Committee*
 
-**Icebreaker**   
+**Icebreaker** (only in-person attendance)   
 Time: XX:XX-XX:XX   
 Venue: XXX  
 
@@ -62,7 +64,7 @@ Venue: XXX
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
-**GB31 Dinner**     
+**GB31 Dinner** (only in-person attendance)     
 Time: XX:XX-XX:XX   
 Venue: XXX  
 
@@ -95,7 +97,7 @@ Venue: XXX
 *The meeting is open to members of the GBIF Executive Committee* 
 
 ### DATE
-**Excursion**  
+**Excursion** (only in-person attendance)  
 Time: XX:XX-XX:XX   
 Venue: XXX  
 
