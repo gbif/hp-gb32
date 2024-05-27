@@ -80,8 +80,8 @@ ADD IFRAME CODING
 
 ## General information
 
-### Electricity
-XXX  
+### Electricity (voltage and which plugs to use)
+Portugal operates on 230V supply voltage and 50Hz.
 
 ### Health
 XXX  
@@ -90,13 +90,13 @@ XXX
 XXX  
 
 ### Languages
-XXX  
+Portuguese is the primary language, but English is widely spoken. 
 
-### Money
-XXX
+### Money 
+Portugal uses the euro as its currency. All of the central Portuguese banks are part of the Multibanco service which links up cash machines across the country. 
 
 ### Opening hours (for banks and shops)
-XXX
+Most shops will open from 9.00 am-5.30 pm depending on the type of commerce. Banks usually from 09.00 am-3.00 pm but offer 24-hour access to ATMs.
 
 ### Personal security
 XXX
