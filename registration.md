@@ -9,7 +9,7 @@ imageLicense: |
 Here you can register for:
 - GBIF committee meetings
 - GBIF Governing Board meeting
-- National Sympoisum
+- Sympoisum
 - Excusion  
 
 **Before registering, we kindly ask you to read the requirements for registering for the events in the 'General Terms and Conditions for the GB31 meeting and associated events'.** ADD LINK
