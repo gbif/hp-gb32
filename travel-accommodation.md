@@ -15,29 +15,18 @@ Meeting attendees are responsible for arranging their own travel and to ensure t
 
 Portugal is part of the Schengen area and any EU citizen can enter Portugal by presenting a valid identity card or passport. Nationals from countries outside the EU will need a valid passport and possibly a visa. More information [here](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm).
 
-If you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB30@gbif.org](mailto:GB30@gbif.org). 
+If you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org). 
 
 ### Insurance
 Meeting attendees are advised to ensure appropriate health and travel insurance for travel to Portugal.  
-
-### Covid-19
-DO WE NEED SPECIFIC COVID-19 INFORMATION HERE? ANY OTHER SPECIFIC INFORMATION?
-
-
 
 ## Arriving in Portugal 
 
 The meeting will take place in Vairão which is located just outside Porto. Hotels will be available in the nearby town of Vila do Conde or in Porto. 
 
+The closest airport is the Porto Airport, [Francisco Sá Carneiro](https://www.aeroportoporto.pt/pt/opo/home). 
 
-### Arriving by plane 
-
-ADD INFO
-
-
-### Arriving by train/bus
-
-ADD INFO
+Information about public transportation can be found [here](https://www.metrodoporto.pt/pages/337).
 
 
 ## Hotels
@@ -45,7 +34,33 @@ Meeting attendees are asked to organize their own accommodation.
 
 The local organisers recommend booking a room in one of the hotels mentioned below. Please make your reservation in advance directly with the hotels by using the specific reservation codes.   
 
-ADD LIST OF HOTELS
+### Hotel in Vila do Conde
+
+#### 3* Hotels
+
+**Hotel Brazão**  
+Av. Dr. João Canavarro 7, 4480-688 Vila do Conde, Portugal  
+[Hotel website](https://www.hotelbrazao.pt/)  
+
+**B&B Hotels Vila do Conde**  
+Rua 5 de Outubro 1024 , 4480–700 Vila do Conde , Portugal  
+[Hotel website](https://www.hotel-bb.com/pt/cidade/hoteis-vila-do-conde)  
+ 
+#### 4* hotels
+
+**Santana Hotel and Spa**  
+Monte Santana, 4480-188 Azurara, Portugal  
+[Hotel website:](https://www.santanahotel.pt/)
+
+**Vila C Butique Hotel**  
+Av. Mouzinho de Albuquerque, s/n, Estrada Nacional 13, 4480-151 Vila do Conde, Portugal  
+[Hotel website](https://www.villacboutiquehotel.com/)  
+ 
+#### 5* hotels
+
+**The Lince Santa Clara Historic Hotel**  
+Largo Dom Afonso Sanches, 4480-754 Vila do Conde, Portugal  
+[Hotel website](https://thelincehotels.com/santaclara/)  
 
 A map with the location of hotels and venues can be found here  ADD LINK  
 
@@ -80,14 +95,8 @@ ADD IFRAME CODING
 
 ## General information
 
-### Electricity (voltage and which plugs to use)
+### Electricity
 Portugal operates on 230V supply voltage and 50Hz.
-
-### Health
-XXX  
-
-*Smoking*  
-XXX  
 
 ### Languages
 Portuguese is the primary language, but English is widely spoken. 
@@ -98,17 +107,6 @@ Portugal uses the euro as its currency. All of the central Portuguese banks are 
 ### Opening hours (for banks and shops)
 Most shops will open from 9.00 am-5.30 pm depending on the type of commerce. Banks usually from 09.00 am-3.00 pm but offer 24-hour access to ATMs.
 
-### Personal security
-XXX
-
-### Telecommunication and internet (mobile phone networks, internet services)
-XXX  
-
-### Tips and service gratuities (rules for tipping)
-XXX
-
-### Weather
-XXX
 
 ## Tourist information
 
