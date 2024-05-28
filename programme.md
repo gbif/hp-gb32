@@ -7,7 +7,8 @@ imageLicense: |
 toc: true
 ---
 
-The GB31 meeting and associated events will take place in XXX, Portugal, in the period 30 September - 4 October 2024.   
+The GB31 meeting and associated events will take place in Vairão, Vila do Conde, Portugal, in the period 30 September - 4 October 2024.   
+Please note that unless indicated, the events will be in-person only. 
 [Pre-registration](/registration) is required for all events. 
 
 
@@ -25,7 +26,7 @@ Please read the information carefully before registering.
 
 Please read the information carefully before registering. 
 
-### DATE
+### Monday, 30 September 2024
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
@@ -57,7 +58,7 @@ Venue: XXX
 
 *All GBIF Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
-### DATE
+### Tuesday, 1 October 2024
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00   
 Venue: XXX  
@@ -70,25 +71,17 @@ Venue: XXX
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
-### DATE
-**National Symposium**    
+### Wednesday, 2 October 2024
+**Symposium**    
 Time: XX:XX-XX:XX   
 Venue: XXX  
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers*  
-### DATE
+
+### Thursday, 3 October 2024
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
 Venue: XXX  
-
-*The meeting is open to Governing Board delegates, GBIF committee members and invited observers*  
-
-### DATE
-**Governing Board meeting Day 3**  
-Time: 09:00-17:00   
-Venue: XXX  
-
-*The meeting is open to Governing Board delegates, GBIF committee members and invited observers*  
 
 **Executive Committee meeting 2**  
 Time: 17:00-18:00   
@@ -96,8 +89,10 @@ Venue: XXX
 
 *The meeting is open to members of the GBIF Executive Committee* 
 
-### DATE
-**Excursion** (only in-person attendance)  
+*The meeting is open to Governing Board delegates, GBIF committee members and invited observers*  
+
+### Friday, 4 October 2024
+**Excursion** 
 Time: XX:XX-XX:XX   
 Venue: XXX  
 
