@@ -18,7 +18,7 @@ Please note that your registratiohn is not considered complete until you receive
 
 Click here to register. ADD LINK
 
-The registration closes on XX XXXXXX 2024. 
+The registration closes on 13 September 2024. 
 
 If you have any questions regarding registration, please contact the GBIF Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org).
  
