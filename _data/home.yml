@@ -1,7 +1,7 @@
 cards:
   title: Welcome to Vairão, Vila do Conde, Portugal
   description: |
-    The Associação BIOPOLIS (CIBIO) and The University of Porto are pleased to host the 31th meeting (GB31) of the GBIF Governing Board in Vairão, Vila do Conde.
+    The Associação BIOPOLIS (CIBIO) and The University of Porto are pleased to host the 31th meeting (GB31) of the GBIF Governing Board in Vairão, Vila do Conde which is located outside Porto.
    
     Please visit the [programme page](/programme) for a full description of the individual events taking place. 
    
@@ -25,7 +25,7 @@ cards:
     background: /assets/images/GB31-feat-10.jpg
     href: /meeting-documents
   - title: Financial support
-    description: "Apply for financial support. Deadline: XXXXX 2024."
+    description: "Apply for financial support. Deadline: 12 June 2024."
     background: /assets/images/GB31-feat-03.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
