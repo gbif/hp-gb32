@@ -107,7 +107,17 @@ Portugal uses the euro as its currency. All of the central Portuguese banks are 
 ### Opening hours (for banks and shops)
 Most shops will open from 9.00 am-5.30 pm depending on the type of commerce. Banks usually from 09.00 am-3.00 pm but offer 24-hour access to ATMs.
 
+### Personal security
+112 is the single European emergency telephone number, available throughout the European Union, free of charge.  
+In the event of any emergency, 112 can be connected through fixed and mobile telephones. 
+
+### Telecommunication and internet
+There are a number of network service providers in Portugal that have roaming agreements with most international mobile phone companies and provide users with a good coverage nationwide. 
+
+Internet is broadly available. Most hotels and many public facilities, such as airports, restaurants, etc. have internet available, either free of charge or payment is needed. 
 
 ## Tourist information
+
+Tourist information: [Porto and the North]([https://www.porto-tourism.com/](https://www.visitportugal.com/en/destinos/porto-e-norte)
 
 
