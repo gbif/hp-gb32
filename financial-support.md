@@ -12,7 +12,7 @@ The GBIF Secretariat offers the possibility of applying for partial financial su
 
 Please see below for more details on the guidelines for seeking partial funding for the Governing Board meeting. Link to the application form can be found at the bottom of this page. 
 
-Deadline for applying is **XX XXXX 2024**.
+Deadline for applying is **12 June 2024**.
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
 
@@ -26,7 +26,7 @@ Only one person per Voting Participant, the Head of Delegation, is eligible for 
 
 ## How to apply
 
-Fill in the GB31 partial financial support application form [here](https://forms.gle/xfLidpB6mW8hUtFt6) and submit it no later than **XX XXXXX 2024**. 
+Fill in the GB31 partial financial support application form [here](https://forms.gle/xfLidpB6mW8hUtFt6) and submit it no later than **12 June 2024**. 
 
 The application must include the following information:
 - A confirmation that the attendee will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket (direct economy-class ticket from home country to Porto and back only).
