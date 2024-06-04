@@ -67,20 +67,21 @@ A map with the location of hotels and venues can be found here  ADD LINK
 
 ## Venues
 
-### VENUE 1 INFO
-**ADDRESS**  
+### Campus de Vairão 
+**Rua do Crasto S/N (Antigo Museu Agrícola entre Douro e Minho)  
+Vairão**  
 
-*The GBIF committee meetings and the official Governing Board meeting will take place at XXXX on XX-XX XXXX 2024.*  
+*The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
 
-### VENUE 2 INFO
-**ADDRESS**  
+### Icebreaker
+**Venue of the Icebreaker is to be confirmed**  
 
-*The Icebreaker will take place at XXXX on XX-XX XXXX 2024.*  
+*The Icebreaker will take place on 30 September 2024.*  
 
-### VENUE 3 INFO
-**ADDRESS**  
+### Dinner
+**Venue and date of the dinner is to be confirmed**  
 
-*The official dinner will take place at XXXX on XX-XX XXXX 2024.*  
+**  
 
 ### How to get to/from venues
 
