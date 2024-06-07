@@ -26,12 +26,7 @@ Only one person per Voting Participant, the Head of Delegation, is eligible for 
 
 ## How to apply
 
-Fill in the GB31 partial financial support application form [here](https://forms.gle/xfLidpB6mW8hUtFt6) and submit it no later than **12 June 2024**. 
-
-The application must include the following information:
-- A confirmation that the attendee will 1) be able to cover the costs of the flight ticket up front and then be reimbursed after the meeting, or 2) a request for GBIF to directly book and pay the flight ticket (direct economy-class ticket from home country to Porto and back only).
-- The number of hotel nights requested
-- A confirmation that the attendee will be able to cover all other costs (visa, health and travel insurance, per diem, etc.)
+Fill in the GB31 partial financial support application form [here](https://forms.gle/xfLidpB6mW8hUtFt6) and submit it no later than **12 July 2024**. 
 
 **Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send the reimbursement form for the air ticket costs (if not already covered directly by GBIF) and the accommodation subsidy. The reimbursement form must be submitted together with proof of costs within one month after the meeting.**
 
