@@ -32,7 +32,7 @@ Information about public transportation can be found [here](https://www.metrodop
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
 
-The local organisers recommend booking a room in one of the hotels mentioned below. Please make your reservation in advance directly with the hotels by using the specific reservation codes.   
+The local organisers recommend booking a room in one of the hotels mentioned below. Please make your reservation in advance directly with the hotels.   
 
 ### Hotel in Vila do Conde
 
@@ -40,29 +40,27 @@ The local organisers recommend booking a room in one of the hotels mentioned bel
 
 **Hotel Brazão**  
 Av. Dr. João Canavarro 7, 4480-688 Vila do Conde, Portugal  
-[Hotel website](https://www.hotelbrazao.pt/)  
+[Hotel website: hotelbrazao.pt/](https://www.hotelbrazao.pt/)  
 
 **B&B Hotels Vila do Conde**  
 Rua 5 de Outubro 1024 , 4480–700 Vila do Conde , Portugal  
-[Hotel website](https://www.hotel-bb.com/pt/cidade/hoteis-vila-do-conde)  
+[Hotel website: hotel-bb.com/pt/cidade/hoteis-vila-do-conde](https://www.hotel-bb.com/pt/cidade/hoteis-vila-do-conde)  
  
 #### 4* hotels
 
 **Santana Hotel and Spa**  
 Monte Santana, 4480-188 Azurara, Portugal  
-[Hotel website:](https://www.santanahotel.pt/)
+[Hotel website: santanahotel.pt/](https://www.santanahotel.pt/)
 
 **Vila C Butique Hotel**  
 Av. Mouzinho de Albuquerque, s/n, Estrada Nacional 13, 4480-151 Vila do Conde, Portugal  
-[Hotel website](https://www.villacboutiquehotel.com/)  
+[Hotel website: villacboutiquehotel.com/](https://www.villacboutiquehotel.com/)  
  
 #### 5* hotels
 
 **The Lince Santa Clara Historic Hotel**  
 Largo Dom Afonso Sanches, 4480-754 Vila do Conde, Portugal  
-[Hotel website](https://thelincehotels.com/santaclara/)  
-
-A map with the location of hotels and venues can be found here  ADD LINK  
+[Hotel website: thelincehotels.com/santaclara/](https://thelincehotels.com/santaclara/)  
 
 
 ## Venues
@@ -73,19 +71,19 @@ Vairão**
 
 *The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
 
-### Icebreaker
+### Icebreaker venue
 **Venue of the Icebreaker is to be confirmed**  
 
 *The Icebreaker will take place on 30 September 2024.*  
 
-### Dinner
+### Dinner venue
 **Venue and date of the dinner is to be confirmed**  
 
 **  
 
 ### How to get to/from venues
 
-ADD INFO ON BUS TRANSFER
+Information on how to get to and from the venues will be provided shortly. 
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking here ADD LINK.    
