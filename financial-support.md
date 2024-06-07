@@ -6,7 +6,7 @@ imageLicense: |
   Illustration of a Fire salamander *Salamandra salamandra* (Linnaeus, 1758) from Recherches embryologiques, histologiques et physiologiques sur les glandes à venin de la salamandre terrestre. Paris, 1900. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m4UnCV)
 ---
 
-The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on 30 September-04 October 2024. Support may include funding of economy-class tickets and a subsidy to cover accommodation. 
+The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting and the Symposium on 1-3 October 2024. Support may include funding of economy-class tickets and a subsidy to cover accommodation. 
 
 **The application process is now open**
 
