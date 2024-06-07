@@ -8,7 +8,7 @@ toc: true
 ---
 
 The GB31 meeting and associated events will take place in Vairão, Vila do Conde, just outside, Porto, Portugal, in the period 30 September - 4 October 2024.   
-Please note that unless indicated, the events will be in-person only. 
+Please note that unless indicated, the events will be in-person on site only. 
 
 [Pre-registration](/registration) is required for all events. 
 
