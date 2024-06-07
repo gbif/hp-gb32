@@ -12,7 +12,7 @@ The GBIF Secretariat offers the possibility of applying for partial financial su
 
 Please see below for more details on the guidelines for seeking partial funding for the Governing Board meeting. Link to the application form can be found at the bottom of this page. 
 
-Deadline for applying is **12 June 2024**.
+Deadline for applying is **12 July 2024**.
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline. 
 
