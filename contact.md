@@ -20,4 +20,5 @@ Phone: +45 35 32 14 70
 
 Please contact the national host if you have any questions regarding practical information relating to your stay in Portugal:  
 
-ADD NAME AND CONTACT DETAILS FOR LOCAL CONTACTS
+Dr Jorge Neves (Project Manager)  
+Email: [jorge.neves@biopolis.pt](mailto:jorge.neves@biopolis.pt)  
