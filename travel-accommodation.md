@@ -88,8 +88,7 @@ Information on how to get to and from the venues will be provided shortly.
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking here ADD LINK.    
 
-ADD IFRAME CODING
-
+<iframe src="https://www.google.com/maps/d/embed?mid=10elMgkKZAvQA2lo6P9cL1pjYGV_iOv0&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## General information
