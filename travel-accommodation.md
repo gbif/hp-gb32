@@ -108,7 +108,6 @@ Vairão**
 ### Dinner venue
 **Venue and date of the dinner is to be confirmed**  
 
-**  
 
 ### How to get to/from venues
 
