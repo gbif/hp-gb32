@@ -62,6 +62,35 @@ Av. Mouzinho de Albuquerque, s/n, Estrada Nacional 13, 4480-151 Vila do Conde, P
 Largo Dom Afonso Sanches, 4480-754 Vila do Conde, Portugal  
 [Hotel website: thelincehotels.com/santaclara/](https://thelincehotels.com/santaclara/)  
 
+### Hotel in Porto  
+
+#### 3* Hotels  
+
+**Star inn Porto**  
+R. Sra. do Porto 930, 4250-453 Porto, Portugal  
+[Hotel website: hotelstarinn.com/porto/](https://www.hotelstarinn.com/porto/)  
+
+**Hotel HF Tuela Porto**  
+R. Arquitecto Marques da Silva 200, 4150-483 Porto, Portugal  
+[Hotel website: hfhotels.com/pt/hoteis/hf-tuela-porto-pt/](https://www.hfhotels.com/pt/hoteis/hf-tuela-porto-pt/)  
+
+**TRYP Porto Centro Hotel**  
+Rua da Alegria 685 689, 4000-046 Porto, Portugal  
+[Hotel website: trypportocentro.com/](https://www.trypportocentro.com/)
+
+#### 4* hotels
+
+**Hotel HF Ipanema Porto**  
+Rua do Campo Alegre 156, 4150-169 Porto, Portugal  
+[Hotel website: hfhotels.com/pt/hoteis/hf-ipanema-porto-pt/](https://www.hfhotels.com/pt/hoteis/hf-ipanema-porto-pt/)  
+
+**Hotel HF Fénix Porto**  
+R. de Gonçalo Sampaio 282, 4150-365 Porto, Portugal    
+[Hotel website: hfhotels.com/pt/hoteis/hf-fenix-porto-pt/](https://www.hfhotels.com/pt/hoteis/hf-fenix-porto-pt/)  
+
+**Vincci Porto Hotel**  
+Alameda de Basílio Teles 29, 4150-127 Porto, Portugal  
+[Hotel website: pt.vincciporto.com/](https://pt.vincciporto.com/)  
 
 ## Venues
 
