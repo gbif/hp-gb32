@@ -76,6 +76,8 @@ Venue: Campus de Vairão
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public*  
 
+![Abstract drawing Vulpes by Canberra, photo by Andre Vicente Liz](/assets/images/vulpes.png){:standalone}
+
 ### Thursday, 3 October 2024
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
