@@ -37,7 +37,7 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=PRT.15_1&limit=0">550,000</span> occurrences in the municipality of Porto
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=PRT.15_1&limit=0">550,000</span> occurrences in the district of Porto
   description: |      # required
     Check out the GBIF data for Porto.
   # img required
