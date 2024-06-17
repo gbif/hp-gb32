@@ -106,7 +106,7 @@ Vairão**
 *The Icebreaker will take place on 30 September 2024.*  
 
 ### Dinner venue
-**Venue and date of the dinner is to be confirmed**  
+**Venue of the dinner is to be confirmed**  
 
 
 ### How to get to/from venues
@@ -144,6 +144,6 @@ Internet is broadly available. Most hotels and many public facilities, such as a
 
 ## Tourist information
 
-Tourist information: [Porto and the North]([https://www.porto-tourism.com/](https://www.visitportugal.com/en/destinos/porto-e-norte)
+Tourist information: [Porto and the North](https://www.visitportugal.com/en/destinos/porto-e-norte)
 
 
