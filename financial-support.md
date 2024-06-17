@@ -28,7 +28,7 @@ Only one person per Voting Participant, the Head of Delegation, is eligible for 
 
 Fill in the GB31 partial financial support application form [here](https://forms.gle/xfLidpB6mW8hUtFt6) and submit it no later than **12 July 2024**. 
 
-**Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send the reimbursement form for the air ticket costs (if not already covered directly by GBIF) and the accommodation subsidy. The reimbursement form must be submitted together with proof of costs within one month after the meeting.**
+Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Applicants may, however, apply for GBIF to pay the air ticket costs directly. If selected for funding, the GBIF Secretariat will send the reimbursement form for the air ticket costs (if not already covered directly by GBIF) and the accommodation subsidy. The reimbursement form must be submitted together with proof of costs within one month after the meeting.  
 
 If you have any questions, please contact the GBIF Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org).
 
