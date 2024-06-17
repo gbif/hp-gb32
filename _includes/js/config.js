@@ -30,7 +30,7 @@ var siteConfig = {
     highlightedFilters: ['taxonKey', 'occurrenceStatus', 'year', 'datasetName', 'occurrenceIssue', 'datasetKey'],
     mapSettings: {
       zoom: 11.78,
-      lng: 8.6291,
+      lng: -8.6291,
       lat: 41.1579
     }
   }
