@@ -98,6 +98,8 @@ Alameda de Basílio Teles 29, 4150-127 Porto, Portugal
 **Rua do Crasto S/N (Antigo Museu Agrícola entre Douro e Minho)  
 Vairão**  
 
+![Campus de Vairão](/assets/images/venue.jpg){:standalone}
+
 *The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
 
 ### Icebreaker venue
