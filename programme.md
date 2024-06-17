@@ -74,7 +74,7 @@ Venue: TBC
 Time: TBC   
 Venue: Campus de Vairão  
 
-*The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public*  
+*The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public. There may be an option to attend the Symposium virtually. More information about the Symposium will be available shortly.*  
 
 ![Abstract drawing Vulpes by Canberra, photo by Andre Vicente Liz](/assets/images/vulpes.png){:standalone}
 
