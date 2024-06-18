@@ -69,14 +69,14 @@ Venue: TBC
 
 *Note that the date for the dinner has not been fully confirmed so the date may change. All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
-### Wednesday, 2 October 2024
+### Wednesday, 2 October 2024 (in person or virtual attendance)
 **Symposium**    
 Time: TBC   
 Venue: Campus de Vairão  
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public. There may be an option to attend the Symposium virtually. More information about the Symposium will be available shortly.*  
 
-![Abstract drawing Vulpes by Canberra, photo by Andre Vicente Liz](/assets/images/vulpes.png){:standalone}
+![Abstract drawing Vulpes by <a href="mailto:andre.vicente.liz@cibio.up.pt">Andre Vicente Liz</a>](/assets/images/vulpes.png){:standalone}
 
 ### Thursday, 3 October 2024
 **Governing Board meeting Day 2**  
@@ -96,7 +96,7 @@ Venue: Campus de Vairão
 Time: TBC   
 Venue: TBC  
 
-*More information will be made available shortly. The excursion is open to Governing Board delegates, GBIF committee members and invited observers*  
+*The excursion is open to Governing Board delegates, GBIF committee members and invited observers. More information will be made available shortly.*  
 
 
 
