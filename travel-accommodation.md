@@ -28,7 +28,7 @@ The closest airport is the Porto Airport, [Francisco Sá Carneiro](https://www.a
 
 Information about public transportation can be found [here](https://www.metrodoporto.pt/pages/337).
 
-![Pencil drawing Oenanthe by Andre Vicente Liz](/assets/images/oenanthe.png){:standalone}
+![Pencil drawing Oenanthe by <a href="mailto:andre.vicente.liz@cibio.up.pt">Andre Vicente Liz</a>](/assets/images/oenanthe.png){:standalone}
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
