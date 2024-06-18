@@ -67,7 +67,7 @@ Venue: TBC
 Time: TBC   
 Venue: TBC  
 
-*Note that the date for the dinner has not been fully confirmed so the date may change. All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
+*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
 ### Wednesday, 2 October 2024 (in person or virtual attendance)
 **Symposium**    
