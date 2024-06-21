@@ -70,7 +70,7 @@ Venue: TBC
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
 
 ### Wednesday, 2 October 2024 (in person or virtual attendance)
-**Symposium: Using GBIF data to mainstream biodiversity in governments, the private sector and society**    
+**Symposium: Using GBIF to mainstream biodiversity in governments, the private sector and society**    
 Time: TBC   
 Venue: Campus de Vairão  
 
