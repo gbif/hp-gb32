@@ -103,8 +103,8 @@ Vairão**
 
 *The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
 
-### Icebreaker venue
-**Venue of the Icebreaker is to be confirmed**  
+### Casa Ferreirinha  
+**R. Carvalhosa 19, 4400-032 Vila Nova de Gaia**  
 
 *The Icebreaker will take place on 30 September 2024.*  
 
