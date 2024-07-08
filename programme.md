@@ -51,8 +51,8 @@ Venue: Campus de Vairão
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**   
-Time: TBC   
-Venue: TBC  
+Time: 18:00-21:00   
+Venue: Casa Ferreirinha  
 
 *All GBIF Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
@@ -93,8 +93,8 @@ Venue: Campus de Vairão
 
 ### Friday, 4 October 2024
 **Excursion** 
-Time: TBC   
-Venue: TBC  
+Departure time: 8:30, Expected end of excursion: 17:00   
+Venue: Quinta do Seixo  
 
 *The excursion is open to Governing Board delegates, GBIF committee members and invited observers. More information will be made available shortly.*  
 
