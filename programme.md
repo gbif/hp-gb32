@@ -92,7 +92,7 @@ Venue: Campus de Vairão
 *The meeting is open to members of the GBIF Executive Committee* 
 
 ### Friday, 4 October 2024
-**Excursion** 
+**Excursion**  
 Departure time: 8:30, Expected end of excursion: 17:00   
 Venue: Quinta do Seixo  
 
