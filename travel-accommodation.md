@@ -114,10 +114,10 @@ Vairão**
 
 ### How to get to/from venues
 
-Information on how to get to and from the venues will be provided shortly. 
+The local organizer is looking into providing shuttle service to/from the meeting venue. In order to set this up, we will need to know where people are staying. The GBIF Secretariat will at some point contact all registered attendees and ask for hotel location for those who are interested in using the shuttle service so that the pick-up points can be arranged.  
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking here ADD LINK.    
+The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/u/1/edit?mid=10elMgkKZAvQA2lo6P9cL1pjYGV_iOv0&usp=sharing).    
 
 <iframe src="https://www.google.com/maps/d/embed?mid=10elMgkKZAvQA2lo6P9cL1pjYGV_iOv0&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
