@@ -28,25 +28,25 @@ Please read the information carefully before registering.
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: Campus de Vairão   
+Venue: Campus de Vairão, room B1.19   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: Campus de Vairão 
+Venue: Campus de Vairão, room B0.03  
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: Campus de Vairão   
+Venue: Campus de Vairão, room A1.05   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**  
 Time: 13:30-17:00  
-Venue: Campus de Vairão    
+Venue: Campus de Vairão, room A1.05    
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -58,8 +58,8 @@ Venue: Casa Ferreirinha
 
 ### Tuesday, 1 October 2024
 **Governing Board meeting Day 1**  
-Time: 09:00-17:00   
-Venue: TBC  
+Time: 09:30-17:00   
+Venue: Campus de Vairão, room EIRA 2   
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
@@ -71,8 +71,8 @@ Venue: TBC
 
 ### Wednesday, 2 October 2024 (in person or virtual attendance)
 **Symposium: Using GBIF to mainstream biodiversity in governments, the private sector and society**    
-Time: TBC   
-Venue: Campus de Vairão  
+Time: 09:30-17:30     
+Venue: Campus de Vairão, Auditório CIBIO    
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public. There may be an option to attend the Symposium virtually. More information about the Symposium will be available shortly.*  
 
@@ -80,13 +80,13 @@ Venue: Campus de Vairão
 
 ### Thursday, 3 October 2024
 **Governing Board meeting Day 2**  
-Time: 09:00-17:00   
-Venue: Campus de Vairão  
+Time: 09:30-17:00   
+Venue: Campus de Vairão, room EIRA 2  
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers* 
 
 **Executive Committee meeting 2**  
-Time: 17:00-18:00   
+Time: 17:00-19:00   
 Venue: Campus de Vairão  
 
 *The meeting is open to members of the GBIF Executive Committee* 
