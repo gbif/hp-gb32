@@ -11,6 +11,8 @@ imageLicense: |
 **Associação BIOPOLIS (CIBIO)**
 The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two official GB31 Portuguese hosts of the meeting. Biopolis is the largest Portuguese project in Environmental Biology, Ecosystems and Biodiversity. It will transform [CIBIO](http://www.cibio.up.pt/) into an international superstructure linking scientific research with civil society and the business sector to address the emerging global challenges.
 
+[<img src="/assets/images/Biopolis_Logo_transparent_MAIN.gif" width="350px">](https://www.biopolis.pt/)
+
 [<img src="/assets/images/BIOPOLIS-Teaming.jpg" width="350px">](https://www.biopolis.pt/)
 
 
