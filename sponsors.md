@@ -8,7 +8,11 @@ imageLicense: |
 
 ## About the sponsors  
 
-WILL THERE BE ANY SPONSORS WE NEED TO MENTION HERE?
+The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two official GB31 Portuguese hosts of the meeting. Biopolis is the largest Portuguese project in Environmental Biology, Ecosystems and Biodiversity. It will transform [CIBIO](http://www.cibio.up.pt/) into an international superstructure linking scientific research with civil society and the business sector to address the emerging global challenges.
+
+The [University of Porto](https://www.up.pt/) is the second official Portuguese host. 
+
+
 
 REMEMBER TO REPLACE LOGOS BELOW.
 
