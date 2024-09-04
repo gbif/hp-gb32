@@ -11,20 +11,21 @@ imageLicense: |
 **Associação BIOPOLIS (CIBIO)**
 The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two official GB31 Portuguese hosts of the meeting. Biopolis is the largest Portuguese project in Environmental Biology, Ecosystems and Biodiversity. It will transform [CIBIO](http://www.cibio.up.pt/) into an international superstructure linking scientific research with civil society and the business sector to address the emerging global challenges.
 
-[<img src="/assets/images/BIOPOLIS-Teaming.jpg" width="400px">](https://www.biopolis.pt/)
+[<img src="/assets/images/BIOPOLIS-Teaming.jpg" width="350px">](https://www.biopolis.pt/)
 
 
 **Univesity of Porto**
 The [University of Porto](https://www.up.pt/) is the second official Portuguese host. 
 
+[<img src="/assets/images/UP.png" width="350px">](https://www.up.pt/)
+
+
 **SOGRAPE**
 [SOGRAPE](https://sogrape.com/) is the host of the Excursion on 4 October. 
 
-PLEASE LET US KNOW IF THE TEXT SHOULD BE EDITED AND OTHERS SHOULD BE ADDED, E.G. FCT, VILA DO  CONDE, INBIO??
+[<img src="/assets/images/SOGRAPE.jpg" width="350px">](https://www.sogrape.pt/)
 
-|   |   |   |
-|---|---|---|
-| [<img src="/assets/images/Biopolis_Logo_transparent_MAIN.gif" width="200px">](https://www.biopolis.pt/)) | [<img src="/assets/images/UP.png" width="200px">](https://www.csiro.au) | [<img src="/assets/images/gbif-s.png" width="200px">](https://www.gbif.org) |
+PLEASE LET US KNOW IF THE TEXT SHOULD BE EDITED AND OTHERS SHOULD BE ADDED, E.G. FCT, VILA DO  CONDE, INBIO??
 
 
 
