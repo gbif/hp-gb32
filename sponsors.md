@@ -8,15 +8,18 @@ imageLicense: |
 
 ## About the sponsors  
 
+**Associação BIOPOLIS (CIBIO)**
 The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two official GB31 Portuguese hosts of the meeting. Biopolis is the largest Portuguese project in Environmental Biology, Ecosystems and Biodiversity. It will transform [CIBIO](http://www.cibio.up.pt/) into an international superstructure linking scientific research with civil society and the business sector to address the emerging global challenges.
 
 ![BIOPOLIS Teaming](/assets/images/BIOPOLIS-Teaming.jpg){:standalone}
 
+**Univesity of Porto**
 The [University of Porto](https://www.up.pt/) is the second official Portuguese host. 
 
+**SOGRAPE**
+[SOGRAPE](https://sogrape.com/) is the host of the Excursion on 4 October. 
 
-
-REMEMBER TO REPLACE LOGOS BELOW.
+ANY OTHER SPONSORS YOU WOULD LIKE TO ADD?
 
 |   |   |   |
 |---|---|---|
