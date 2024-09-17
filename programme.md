@@ -52,7 +52,7 @@ Venue: Campus de Vairão, room A1.05
 
 **Icebreaker**   
 Time: 18:00-21:00   
-Venue: Casa Ferreirinha  
+Venue: [Casa Ferreirinha](https://sogrape.com/tourism/caves-ferreira )  
 
 *All GBIF Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
