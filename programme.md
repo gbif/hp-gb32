@@ -65,9 +65,9 @@ Venue: Campus de Vairão, room EIRA 2
 
 **GB31 Dinner**      
 Time: TBC   
-Venue: TBC  
+Venue: Hall of Biodiversity – Ciência Viva Center    
 
-*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner*
+*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner at the Hall of Biodiversity – Ciência Viva Center*  
 
 ### Wednesday, 2 October 2024 (in person or virtual attendance)
 **Symposium: Using GBIF to mainstream biodiversity in governments, the private sector and society**    
