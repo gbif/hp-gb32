@@ -96,25 +96,46 @@ Alameda de Basílio Teles 29, 4150-127 Porto, Portugal
 ## Venues
 
 ### Campus de Vairão 
-**Rua do Crasto S/N (Antigo Museu Agrícola entre Douro e Minho)  
-Vairão**  
-
+Rua do Crasto S/N (Antigo Museu Agrícola entre Douro e Minho)  
+Vairão  
+Portugal  
 ![Campus de Vairão](/assets/images/venue.jpg){:standalone}
 
-*The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
+*The newly renovated Campus de Vairão is the headquarters of BIOPOLIS. The GBIF committee meetings, the official Governing Board meeting and the Symposium will take place at Campus de Vairão on 30 September - 3 October 2024.*  
 
 ### Casa Ferreirinha  
-**R. Carvalhosa 19, 4400-032 Vila Nova de Gaia**  
+R. Carvalhosa 19  
+4400-032 Vila Nova de Gaia  
+Portugal  
+[sogrape.com/tourism/caves-ferreira](https://sogrape.com/tourism/caves-ferreira)     
 
-*The Icebreaker will take place on 30 September 2024.*  
+*The Icebreaker will take place at Casa Ferreirinha on 30 September 2024.*  
 
-### Dinner venue
-**Venue of the dinner is to be confirmed**  
+### Hall of Biodiversity – Ciência Viva Center  
+Rua do Campo Alegre, 1191  
+4150-181 Porto  
+Portugal  
+[mhnc.up.pt/galeria-da-biodiversidade/](https://mhnc.up.pt/galeria-da-biodiversidade/)  
+
+
+*The Dinner will take place at the Hall of Biodiveristy - Ciência Viva Center on 1 October 2024.*
+*There will be a tour of the Hall of Biodiversity led by Professor Nuno Ferrand de Almeida followed by dinner in the main atrium.*
+
+*Based at Casa Andresen, at Porto’s Botanical Garden, the Hall of Biodiversity – Ciência Viva Center is the outcome of the first phase of the ambitious rehabilitation project of the MHNC-UP, which is currently underway in close collaboration with Ciência Vitva Agency.*  
+
+*Located in one of the most emblematic places in the city of Porto – the Botanical Garden, which together with it integrates the second pole of the Museum, the Hall of Biodiversity, officially opened to the public by His Excellency the President of the Portuguese Republic Marcelo Rebelo de Sousa on June 30, 2017, is the first Ciência Viva Center specifically devoted to biodiversity.*  
+
+*A space in which the arts connect with biology and natural history, fostering a wide range of sensorial experiences, carefully and intentionally crafted with the purpose of celebrating the diversity of life, the Hall of Biodiversity is the first museology platform in the world to be conceived from the start according to the total museology philosophy.*  
+
+*Herein, visitors will encounter an exemplary set of 49 exhibition modules and installations, many of which have been developed or adapted specifically for inclusion in its permanent exhibition, organized according to 15 major topics covering all key aspects of the biological and cultural diversity we now know. With unparalleled features and functions, and well framed in an amazingly rich and diversified set of museographic resources, ranging from mechanical models to the most sophisticated multimedia and audiovisual platforms, this new and unique exhibition will invite visitors to take part in a journey through science, literature and the arts, along which the most beautiful tales about life will be told.*  
 
 
 ### How to get to/from venues
 
-The local organizer is looking into providing shuttle service to/from the meeting venue. In order to set this up, we will need to know where people are staying. The GBIF Secretariat will at some point contact all registered attendees and ask for hotel location for those who are interested in using the shuttle service so that the pick-up points can be arranged.  
+The local organizer is looking into providing shuttle service to/from the meeting venue. In order to set this up, we will need to know where people are staying. If you wish to make use of the bus service offered and have not yet informed the GBIF Secretariat about where you will be staying (vila do Conde or Porto), please contact the Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org) as soon as possible.  
+
+The plan is to have a central pick-up site in Vila do Conde and in Porto. More information about location of pick-up sites and time will be made available before the meeting.   
+
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/u/1/edit?mid=10elMgkKZAvQA2lo6P9cL1pjYGV_iOv0&usp=sharing).    
