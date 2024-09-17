@@ -64,8 +64,8 @@ Venue: Campus de Vairão, room EIRA 2
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
 **GB31 Dinner**      
-Time: TBC   
-Venue: Hall of Biodiversity – Ciência Viva Center    
+Time: 19:00-22:00   
+Venue: [Hall of Biodiversity – Ciência Viva Center](https://mhnc.up.pt/galeria-da-biodiversidade/)    
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner at the Hall of Biodiversity – Ciência Viva Center*  
 
