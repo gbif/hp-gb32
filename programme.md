@@ -64,7 +64,7 @@ Venue: Campus de Vairão, room EIRA 2
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
 **GB31 Dinner**      
-Time: 19:00-22:00   
+Time: 19:00-22:30   
 Venue: [Hall of Biodiversity – Ciência Viva Center](https://mhnc.up.pt/galeria-da-biodiversidade/)    
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner at the Hall of Biodiversity – Ciência Viva Center*  
@@ -93,7 +93,7 @@ Venue: Campus de Vairão
 
 ### Friday, 4 October 2024
 **Excursion**  
-Departure time: 8:30, Expected end of excursion: 17:00   
+Departure time: 8:00, Expected end of excursion: 17:00   
 Venue: Quinta do Seixo  
 
 *The social program will include an excursion to Quinta do Seixo, located in the Alto Douro wine region, one of the world’s oldest wine regions and a UNESCO World Heritage Site. This region has a long-standing tradition of viticulture spanning millennia, and it is mainly known for producing port wine since the 18th century. The unique landscape of the Alto Douro wine region, with vineyards arranged in spectacular terraces bordering the river Douro and its principal tributaries, is one of the reasons for its selection as a World Heritage Site in 2001. Here, you will find Quinta do Seixo, located in the sub-region of Upper Corgo, benefiting from a prime location in the heart of the Douro Demarcated Region. Following the Douro River from Régua to Pinhão, one can easily discover this ancient property from the 17th century with more than 100 hectares, of which 70 hectares are planted with vineyards, and its winery of contemporary design.
