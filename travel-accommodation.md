@@ -132,9 +132,81 @@ Portugal
 
 ### How to get to/from venues
 
-The local organizer is looking into providing shuttle service to/from the meeting venue. In order to set this up, we will need to know where people are staying. If you wish to make use of the bus service offered and have not yet informed the GBIF Secretariat about where you will be staying (vila do Conde or Porto), please contact the Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org) as soon as possible.  
+The local organizer will provide bus services to delegates who have informed the Secretariat about their hotel location. Below you will find the detailed information. 
 
-The plan is to have a central pick-up site in Vila do Conde and in Porto. More information about location of pick-up sites and time will be made available before the meeting.   
+**Two pick up/return places**  
+There will be two central pick up/return places; 1) for people who stay in Vila do Conde and 2) for people staying in Porto. If you wish to make use of the bus service, please find your pick-up place and check the pick-up and return times listed below. The buses will have the GBIF logo visible.  
+
+VILA DO CONDE  
+Mercado Vila do Conde (Market Place)  
+Praça de São João, 4480-754 Vila do Conde  
+Map locaton: [https://maps.app.goo.gl/gsjEkx2LbLQNNQet8](https://maps.app.goo.gl/gsjEkx2LbLQNNQet8)  
+
+PORTO  
+Estação do Metro Casa da Música (Case da Musica Metro Station)  
+Avenida de França, 4050-276 Porto  
+Map location: [https://maps.app.goo.gl/GyEp8EHU1HJh1nCX9](https://maps.app.goo.gl/GyEp8EHU1HJh1nCX9)  
+
+**Time schedule**  
+
+**30 September**  
+
+Morning pick up for committee meeting attendees  
+- Vila do Conde: 08:00
+- Porto: 08:00
+
+Afternoon pick up for Icebreaker  
+- Vila do Conde: 16:30  
+- Quinta do Crasto, Vairão (committee meeting venue): 17:00  
+
+*Please note that as the Icebreaker will take place in Porto, attendees who are staying in Porto are asked to get to the Icebreaker venue on their own. It is suggested to use the [Metro](https://en.metrodoporto.pt/pages/396) or a taxi to get there if it is not within walking distance from your hotel.*   
+
+Evening return from Icebreaker  
+- Buses will depart from the Icebreaker venue at 21:00 to return to the pick up points in Porto and Vila do Conde.  
+
+**1 October**    
+
+Morning pick up for Governing Board Day 1  
+- Vila do Conde: 08:30
+- Porto: 08:00
+
+Afternoon pick up from meeting venue to Dinner
+- Quinta do Crasto, Vairão (meeting venue): 17:30  
+
+Evening return from Dinner  
+- Buses will depart from the Dinner venue at 21:30 to return to the pick up points in Porto and Vila do Conde.  
+
+**2 October**  
+
+Morning pick up for the Symposium  
+- Vila do Conde: 08:30
+- Porto: 08:00
+
+Afternoon return from meeting venue
+- Buses will depart from the meeting venue at 18:00 to return to the pick up point in Porto and Vila do Conde.  
+
+**3 October**  
+
+Morning pick up for Governing Board Day 2  
+- Vila do Conde: 08:30
+- Porto: 08:00
+
+Afternoon return from meeting venue
+- Buses will depart from the meeting venue at 17:30 to return to the pick up point in Porto and Vila do Conde.  
+
+*Please note that transportation will also be provided for the Executive Committee members who will meet after the end of the Governing Board meeting. Information about pick up time will be provided directly to the committee members.*  
+
+**4 October**  
+
+Morning pick up for excursion  
+- Vila do Conde: 08:00  
+- Porto: 08:00
+
+Afternoon return from excursion  
+- Buses will depart from the excursion site at 17:00 to return to the pick up point in Porto and Vila do Conde.  
+
+If you have any questions about the buses, or have not yet informed the Secretariat where you will be staying, please contact the Secretariat at [GB31@gbif.org](mailto:GB31@gbif.org) as soon as possible.  
+
 
 
 ## Map
