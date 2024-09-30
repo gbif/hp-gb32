@@ -144,7 +144,7 @@ There will be two central pick up/return places; 1) for people who stay in Vila 
 VILA DO CONDE  
 Mercado Vila do Conde (Market Place)  
 Praça de São João, 4480-754 Vila do Conde  
-Map locaton: (https://maps.app.goo.gl/RmMwDqngKB5A1ZgVA](https://maps.app.goo.gl/RmMwDqngKB5A1ZgVA)  
+Map locaton: [https://maps.app.goo.gl/RmMwDqngKB5A1ZgVA](https://maps.app.goo.gl/RmMwDqngKB5A1ZgVA)  
 Please note that this location has been updated. 
 
 
