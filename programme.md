@@ -74,7 +74,7 @@ Venue: [Hall of Biodiversity – Ciência Viva Center](https://mhnc.up.pt/galeri
 Time: 09:30-17:30     
 Venue: Campus de Vairão, Auditório CIBIO    
 
-[Programme](/assets/Symposium.pdf)
+[Programme](/assets/documents/Symposium.pdf)
 
 *The symposium is open to Governing Board delegates, GBIF committee members and and invited observers as well as the public. There may be an option to attend the Symposium virtually. More information about the Symposium will be available shortly.*  
 
