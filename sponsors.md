@@ -16,8 +16,6 @@ The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two 
 ### FCT-Fundação para a Ciência e a Tecnologia 
 Work supported by National Funds through FCT-Fundação para a Ciência e a Tecnologia in the scope of the project UIDP/50027/2020. 
 
-[<img src="/assets/images/FCT.jpg" width="400px">](https://www.fct.pt/)
-
 ### Univesity of Porto
 The [University of Porto](https://www.up.pt/) is the second official Portuguese host. 
 
@@ -25,9 +23,9 @@ The [University of Porto](https://www.up.pt/) is the second official Portuguese 
 ### SOGRAPE
 [SOGRAPE](https://sogrape.com/) is the host of the Excursion on 4 October. 
 
-|   |   |   |
-|---|---|---|
-| [<img src="/assets/images/Biopolis_Logo_transparent_MAIN.gif" width="200px">](https://www.biopolis.pt) | [<img src="/assets/images/UP.png" width="200px">](https://www.up.pt) | [<img src="/assets/images/gbif-s.png" width="200px">](https://www.gbif.org) |
+|   |   |   |   |
+|---|---|---|---|
+| [<img src="/assets/images/Biopolis_Logo_transparent_MAIN.gif" width="200px">](https://www.biopolis.pt) | [<img src="/assets/images/UP.png" width="200px">](https://www.up.pt) | [<img src="/assets/images/gbif-s.png" width="200px">](https://www.gbif.org) | [<img src="/assets/images/FCT.jpg" width="200px">](https://www.fct.pt/) |
 
 
 
