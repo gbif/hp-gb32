@@ -16,7 +16,7 @@ The [Associação BIOPOLIS (CIBIO)](https://www.biopolis.pt/) is one of the two 
 ### FCT-Fundação para a Ciência e a Tecnologia 
 Work supported by National Funds through FCT-Fundação para a Ciência e a Tecnologia in the scope of the project UIDP/50027/2020. 
 
-[<img src="/assets/images/FCT.jpg" width="400px">]
+[<img src="/assets/images/FCT.jpg" width="400px">](https://www.fct.pt/)
 
 ### Univesity of Porto
 The [University of Porto](https://www.up.pt/) is the second official Portuguese host. 
