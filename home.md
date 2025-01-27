@@ -1,9 +1,9 @@
 ---
 lang-ref: home
 layout: home
-title: GB31 Portugal
+title: GB32 Somewhere
 description: |
-  The 31st meeting of the GBIF Governing Board and associated events,  
+  The 32st meeting of the GBIF Governing Board and associated events,  
   Vairão, Vila do Conde, Portugal,  
   30 September - 4 October 2024  
 background: /assets/images/GB31-bg.jpg

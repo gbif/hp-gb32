@@ -12,7 +12,7 @@ The meeting documents for the official GB31 meeting on 1 & 3 October 2024 are no
 - [Key documents](https://directory.gbif.org/documents/governing_board/GB31_2024_Vairao/GB31_pre-meeting_documents/)
 - [Background documents](https://directory.gbif.org/documents/governing_board/GB31_2024_Vairao/GB31_background_documents/)
 
-The documents are only available to official GBIF delegates and will require login. If you cannot remember your login or have not yet received the login details, please contact the GBIF Secretariat at [GB31@gbif.org](mailto:gb31@gbif.org).
+The documents are only available to official GBIF delegates and will require login. If you cannot remember your login or have not yet received the login details, please contact the GBIF Secretariat at [GB31@gbif.org](mailto:gb32@gbif.org).
 
 **GBIF committee meetings**  
 The documents for the GBIF committee meetings on 30 September will be made available to the committee members closer to the meeting date. 
