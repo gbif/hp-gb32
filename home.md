@@ -1,14 +1,14 @@
 ---
 lang-ref: home
 layout: home
-title: GB32 Somewhere
+title: GB32 Colombia
 description: |
   The 32st meeting of the GBIF Governing Board and associated events,  
-  Vairão, Vila do Conde, Portugal,  
-  30 September - 4 October 2024  
+  Bogota, Colombia  
+  16-20 October 2025  
 background: /assets/images/GB31-bg.jpg
 imageLicense: |
-  GBIF secretariat 2024 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+  GBIF secretariat 2025 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
 height: 85vh
 parallax: true
