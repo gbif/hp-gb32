@@ -6,7 +6,7 @@ imageLicense: |
   Illustration of a Common Paper Nautilus, [*Argonauta argo* (Linnaeus, 1758)](https://www.gbif.org/species/5189614) from Moluscos marinos de España, Portugal y las Baleares. Madrid, 1870. Via the [Biodiversity Heritage Library](https://flic.kr/p/2kMkHxc)
 ---
 
-**Global Nodes events**
+**Global Nodes events**  
 The registered attendees for the Global Nodes Training on 16-17 October and the Global Nodes Meeting on 18 October 2025 will be notified when the meetings documents are available.  
 
 **Official Governing Board meeting**  
