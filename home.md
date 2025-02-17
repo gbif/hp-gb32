@@ -6,7 +6,7 @@ description: |
   The 32st meeting of the GBIF Governing Board and associated events,  
   Bogota, Colombia  
   16-20 October 2025  
-background: /assets/images/GB31-bg.jpg
+background: /assets/images/GB32-bg.jpg
 imageLicense: |
   GBIF secretariat 2025 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   
