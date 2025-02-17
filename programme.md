@@ -1,9 +1,9 @@
 ---
 title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB31-h-17.jpg
+background: /assets/images/GB32-hed-17.jpg
 imageLicense: |
-  Illustration of a peregrine falcon [*Falco peregrinus* Tunstall, 1771](https://www.gbif.org/species/2481047) from The birds of Shakespeare. Glasgow: James Maclehose and sons, 1916. Via [flickr](https://flic.kr/p/2m6MZjC)
+  Illustration of a Baird's tapir [*Tapirus bairdii* (Gill, 1865)](https://www.gbif.org/species/2440897) from Biologia Centrali-Americana by Edward R. Alston, 1879-1882. Via [flickr](https://flic.kr/p/dkewRT)
 toc: true
 ---
 
