@@ -13,7 +13,7 @@ var siteConfig = {
     occurrenceSearch: {
       url: ({basename}) => `${basename ? `/${basename}` : ''}/biodiversity-of-porto`,
       isHref: true,
-      route: '/biodiversity-of-porto' // the route you are currently using for occurrence search
+      route: '/biodiversity-of-bogota' // the route you are currently using for occurrence search
     }
   },
   occurrence: {
@@ -29,9 +29,9 @@ var siteConfig = {
     },
     highlightedFilters: ['taxonKey', 'occurrenceStatus', 'year', 'datasetName', 'occurrenceIssue', 'datasetKey'],
     mapSettings: {
-      zoom: 11.78,
-      lng: -8.6291,
-      lat: 41.1579
+      zoom: 10.4382664698,
+      lng: -74.07363139589552,
+      lat: 4.667173307296423
     }
   }
 };
