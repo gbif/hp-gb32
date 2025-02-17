@@ -23,7 +23,7 @@ var siteConfig = {
         {
           "type": "equals",
           "key": "gadmGid",
-          "value": "PRT.15_1"
+          "value": "COL.5.1_2"
         },
       ]
     },
