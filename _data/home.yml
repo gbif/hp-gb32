@@ -12,7 +12,7 @@ cards:
   features: 
   - title: Programme
     description: See the detailed programme for the events and download the one-page overview of all the events.
-    background: /assets/images/GB31-feat-08.jpg
+    background: /assets/images/GB32-feat-17.jpg
     href: /programme
     cta: 
     - text: download
@@ -20,19 +20,19 @@ cards:
       isPrimary: true
   - title: Registration
     description: Register for the meeting.
-    background: /assets/images/GB31-feat-06.jpg
+    background: /assets/images/GB32-feat-16.jpg
     href: /registration
   - title: Meeting documents
     description: Get access to the meeting documents.
-    background: /assets/images/GB31-feat-10.jpg
+    background: /assets/images/GB32-feat-15.jpg
     href: /meeting-documents
   - title: Financial support
     description: "Apply for financial support. Deadline: 30 April 2025."
-    background: /assets/images/GB31-feat-03.jpg
+    background: /assets/images/GB32-feat-14.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
     description: Find useful information on travel, hotels and venues.
-    background: /assets/images/GB31-feat-04.jpg
+    background: /assets/images/GB32-feat-13.jpg
     href: /travel-accommodation
 
 
@@ -43,7 +43,7 @@ occurrences:
   description: |      # required
     Check out the GBIF data for Porto.
   # img required
-  background: /assets/images/GB31-bg.jpg
+  background: /assets/images/GB32-bg.jpg
   imageLicense: |
     GBIF secretariat 2024 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   href: /biodiversity-of-porto?view=MAP
