@@ -1,9 +1,9 @@
 ---
 title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB31-h-15.jpg
+background: /assets/images/GB32-hed-13.jpg
 imageLicense: |
-  Illustration of a Portuguese Man O' War [*Physalia physalis* (Linnaeus, 1758).](https://www.gbif.org/species/2264734)from Manuel d'actinologie ou de zoophytologie. Paris, 1834-1836. Via the [Biodiversity Heritage Library](https://flic.kr/p/bSQdzZ)
+  Illustration of a Colombian lesserblack tarantula [*Xenesthis immanis* (Ausserer, 1875).](https://www.gbif.org/species/2153397)from Animaux venimeux et venins, Marie Phisalix. Paris, 1922. Via the [Biodiversity Heritage Library](https://flic.kr/p/2m6aa4z)
 toc: true
 mobileToc: true
 ---
