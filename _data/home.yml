@@ -39,15 +39,15 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=PRT.15_1&limit=0">550,000</span> occurrences in the district of Porto
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=COL.5.1_2&limit=0">55,000</span> occurrences in Bogota
   description: |      # required
-    Check out the GBIF data for Porto.
+    Check out the GBIF data for Bogota.
   # img required
   background: /assets/images/GB32-bg.jpg
   imageLicense: |
     GBIF secretariat 2024 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-  href: /biodiversity-of-porto?view=MAP
+  href: /biodiversity-of-bogota?view=MAP
   cta:
   - text: Explore the area
-    href: /biodiversity-of-porto?view=MAP
+    href: /biodiversity-of-bogota?view=MAP
     isPrimary: true
