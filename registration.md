@@ -1,9 +1,9 @@
 ---
 title: Registration
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB31-h-12.jpg
+background: /assets/images/GB32-hed-16.jpg
 imageLicense: |
-  Illustration from Description des échinodermes tertiaires du Portugal; accompagnée d'un tableau stratigraphique, 1896. Via the [Biodiversity Heritage Library](https://flic.kr/p/2kU5D9t)
+  Illustration of an Amazon water-lily (*Victoria amazonica* (Poepp.) Sowerby) from Victoria regia, or, The great water lily of America :with a brief account of its discovery and introduction into cultivation by John Fisk Allen. Boston, 1854. Via the [Biodiversity Heritage Library](https://flic.kr/p/eS1qte)
 ---
 
 Here you can register for: 
