@@ -8,7 +8,8 @@ toc: true
 ---
 
 The GB32 meeting and associated events will take place in Bogota, Colombia, in the period 16 - 20 October 2025. The GB32 events take place just before the start of the [Living Data 2025 conference](https://www.livingdata2025.com/).   
-Please note that unless indicated, the events will be in-person on site only. 
+
+Please note that unless indicated, the events will be in-person on site only.  
 
 [Pre-registration](/registration) is required for all events. 
 
@@ -30,7 +31,7 @@ Please read the information carefully before registering.
 Time: 09:00-17:00   
 Venue: TBC   
 
-*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information abou the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
+*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 ### Friday, 17 October 2025
 
@@ -38,16 +39,16 @@ Venue: TBC
 Time: 09:00-17:00   
 Venue: TBC 
 
-*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information abou the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
+*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 
 ### Saturday, 18 October 2025
 
-**Global Nodes Meeting**  
+**Global Nodes Meeting (online attendance possible)**  
 Time: 09:00-17:00   
 Venue: TBC 
 
-*The meeting is open to GBIF node managers and node staf CHECK WITH MR ABOUT THIS More information abou the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
+*The meeting is open to GBIF node managers and node staf CHECK WITH MR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
 
 **Budget Committee meeting**  
 Time: 12:30-17:00   
@@ -103,6 +104,8 @@ Venue: TBC
 
 *All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner at the Hall of Biodiversity – Ciência Viva Center*  
 
+
+### 21-24 October 2025  
 
 **Living Data 2025**  
 Following the GB32 events, the Living Data 2025 conference will take place. 
