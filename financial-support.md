@@ -1,9 +1,9 @@
 ---
 title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB31-h-14.jpg
+background: /assets/images/GB32-hed-14.jpg
 imageLicense: |
-  Illustration of a Fire salamander *Salamandra salamandra* (Linnaeus, 1758) from Recherches embryologiques, histologiques et physiologiques sur les glandes à venin de la salamandre terrestre. Paris, 1900. Via [Biodiversity Heritage Library.](https://flic.kr/p/2m4UnCV)
+  Illustration of a Apollo metalmark butterfly [(*Lyropteryx apollonia* Westwood, 1851)](https://www.gbif.org/species/165273183) from E.A. Seguy Papillons. Tolmer Editeur, Paris. Via [Biodiversity Heritage Library.](https://flic.kr/p/Diwh57)
 ---
 
 The GBIF Secretariat offers the possibility of applying for partial financial support to attend 1) the Global Nodes Training and Global Nodes Meeting on 16-18 October 2025 and/or 2) the Governing Board meeting on 19-20 October 2025. Support may include partial funding of economy-class fight tickets and a subsidy to cover accommodation.
