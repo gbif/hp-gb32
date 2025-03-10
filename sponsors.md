@@ -1,13 +1,9 @@
 ---
 title: Sponsors
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB31-h-16a.jpg
+background: /assets/images/GB32-hed-12.jpg
 imageLicense: |
-  lllustration of [*Mola mola* (Linnaeus, 1758)](https://www.gbif.org/species/5213725) from A history of Scandinavian fishes. Stockholm, 1892 via the [Biodiversity Heritage Library](https://flic.kr/p/fJ2w5W)
+  lllustration of a Central American Woolly Opossum [*Caluromys derbianus*  (Waterhouse, 1841)](https://www.gbif.org/species/2439992) from Biologia Centrali-Americana. Mammalia (1879-1882), via the [Biodiversity Heritage Library](https://flic.kr/p/dkeBX3)
 ---
 
 ## About the sponsors  
-
-
-
-
