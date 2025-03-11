@@ -6,7 +6,7 @@ imageLicense: |
   Illustration of a Apollo metalmark butterfly [(*Lyropteryx apollonia* Westwood, 1851)](https://www.gbif.org/species/165273183) from E.A. Seguy Papillons. Tolmer Editeur, Paris. Via [Biodiversity Heritage Library.](https://flic.kr/p/Diwh57)
 ---
 
-The GBIF Secretariat offers the possibility of applying for partial financial support to attend 1) the Global Nodes Training and Global Nodes Meeting on 16-18 October 2025 and/or 2) the Governing Board meeting on 19-20 October 2025. Support may include partial funding of economy-class fight tickets and a subsidy to cover accommodation.
+The GBIF Secretariat offers the possibility of applying for partial financial support to attend 1) the **Global Nodes Training and Global Nodes Meeting** on 16-18 October 2025 and/or 2) the **Governing Board meeting** on 19-20 October 2025. Support may include partial funding of economy-class fight tickets and a subsidy to cover accommodation.
 
 **The application process is now open.**  
 
@@ -14,11 +14,11 @@ Please see below for more details on the guidelines for seeking partial funding 
 
 The deadline for applying is **30 April 2025**.  
 
-The GBIF Secretariat will inform applicants aobut the outcome of their application shortly after the deadline.  
+The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline.  
 
 # Events covered 
 
-## Global Nodes Training and Global Nodes Meeting. 16-18 October 2025
+## Global Nodes Training and Global Nodes Meeting, 16-18 October 2025
 
 Partial financial support is only available to those who will attend both the Global Nodes Training and Global Nodes Meeting. 
 
