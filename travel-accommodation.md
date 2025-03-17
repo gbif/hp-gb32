@@ -23,7 +23,7 @@ Holders of the following passports are exempt from a visa for a short stay (List
 Nationals of States with Conditional Visa Exemption for a Short Stay (List C):
 - Cambodia, India, Nicaragua, Myanmar, People's Republic of China, Thailand, Taiwan, Vietnam.
 
-Visitors who do require a visa should apply well in advance through the Colombian embassy or consulate in their country. For visa applications and requirements, please visit the official Colombian Ministry of Foreign Affairs website: [https://www.cancilleria.gov.co/en/procedures_services/visa](https://www.cancilleria.gov.co/en/procedures_services/visa)  
+Visitors who do require a visa should apply well in advance through the Colombian embassy or consulate in their country. For visa applications and requirements, please visit the official Colombian Ministry of Foreign Affairs website: [https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos](https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos).  
 
 If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
 
