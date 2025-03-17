@@ -28,7 +28,7 @@ Visitors who do require a visa should apply well in advance through the Colombia
 If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
 
 ### Health requirements - Vaccinations
-Vaccinations: No mandatory vaccinations are required for entry unless arriving from countries with risk of yellow fever transmission. Yellow fever vaccination is recommended for travelers visiting certain areas of Colombia like the Amazon or the Chocó region.  
+No mandatory vaccinations are required for entry unless arriving from countries with risk of yellow fever transmission. Yellow fever vaccination is recommended for travelers visiting certain areas of Colombia like the Amazon or the Chocó region.  
 
 ### Insurance
 Meeting attendees are advised to ensure appropriate comprehensive health and travel insurance for travel to Colombia.  
