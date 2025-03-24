@@ -34,7 +34,7 @@ As the funds available are limited, the requests for support will be prioritized
 ## Governing Board meeting, 19-20 October 2025
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants from countries with per capita GDP below USD 13,500 which are in good standing in regard to GBIF financial contributions.  
 
-These countries will be countries whose per capita GDP was less than USD13,500 according to the 2020 World Bank figures, the benchmark used to apply discountedcontributions in the current GBIF funding period (2023-2027). See list of GBIF country members [here](/assets/documents/GB32_VP_low_GPD.pdf).  
+These countries will be countries whose per capita GDP was less than USD13,500 according to the 2020 World Bank figures, the benchmark used to apply discountedcontributions in the current GBIF funding period (2023-2027). See list [here](/assets/documents/GB32_VP_low_GPD.pdf).  
 
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partialsupport. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
