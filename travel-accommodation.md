@@ -50,7 +50,7 @@ Meeting attendees are asked to organize their own accommodation.
 
 More information about hotels in the area will be provided at a later stage. 
 
-For attendees who will also attend the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, it is recommened to move to a hotel closer to the Living Data 2025 conference venue as local transportation can possibly take a long time due to traffic in the city. 
+For attendees who will also attend the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, it is recommened to stay at a hotel close to the Living Data 2025 conference venue as local transportation can possibly take a long time due to traffic in the city. 
 
 ## Venues
 
