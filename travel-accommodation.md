@@ -141,7 +141,19 @@ Colombia offers diverse attractions from colonial architecture to natural wonder
 - Salt Cathedral of Zipaquirá (day trip)
 - Botanical Garden of Bogota
 
-NEEDS COMPLETION: Links to local tourism offices and recommended tour operators
 
+If you want to explore more of the country, [bordadda events and experiences studio](https://www.bordadda.com/) offers a number of tours (both nature focused and city visits): 
+- La Aurora
+- Altagracia
+- La Manigua
+- Amazon
+- Ciudad Antigua
+- Mataven & Inirida
+- Cartagena
+- Bogotá
+- Medellin
+- Cali
 
+You can find more information about the tours here. 
 
+Please contact Canuka Diaz at bordadda at [camila@bordadda.com](camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
