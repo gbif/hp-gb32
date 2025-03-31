@@ -9,7 +9,7 @@ imageLicense: |
 ### National host
 Please contact the national host if you have any questions regarding practical information relating to the meetings or your stay in Colombia:  
 
-Email: [sib@humboldt.org.co](sib@humboldt.org.co)
+Email: [sib@humboldt.org.co](mailto:sib@humboldt.org.co)
 ### GBIF Secretariat
 Please contact the GBIF Secretariat if you have any questions regarding the following:
 - rules for attending the GB32 events
