@@ -7,3 +7,5 @@ imageLicense: |
 ---
 
 ## About the sponsors  
+
+Information will be added shortly.  
