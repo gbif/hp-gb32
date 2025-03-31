@@ -72,9 +72,7 @@ The venue for the Governing Board meeting on 19-20 October has not yet been conf
 The venues for the other events that have not been confirmed, will be added as soon as possible.  
 
 ## Map
-The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13).    
-
-<iframe src="https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13" width="640" height="480"></iframe>
+The location of the meeting venues and some of the nearest hotels can be found in the map found [here](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13).    
 
 
 ## General information
