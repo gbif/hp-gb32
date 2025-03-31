@@ -61,6 +61,10 @@ Colombia
 <a href="https://www.humboldt.org.co/" target="_blank">Web site: https://www.humboldt.org.co/</a>  
 <a href="https://www.google.com/maps/dir//Av+Circunvalar+%231620,+Bogot%C3%A1/@4.5978632,-74.1442584,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f99ba5ddebf2f:0x1f76da936a80f001!2m2!1d-74.0618854!2d4.5978215?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">How to get there</a>.  
 
+![Humboldt Institute</a>](/assets/images/Humboldt.png){:standalone}
+
+
+
 *The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
 
 ### Other venues
