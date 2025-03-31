@@ -7,7 +7,7 @@ imageLicense: |
 toc: true
 ---
 
-The GB32 meeting and associated events will take place in Bogota, Colombia, in the period 16 - 20 October 2025. The GB32 events take place just before the start of the [Living Data 2025 conference](https://www.livingdata2025.com/).   
+The GB32 meeting and associated events will take place in Bogota, Colombia, in the period 16 - 20 October 2025. The GB32 events take place just before the start of the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 Conference</a>.    
 
 Please note that unless indicated, the events will be in-person on site only.  
 
