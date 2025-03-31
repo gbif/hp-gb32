@@ -54,38 +54,18 @@ For attendees who will also attend the [Living Data 2025 conference](https://www
 
 ## Venues
 
-### MEETING VENUE NAME 
-ADDRESS   
-POSSIBLY ADD IMAGE?  
+### Humboldt Institute 
+ADD ADDRESS   
 
-*ADD DESCRIPTION AND LIST THE EVENTS THAT WILL TAKE PLACE AT THIS VENUE*  
+*The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
 
-### ICEBREAKER VENUE NAME  
-ADDRESS
-POSSIBLY ADD IMAGE?
+### Other venues
+The venue for the Governing Board meeting on 19-20 October has not yet been confirmed, but it will be in the Salitre area of Bogotá, not far from the venue of the Living Data 2025 conference. Once the venue has been confirmed, the information will be made available on this website.
 
-*The Icebreaker will take place at XXXXX on XX October 2025.*  
-
-### DINNER VENUE NAME  
-ADDRESS  
-POSSIBLY ADD IMAGE?  
-
-*The Dinner will take place at XXXXX on X October 2025.*
-
-*Based at Casa Andresen, at Porto’s Botanical Garden, the Hall of Biodiversity – Ciência Viva Center is the outcome of the first phase of the ambitious rehabilitation project of the MHNC-UP, which is currently underway in close collaboration with Ciência Vitva Agency.*  
-
-
-
-### How to get to/from venues 
-
-XXXXX
-
-
+The venues for the other events that have not been confirmed, will be added as soon as possible.  
 
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&usp=sharing).    
-
-ADD IFRAME
 
 
 ## General information
