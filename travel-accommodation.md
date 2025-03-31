@@ -75,8 +75,7 @@ The venues for the other events that have not been confirmed, will be added as s
 ## Map
 The location of the meeting venues and some of the nearest hotels can be found in the map below or by clicking [here](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13).    
 
-<iframe src="[https://www.google.com/maps/d/embed?mid=10elMgkKZAvQA2lo6P9cL1pjYGV_iOv0&hl=en&ehbc=2E312F](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13)" width="640" height="480"></iframe>
-
+<iframe src="https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13" width="640" height="480"></iframe>
 
 
 ## General information
