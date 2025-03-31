@@ -13,7 +13,7 @@ Here you can register for:
 - GBIF Governing Board meeting
 - Social events
 
-**Before registering, we kindly ask you to read the requirements for registering for the events in the 'General Terms and Conditions for the GB32 meeting and associated events' ADD LINK.**  
+**Before registering, we kindly ask you to read the requirements for registering for the events in the ['General Terms and Conditions for the GB32 meeting and associated events'](/assets/documents/GB32_terms.pdf).**  
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat. 
 
