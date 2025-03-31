@@ -11,7 +11,10 @@ The GB32 meeting and associated events will take place in Bogota, Colombia, in t
 
 Please note that unless indicated, the events will be in-person on site only.  
 
-[Pre-registration](/registration) is required for all events. 
+[Pre-registration](/registration) is required for all GB32 events. 
+
+If you wish to attend the Living Data 2025 conference, please register at the official conference website at [Living Data 2025 conference](https://www.livingdata2025.com/).  
+
 
 
 ## Printable GB32 PDF programme
@@ -19,6 +22,7 @@ Please note that unless indicated, the events will be in-person on site only.
 Download a printable one-page overview of the GB32 meeting and associated events.
 
 [Download one-page programme](/assets/documents/programme.pdf){: .button .is-primary}
+
 
 ## List of events
 Below is a list of all the events associated with GB32. 
@@ -29,38 +33,17 @@ Please read the information carefully before registering.
 
 **Global Nodes Training - Day 1**  
 Time: 09:00-17:00   
-Venue: TBC   
+Venue: Humboldt Institute   
 
-*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
+*The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
 ### Friday, 17 October 2025
 
 **Global Nodes Training - Day 2**  
 Time: 09:00-17:00   
-Venue: TBC 
+Venue: Humboldt Institute 
 
-*The training is open to GBIF node managers and node staf CHECK WITH LAR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
-
-
-### Saturday, 18 October 2025
-
-**Global Nodes Meeting (online attendance possible)**  
-Time: 09:00-17:00   
-Venue: TBC 
-
-*The meeting is open to GBIF node managers and node staf CHECK WITH MR ABOUT THIS More information about the Global Nodes Training and Meeting can be found at [https://globalnodes.gbif.org/](https://globalnodes.gbif.org/).*  
-
-**Budget Committee meeting**  
-Time: 12:30-17:00   
-Venue: TBC   
-
-*The meeting is open to members of the GBIF Budget Committee*
-
-**Science Committee meeting**  
-Time: 12:30-17:00   
-Venue: TBC   
-
-*The meeting is open to members of the GBIF Science Committee*
+*The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
 **Nodes Steering Group meeting**  
 Time: 17:00-20:00   
@@ -68,11 +51,31 @@ Venue: TBC
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
-**Icebreaker - Date TBC**   
+### Saturday, 18 October 2025
+
+**Global Nodes Meeting (online attendance possible)**  
+Time: 09:00-17:00   
+Venue: Humboldt Institute 
+
+*The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
+
+**Budget Committee meeting**  
+Time: 13:30-17:00   
+Venue: Humboldt Institute   
+
+*The meeting is open to members of the GBIF Budget Committee*
+
+**Science Committee meeting**  
+Time: 13:30-17:00   
+Venue: Humboldt Institute   
+
+*The meeting is open to members of the GBIF Science Committee*
+
+**Icebreaker**   
 Time: TBC   
 Venue: TBC  
 
-*All GBIF Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
+*All GBIF nodes, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
 
 
 ### Sunday, 19 October 2025
@@ -98,12 +101,11 @@ Venue: TBC
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
-**GB32 Dinner - Date TBC**      
-Time: TBC   
+**Executive Committee meeting 2**  
+Time: 17:00-18:00  
 Venue: TBC    
 
-*All Governing Board delegates, GBIF committee members and invited observers are invited to join the dinner at the Hall of Biodiversity – Ciência Viva Center*  
-
+*The meeting is open to members of the GBIF Executive Committee*
 
 ### 21-24 October 2025  
 
@@ -111,6 +113,3 @@ Venue: TBC
 Following the GB32 events, the Living Data 2025 conference will take place. 
 
 More information available at [https://www.livingdata2025.com/](https://www.livingdata2025.com/)
-
-
-
