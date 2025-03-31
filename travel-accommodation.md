@@ -154,6 +154,6 @@ If you want to explore more of the country, [bordadda events and experiences stu
 - Medellin
 - Cali
 
-You can find more information about the tours here. 
+You can find more information about the specific tours [here](/assets/documents/Tours.pdf).  
 
-Please contact Canuka Diaz at bordadda at [camila@bordadda.com](camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
+Please contact Camila Diaz at bordadda at [camila@bordadda.com](camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
