@@ -48,6 +48,8 @@ Fill in the GB32 application form for partial financial support and submit it no
 
 Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Recognizing the lengthy time span between purchase of flight ticket and reimbursement of costs, the GBIF Secretariat offers the opportunity to reimburse flight costs straight after the tickets have been purchased, based on receipts, if needed. If applicants do not have the means to pre-finance the cost of a flight ticket, they may apply for GBIF to pay the air ticket costs directly. 
 
+Please read the conditions section in the application form carefully. Non-compliance may result in loss of future travel reimbursement.  
+
 The accommodation subsidy will be 100 Euro per night. GBIF will cover arrival the night before the event starts and departure the day after the end of the event. The subsidy will be reimbursed to you after the event.
 
 If selected for funding, the GBIF Secretariat will send you the reimbursement form for the air ticket costs (if not already covered directly by GBIF) and the accommodation subsidy. The reimbursement form must be submitted together with proof of costs by no later than two month after the meeting.
