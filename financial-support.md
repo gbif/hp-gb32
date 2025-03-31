@@ -44,7 +44,7 @@ Individuals attending both the Global Nodes Training and Global Nodes Meeting an
 ## How to apply
 Fill in the GB32 application form for partial financial support and submit it no later than **30 April 2025. Applications received after the deadline will not be considered.**   
 
-**Link to application form [here](https://docs.google.com/forms/d/e/1FAIpQLScoplI1y89JeEUAwCzaM2QjiR1G9_9HlnYDtPP9caCWY00E6A/viewform?usp=sharing)**  
+**The application form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScoplI1y89JeEUAwCzaM2QjiR1G9_9HlnYDtPP9caCWY00E6A/viewform?usp=sharing)**  
 
 Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Recognizing the lengthy time span between purchase of flight ticket and reimbursement of costs, the GBIF Secretariat offers the opportunity to reimburse flight costs straight after the tickets have been purchased, based on receipts, if needed. If applicants do not have the means to pre-finance the cost of a flight ticket, they may apply for GBIF to pay the air ticket costs directly. 
 
