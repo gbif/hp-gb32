@@ -13,7 +13,7 @@ Please note that unless indicated, the events will be in-person on site only.
 
 [Pre-registration](/registration) is required for all GB32 events. 
 
-If you wish to attend the Living Data 2025 conference, please register at the official conference website at [Living Data 2025 conference](https://www.livingdata2025.com/).  
+If you wish to attend the Living Data 2025 conference, please register at the official conference website at <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 Conference</a>.  
 
 
 
@@ -112,4 +112,4 @@ Venue: TBC
 **Living Data 2025**  
 Following the GB32 events, the Living Data 2025 conference will take place. 
 
-More information available at [https://www.livingdata2025.com/](https://www.livingdata2025.com/)
+More information available at <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 Conference</a>  
