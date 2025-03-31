@@ -23,7 +23,7 @@ Holders of the following passports are exempt from a visa for a short stay (List
 Nationals of States with Conditional Visa Exemption for a Short Stay (List C):
 - Cambodia, India, Nicaragua, Myanmar, People's Republic of China, Thailand, Taiwan, Vietnam.
 
-Visitors who do require a visa should apply well in advance through the Colombian embassy or consulate in their country. For visa applications and requirements, please visit the official Colombian Ministry of Foreign Affairs website: [https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos](https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos).  
+Visitors who do require a visa should apply well in advance through the Colombian embassy or consulate in their country. For visa applications and requirements, please visit the official Colombian Ministry of Foreign Affairs website: <a href="https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos" target="_blank">https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos</a>.  
 
 If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
 
@@ -36,7 +36,7 @@ Meeting attendees are advised to ensure appropriate comprehensive health and tra
 ## Arriving in Colombia 
 
 ### International Airports
-The primary gateway for international arrivals is [El Dorado International Airport (BOG)](https://eldorado.aero/) in Bogota. The airport is located approximately 15 km (9.3 miles) from the city center.
+The primary gateway for international arrivals is <a href="https://eldorado.aero/" target="_blank">El Dorado International Airport (BOG)</a> in Bogota. The airport is located approximately 15 km (9.3 miles) from the city center.
 Direct international flights connect Bogota with major cities throughout the Americas, Europe, and some destinations in Asia.  
 
 ### Transportation from the Airport
@@ -50,7 +50,7 @@ Meeting attendees are asked to organize their own accommodation.
 
 More information about hotels in the area will be provided at a later stage. 
 
-For attendees who will also attend the [Living Data 2025 conference](https://www.livingdata2025.com/), it is recommened to move to a hotel closer to the Living Data 2025 conference venue as local transportation can possibly take a long time due to traffic in the city. 
+For attendees who will also attend the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, it is recommened to move to a hotel closer to the Living Data 2025 conference venue as local transportation can possibly take a long time due to traffic in the city. 
 
 ## Venues
 
@@ -62,7 +62,6 @@ Colombia
 <a href="https://www.google.com/maps/dir//Av+Circunvalar+%231620,+Bogot%C3%A1/@4.5978632,-74.1442584,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f99ba5ddebf2f:0x1f76da936a80f001!2m2!1d-74.0618854!2d4.5978215?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">How to get there</a>.  
 
 ![Humboldt Institute</a>](/assets/images/Humboldt.png){:standalone}
-
 
 
 *The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
@@ -132,7 +131,7 @@ Colombia offers diverse attractions from colonial architecture to natural wonder
 - Botanical Garden of Bogota
 
 
-If you want to explore more of the country, [bordadda events and experiences studio](https://www.bordadda.com/) offers a number of tours (both nature focused and city visits): 
+If you want to explore more of the country, <a href="https://www.bordadda.com/" target="_blank">bordadda events and experiences studio</a> offers a number of tours (both nature focused and city visits): 
 - La Aurora
 - Altagracia
 - La Manigua
@@ -144,6 +143,6 @@ If you want to explore more of the country, [bordadda events and experiences stu
 - Medellin
 - Cali
 
-You can find more information about the specific tours [here](/assets/documents/Tours.pdf).  
+You can find more information about the specific tours **[here](/assets/documents/Tours.pdf)**.  
 
 Please contact Camila Diaz at bordadda at [camila@bordadda.com](camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
