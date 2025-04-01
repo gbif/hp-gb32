@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   GB32 meeting site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gb32.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gbif
+# twitter_username: gbif
 github_username:  gbif
 
 # Build settings
