@@ -57,7 +57,7 @@ Venue: TBC
 Time: 09:00-17:00   
 Venue: Humboldt Institute 
 
-*The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
+*The meeting is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
 **Budget Committee meeting**  
 Time: 13:30-17:00   
