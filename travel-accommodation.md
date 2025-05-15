@@ -44,6 +44,10 @@ Direct international flights connect Bogota with major cities throughout the Ame
 - Ride-sharing: Services like Uber and Cabify operate in Bogota. ~12 US  
 - Airport Bus: The TransMilenio public bus system connects the airport to the city. 1 US and card for 3 US
 
+## Local transportation
+
+The local organizers are looking into providing local transportation to the venues. Please sign up using this link if you wish to be included in the local transportation service.  
+Click here and fill in the required information.  
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
@@ -69,13 +73,13 @@ Colombia
 ### Botanical Garden  
 Jardín Botánico de Bogotá José Celestino Mutis
 BIODIVERSARIO
-Cl 63 #68-95, Bogotá  
+Av. Calle 63 #68-95, Bogotá  
 Colombia  
 <a href="http://www.jbb.gov.co/" target="blank">Website: http://www.jbb.gov.co/</a>  
 
 ![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
 
-*The Governing Board meeting and the Executive Committee 1 will take place at the BIODIVERSARIO at the Botanical Garden.*   
+*The Governing Board meeting and the Executive Committee meeting 1 will take place at the BIODIVERSARIO at the Botanical Garden.*   
 
 ### Other venues
 The venues for the other events that have not been confirmed, will be added as soon as possible.  
