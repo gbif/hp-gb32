@@ -66,9 +66,18 @@ Colombia
 
 *The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
 
-### Other venues
-The venue for the Governing Board meeting on 19-20 October has not yet been confirmed, but it will be in the Salitre area of Bogotá, not far from the venue of the Living Data 2025 conference. Once the venue has been confirmed, the information will be made available on this website.
+### Botanical Garden  
+Jardín Botánico de Bogotá José Celestino Mutis
+BIODIVERSARIO
+Cl 63 #68-95, Bogotá  
+Colombia  
+<a href="http://www.jbb.gov.co/" target="blank">Website: http://www.jbb.gov.co/</a>  
 
+![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
+
+*The Governing Board meeting and the Executive Committee 1 will take place at the BIODIVERSARIO at the Botanical Garden.*   
+
+### Other venues
 The venues for the other events that have not been confirmed, will be added as soon as possible.  
 
 ## Map
