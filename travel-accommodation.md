@@ -45,9 +45,9 @@ Direct international flights connect Bogota with major cities throughout the Ame
 - Airport Bus: The TransMilenio public bus system connects the airport to the city. 1 US and card for 3 US
 
 ## Local transportation
-The local organizers are looking into providing local transportation to the meeting venues for people attending the GB32 events. Please fill in the local tranportation form if you wish to be included in the local transportation service.  
+The local organizers are looking into providing local transportation to the meeting venues for people attending the GB32 events. If you wish to be included in the local transportation service, please fill in the Local transportation form.  
 
-Click [here](https://forms.gle/ctW7FHoT4ReqoHtV6) and fill in the required information.  
+Click <a href="https://forms.gle/ctW7FHoT4ReqoHtV6" target="_blank"> here</a> and fill in the required information.  
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
@@ -63,7 +63,7 @@ Colombia
 
 Special rate information:  
 - The special rate is guaranteed for the dates of the Living Data 2025 conference
-- For dates of the GB32 pre-events or additional days before/after the conferences, the special rate is subject to availability
+- For dates of the GB32 events or additional days before/after the conferences, the special rate is subject to availability
 
 To make a reservation with the special event rate:  
 - Please contact directly: Nicolas Gonzalez  
@@ -81,7 +81,7 @@ More information about additional recommended hotels in the area will be provide
 Alexander von Humboldt Research Institute  
 Av Circunvalar,  # 16 - 20, Bogotá  
 Colombia  
-<a href="https://www.humboldt.org.co/" target="_blank">Web site: https://www.humboldt.org.co/</a>  
+<a href="https://www.humboldt.org.co/" target="_blank">Web site/</a>  
 <a href="https://www.google.com/maps/dir//Av+Circunvalar+%231620,+Bogot%C3%A1/@4.5978632,-74.1442584,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f99ba5ddebf2f:0x1f76da936a80f001!2m2!1d-74.0618854!2d4.5978215?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">How to get there</a>.  
 
 ![Humboldt Institute</a>](/assets/images/Humboldt.png){:standalone}
@@ -94,7 +94,7 @@ Jardín Botánico de Bogotá José Celestino Mutis
 BIODIVERSARIO
 Av. Calle 63 #68-95, Bogotá  
 Colombia  
-<a href="http://www.jbb.gov.co/" target="blank">Website: http://www.jbb.gov.co/</a>  
+<a href="http://www.jbb.gov.co/" target="blank">Website/</a>  
 
 ![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
 
