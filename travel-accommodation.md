@@ -45,16 +45,35 @@ Direct international flights connect Bogota with major cities throughout the Ame
 - Airport Bus: The TransMilenio public bus system connects the airport to the city. 1 US and card for 3 US
 
 ## Local transportation
+The local organizers are looking into providing local transportation to the meeting venues for people attending the GB32 events. Please fill in the local tranportation form if you wish to be included in the local transportation service.  
 
-The local organizers are looking into providing local transportation to the venues. Please sign up using this link if you wish to be included in the local transportation service.  
-Click here and fill in the required information.  
+Click [here](https://forms.gle/ctW7FHoT4ReqoHtV6) and fill in the required information.  
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
 
-More information about hotels in the area will be provided at a later stage. 
+**Hotel recommendation**  
+The local organizers are pleased to inform that the Grand Hyatt Bogotá, venue for the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, is offering a special rate for GBIF GB32 meeting attendees.
 
-For attendees who will also attend the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, it is recommened to stay at a hotel close to the Living Data 2025 conference venue as local transportation can possibly take a long time due to traffic in the city. 
+Grand Hyatt Bogotá  
+Calle 24 A # 57 – 60  
+11321 Bogotá  
+Colombia  
+<a href="https://www.hyatt.com/grand-hyatt/en-US/boggh-grand-hyatt-bogota" target="_blank">Website</a>
+
+Special rate information:  
+- The special rate is guaranteed for the dates of the Living Data 2025 conference
+- For dates of the GB32 pre-events or additional days before/after the conferences, the special rate is subject to availability
+
+To make a reservation with the special event rate:  
+- Please contact directly: Nicolas Gonzalez  
+- Email: nicolas.gonzalez@hyatt.com  
+- When contacting, mention that you are attending the "Living Data 2025 conference"  
+- Please specify all your required dates clearly in your email  
+
+For any questions regarding accommodation, you can contact the event organizers.
+
+More information about additional recommended hotels in the area will be provided at a later stage.  
 
 ## Venues
 
