@@ -67,7 +67,7 @@ Special rate information:
 
 To make a reservation with the special event rate:  
 - Please contact directly: Nicolas Gonzalez  
-- Email: nicolas.gonzalez@hyatt.com  
+- Email: [nicolas.gonzalez@hyatt.com](mailto:nicolas.gonzalez@hyatt.com)    
 - When contacting, mention that you are attending the "Living Data 2025 conference"  
 - Please specify all your required dates clearly in your email  
 
@@ -175,4 +175,4 @@ If you want to explore more of the country, <a href="https://www.bordadda.com/" 
 
 You can find more information about the specific tours **[here](/assets/documents/Tours.pdf)**.  
 
-Please contact Camila Diaz at bordadda at [camila@bordadda.com](camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
+Please contact Camila Diaz at bordadda at [camila@bordadda.com](mailto:camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
