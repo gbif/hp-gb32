@@ -52,10 +52,10 @@ Click <a href="https://forms.gle/ctW7FHoT4ReqoHtV6" target="_blank"> here</a> an
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
 
-**Hotel recommendation**  
+### Hotel recommendations
 The local organizers are pleased to inform that the Grand Hyatt Bogotá, venue for the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, is offering a special rate for GBIF GB32 meeting attendees.
 
-Grand Hyatt Bogotá  
+**Grand Hyatt Bogotá**  
 Calle 24 A # 57 – 60  
 11321 Bogotá  
 Colombia  
@@ -70,6 +70,62 @@ To make a reservation with the special event rate:
 - Email: [nicolas.gonzalez@hyatt.com](mailto:nicolas.gonzalez@hyatt.com)    
 - When contacting, mention that you are attending the "Living Data 2025 conference"  
 - Please specify all your required dates clearly in your email  
+
+
+**Fairfield by Marriott**  
+Av. La Esperanza No. 51-40  
+Bogotá, D. C.  
+Colombia  
+
+This hotel is also located close to the GB32 venue (5.4 km, approximately 15 minutes by car, depending on traffic) and the Humboldt Institute (13.3 km, or about 30 minutes by car, depending on traffic).  
+
+Special rate information:
+- The special rate is guaranteed for dates of the GB32, but reservations have to be made before August 30th.  
+
+To make a reservation with the special event rate: 
+- Please contact directly: Adriana González Gaviria at email: [ventas04.FFB@hotelesdiplomat.com](mailto:ventas04.FFB@hotelesdiplomat.com) or phone +57 601 4893000 | Cellphone: +57 321 225 2213  
+- When contacting, mention that you are attending the “GB32 on behalf of the Humboldt Institute"
+- Please specify all your required dates with preferential rates clearly in your email.
+
+
+**Holiday Inn Aeropuerto**  
+Avenida Calle 26 #  69D-91  
+Bogotá, D. C. 
+Colombia 
+
+This hotel is located close to the GB32 venue (5.4 km, approximately 8 minutes by car, depending on traffic) and the Humboldt Institute (10 km, or about 25 minutes by car, depending on traffic).  
+
+Special rate information:
+- The special rate is guaranteed for dates of the GB32.
+
+To make a reservation with the special event rate:
+- Please contact directly: Alexandra Rodriguez Paredes at phone: +57 601 ​4045151 or email [arodriguezp@metro-op.com](mailto:arodriguezp@metro-op.com), and CC Sandra Chaparro at email [schaparrom@metro-op.com](mailto:schaparrom@metro-op.com)  
+- When contacting, mention that you are attending the “GB32 on behalf of the Humboldt Institute"
+- Please specify all your required dates with preferential rates clearly in your email.
+
+
+**Habital Hotels**
+
+Hotel Habital Select 
+Avenida El Dorado #100-89 
+Fontibón, Bogotá, D. C. 
+Colombia 
+
+Hotel Habital Prime 
+Avenida El Dorado #100-97 
+Fontibón, Bogotá, D. C. 
+Colombia 
+
+These hotels are three minutes from the airport, but far from the venues at Humboldt Institute (13.3 Km or 45 minutes by car, depending on traffic). However, please note that they are far from the event location, so travel time should be taken into account if you choose to stay there.
+
+Special rate information:
+- The special rate is guaranteed for dates of the GB32.
+
+To make a reservation with the special event rate:
+- Please contact directly: Angélica Parra at email [angelica.parra@habitelhotels.com](mailto:angelica.parra@habitelhotels.com) with CC to [reservas@habitelhotels.com](mailto:reservas@habitelhotels.com)  
+- When contacting, mention that you are attending the “GB32 on behalf of the Humboldt Institute"
+- Please specify all your required dates with preferential rates clearly in your email
+
 
 For any questions regarding accommodation, you can contact the event organizers.
 
