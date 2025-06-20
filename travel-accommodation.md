@@ -83,7 +83,7 @@ Special rate information:
 - The special rate is guaranteed for dates of the GB32, but reservations have to be made before August 30th.  
 
 To make a reservation with the special event rate: 
-- Please contact directly: Adriana González Gaviria at email: [ventas04.FFB@hotelesdiplomat.com](mailto:ventas04.FFB@hotelesdiplomat.com) or phone +57 601 4893000 | Cellphone: +57 321 225 2213  
+- Please contact directly: Adriana González Gaviria at email: [ventas04.FFB@hotelesdiplomat.com](mailto:ventas04.FFB@hotelesdiplomat.com) or phone +57 601 4893000, cellphone: +57 321 225 2213  
 - When contacting, mention that you are attending the “GB32 on behalf of the Humboldt Institute"
 - Please specify all your required dates with preferential rates clearly in your email.
 
