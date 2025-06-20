@@ -106,15 +106,15 @@ To make a reservation with the special event rate:
 
 **Habital Hotels**
 
-Hotel Habital Select 
-Avenida El Dorado #100-89 
-Fontibón, Bogotá, D. C. 
-Colombia 
+Hotel Habital Select  
+Avenida El Dorado #100-89  
+Fontibón, Bogotá, D. C.  
+Colombia  
 
-Hotel Habital Prime 
-Avenida El Dorado #100-97 
-Fontibón, Bogotá, D. C. 
-Colombia 
+Hotel Habital Prime  
+Avenida El Dorado #100-97  
+Fontibón, Bogotá, D. C.  
+Colombia  
 
 These hotels are three minutes from the airport, but far from the venues at Humboldt Institute (13.3 Km or 45 minutes by car, depending on traffic). However, please note that they are far from the event location, so travel time should be taken into account if you choose to stay there.
 
