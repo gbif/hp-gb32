@@ -152,10 +152,10 @@ Colombia
 *The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
 
 ### Botanical Garden  
-Jardín Botánico de Bogotá José Celestino Mutis
-BIODIVERSARIO
-Av. Calle 63 #68-95, Bogotá  
-Colombia  
+Jardín Botánico de Bogotá José Celestino Mutis  
+BIODIVERSARIO  
+Av. Calle 63 #68-95, Bogotá   
+Colombia   
 <a href="http://www.jbb.gov.co/" target="blank">Website/</a>  
 
 ![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
