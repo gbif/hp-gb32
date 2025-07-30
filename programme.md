@@ -32,7 +32,7 @@ Please read the information carefully before registering.
 ### Thursday, 16 October 2025
 
 **Global Nodes Training - Day 1**  
-Time: 09:00-17:00   
+Time: 08:45-17:00   
 Venue: Humboldt Institute   
 
 *The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
@@ -40,7 +40,7 @@ Venue: Humboldt Institute
 ### Friday, 17 October 2025
 
 **Global Nodes Training - Day 2**  
-Time: 09:00-17:00   
+Time: 08:45-17:00   
 Venue: Humboldt Institute 
 
 *The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
@@ -54,7 +54,7 @@ Venue: TBC
 ### Saturday, 18 October 2025
 
 **Global Nodes Meeting (online attendance possible)**  
-Time: 09:00-17:00   
+Time: 08:45-17:00   
 Venue: Humboldt Institute 
 
 *The meeting is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
@@ -82,13 +82,13 @@ Venue: TBC
 
 **Executive Committee meeting 1**  
 Time: 09:00-12:30  
-Venue: TBC    
+Venue: Botanical Garden     
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Governing Board meeting Day 1**  
 Time: 13:30-17:00   
-Venue: TBC   
+Venue: BIODIVERSARIO, Botanical Garden   
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
@@ -97,7 +97,7 @@ Venue: TBC
 
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: TBC   
+Venue: BIODIVERSARIO, Botanical Garden      
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
