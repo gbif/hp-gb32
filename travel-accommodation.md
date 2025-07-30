@@ -133,6 +133,9 @@ More information about additional recommended hotels in the area will be provide
 
 ## Venues
 
+As the weather can be a bit unpredictable, and some of the lunch venues are located in a place where the attendees will have to go outside to reach the lunch room, we recommend that people bring rain coats and umbrellas.  
+
+
 ### Humboldt Institute 
 Alexander von Humboldt Research Institute  
 Av Circunvalar,  # 16 - 20, Bogotá  
