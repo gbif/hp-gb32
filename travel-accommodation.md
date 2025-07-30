@@ -25,6 +25,11 @@ Nationals of States with Conditional Visa Exemption for a Short Stay (List C):
 
 Visitors who do require a visa should apply well in advance through the Colombian embassy or consulate in their country. For visa applications and requirements, please visit the official Colombian Ministry of Foreign Affairs website: <a href="https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos" target="_blank">https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos</a>.  
 
+When applying, please select the **Event VISA** type.  
+
+*Additional information: The Colombian State, through the Ministry of Foreign Affairs, has established the Pretoria Consulate in South Africa. This consulate serves Colombians and foreigners located in the Constituency throughout South Africa and in the Republic of Angola, the Republic of Botswana, the Republic of Namibia, the Republic of Zambia, the Republic of Malawi, the Republic of Mozambique, the Republic of Zimbabwe, the Kingdom of Lesotho, the Kingdom of Swaziland, the Republic of Madagascar, and the Republic of Mauritius. All nationals and foreigners residing in the former district have access to the services of this consulate without the need for intermediaries". Source: [https://pretoria.consulado.gov.co/node/2636](https://pretoria.consulado.gov.co/node/2636).*
+
+
 If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
 
 ### Health requirements - Vaccinations
