@@ -127,9 +127,12 @@ To make a reservation with the special event rate:
 - Please specify all your required dates with preferential rates clearly in your email
 
 
-For any questions regarding accommodation, you can contact the event organizers.
+### Living Data / Datos Vivos partner hotels
 
-More information about additional recommended hotels in the area will be provided at a later stage.  
+You may also consider the accommodation options listed for the Living Data 2025 event. If you are planning to stay for Living Data 2025 as well, we suggest checking the partner hotels available at the following link: [https://www.livingdata2025.com/partner-hotels.html](https://www.livingdata2025.com/partner-hotels.html).These hotels may offer convenient options for your stay. Contact them directly for additional dates, identifying yourself as part of Living Data 2025.
+
+
+For any questions regarding accommodation, you can contact the event organizers.
 
 ## Venues
 
