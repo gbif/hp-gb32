@@ -29,6 +29,10 @@ When applying, please select the **Event VISA** type.
 
 *Additional information: The Colombian State, through the Ministry of Foreign Affairs, has established the Pretoria Consulate in South Africa. This consulate serves Colombians and foreigners located in the Constituency throughout South Africa and in the Republic of Angola, the Republic of Botswana, the Republic of Namibia, the Republic of Zambia, the Republic of Malawi, the Republic of Mozambique, the Republic of Zimbabwe, the Kingdom of Lesotho, the Kingdom of Swaziland, the Republic of Madagascar, and the Republic of Mauritius. All nationals and foreigners residing in the former district have access to the services of this consulate without the need for intermediaries". Source: [https://pretoria.consulado.gov.co/node/2636](https://pretoria.consulado.gov.co/node/2636).*
 
+As part of the GB32 event coordination, we are collecting information from international participants who may require visa support through this [form](https://forms.gle/EEQktZRRz54nEHku7). The details provided will be used solely to inform the Colombian Ministry of Foreign Affairs about confirmed attendees and to help facilitate the visa process.
+
+Please note that this does **not guarantee visa approval**, and we **cannot intervene directly** with immigration authorities.
+
 
 If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
 
