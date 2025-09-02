@@ -147,18 +147,15 @@ For any questions regarding accommodation, you can contact the event organizers.
 
 As the weather can be a bit unpredictable, and some of the lunch venues are located in a place where the attendees will have to go outside to reach the lunch room, we recommend that people bring rain coats and umbrellas.  
 
+Please note that there has been a change of venue. The events that were previously announced to take place at the Humboldt Institute will now take place at the Universidad Externado which is located very close to the Humboldt Institute.  
 
-### Humboldt Institute 
-Alexander von Humboldt Research Institute  
-Av Circunvalar,  # 16 - 20, Bogotá  
+### Universidad Externado   
+Calle 12 No. 1-17 Este.  
+Bogotá  
 Colombia  
-<a href="https://www.humboldt.org.co/" target="_blank">Web site/</a>  
-<a href="https://www.google.com/maps/dir//Av+Circunvalar+%231620,+Bogot%C3%A1/@4.5978632,-74.1442584,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f99ba5ddebf2f:0x1f76da936a80f001!2m2!1d-74.0618854!2d4.5978215?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">How to get there</a>.  
+<a href="https://www.uexternado.edu.co/">Website</a>  
 
-![Humboldt Institute</a>](/assets/images/Humboldt.png){:standalone}
-
-
-*The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Humboldt Institute.*  
+*The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Universidad Externado*  
 
 ### Botanical Garden  
 Jardín Botánico de Bogotá José Celestino Mutis  
