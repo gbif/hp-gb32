@@ -33,7 +33,7 @@ Please read the information carefully before registering.
 
 **Global Nodes Training - Day 1**  
 Time: 08:45-17:00   
-Venue: Humboldt Institute   
+Venue: Universidad Externado   
 
 *The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
@@ -41,7 +41,7 @@ Venue: Humboldt Institute
 
 **Global Nodes Training - Day 2**  
 Time: 08:45-17:00   
-Venue: Humboldt Institute 
+Venue: Universidad Externado  
 
 *The training is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
@@ -55,27 +55,27 @@ Venue: TBC
 
 **Global Nodes Meeting (online attendance possible)**  
 Time: 08:45-17:00   
-Venue: Humboldt Institute 
+Venue: Universidad Externado  
 
 *The meeting is open to GBIF node managers and node staff. Heads of Delegation may register to attend as Observers. However, please note that the Head of Delegation attendance will need to be confirmed with the Nodes Committee Chair based on availability.*  
 
 **Budget Committee meeting**  
 Time: 13:30-17:00   
-Venue: Humboldt Institute   
+Venue: Universidad Externado   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**  
 Time: 13:30-17:00   
-Venue: Humboldt Institute   
+Venue: Universidad Externado   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Icebreaker**   
 Time: TBC   
-Venue: TBC  
+Venue: Botanical  
 
-*All GBIF nodes, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker*
+*All GBIF nodes, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker at the Botanical Garden in Bogota*  
 
 
 ### Sunday, 19 October 2025
@@ -87,7 +87,7 @@ Venue: Botanical Garden
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Governing Board meeting Day 1**  
-Time: 13:30-17:00   
+Time: 11:00-17:00   
 Venue: BIODIVERSARIO, Botanical Garden   
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
