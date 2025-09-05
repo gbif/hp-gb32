@@ -149,13 +149,27 @@ As the weather can be a bit unpredictable, and some of the lunch venues are loca
 
 Please note that there has been a change of venue. The events that were previously announced to take place at the Humboldt Institute will now take place at the Universidad Externado which is located very close to the Humboldt Institute.  
 
-### Universidad Externado   
-Calle 12 No. 1-17 Este.  
-Bogotá  
-Colombia  
+### Universidad Externado de Colombia   
+
+![Universidad Externado de Colombia</a>](/assets/images/Externado.png){:standalone}
 <a href="https://www.uexternado.edu.co/">Website</a>  
 
-*The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Universidad Externado*  
+The meetings at the Universidad Externado de Colombia will take place in the H Building. 
+
+There are multiple ways to access the Universidad Externado, but please note that the H Building is a considerable distance from the main entrance. The walk involves a steep incline and several stairs.  
+For your convenience, we recommend using the H Building parking access. Taxis can drop off passengers there, and there is a designated path providing access to the building.  
+
+**H Block Parking entrance (Circumvalar Avenue)**  
+Calle 10b, Avenida Cirvunvalar (Carrera 5 Este), Bogotá  
+This access point is much closer to the H Building, requiring only a **5-minute walk** to the event location.  
+[How to get there](https://maps.app.goo.gl/GwAK5LYCaMsB1129A)   
+
+**Main entrance**  
+Calle 12 No. 1-17 Este. Bogotá   
+From here, the walk to the H Building, is approximately a 10 to 15 minutes walk.  
+[How to get there](https://maps.app.goo.gl/XYqzv4F7aPY7cbxg6)  
+
+*The Global Nodes Training and Global Nodes Meeting and the meetings of the Budget and Science Committees will take place at the Universidad Externado de Colombia*  
 
 ### Botanical Garden  
 Jardín Botánico de Bogotá José Celestino Mutis  
@@ -166,7 +180,7 @@ Colombia
 
 ![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
 
-*The Governing Board meeting and the Executive Committee meeting 1 will take place at the BIODIVERSARIO at the Botanical Garden.*   
+*The Governing Board meeting will take place at the BIODIVERSARIO at the Botanical Garden. The Exceucitve Committee meeting 1 and the Icebreaker will also take place at the Botanical Garden.*   
 
 ### Other venues
 The venues for the other events that have not been confirmed, will be added as soon as possible.  
