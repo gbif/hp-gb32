@@ -244,3 +244,10 @@ If you want to explore more of the country, <a href="https://www.bordadda.com/" 
 You can find more information about the specific tours **[here](/assets/documents/Tours.pdf)**.  
 
 Please contact Camila Diaz at bordadda at [camila@bordadda.com](mailto:camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
+
+### Datos Vivos Tours
+
+*Interpretative Tours*: Experience the incredible biodiversity of Bogotá and its surroundings through our exclusive interpretive tours during Living Data 2025. These guided educational excursions offer conference participants a unique opportunity to explore Colombia's natural heritage, from urban wetlands to high-altitude páramos, while learning about local ecosystems and conservation efforts.
+Visit here: [https://livingdata2025.com/ecological-tours.html](https://livingdata2025.com/ecological-tours.html)  
+
+
