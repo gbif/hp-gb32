@@ -54,9 +54,7 @@ Direct international flights connect Bogota with major cities throughout the Ame
 - Airport Bus: The TransMilenio public bus system connects the airport to the city. 1 US and card for 3 US
 
 ## Local transportation
-The local organizers are looking into providing local transportation to the meeting venues for people attending the GB32 events. If you wish to be included in the local transportation service, please fill in the Local transportation form.  
-
-Click <a href="https://forms.gle/ctW7FHoT4ReqoHtV6" target="_blank"> here</a> and fill in the required information.  
+More information about local transportation to the meeting venues for people attending the GB32 events will be provided shortly.   
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
