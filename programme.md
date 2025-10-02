@@ -73,9 +73,10 @@ Venue: Universidad Externado  (NEW VENUE)
 
 **Icebreaker**   
 Time: TBC   
-Venue: Botanical Garden  
+Venue: Universidad de Los Andes  
 
 *All GBIF nodes, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker at the Botanical Garden in Bogota*  
+*Please note that the venue was originally announced to be the Botanical Garden but this has changed to Universidad de Los Andes*  
 
 
 ### Sunday, 19 October 2025
