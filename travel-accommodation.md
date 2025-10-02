@@ -172,16 +172,21 @@ From here, the walk to the H Building, is approximately a 10 to 15 minutes walk.
 ### Botanical Garden  
 Jardín Botánico de Bogotá José Celestino Mutis  
 BIODIVERSARIO  
-Av. Calle 63 #68-95, Bogotá   
-Colombia   
+CI 63 #68-5, Bogotá    
 <a href="http://www.jbb.gov.co/" target="blank">Website/</a>  
 
 ![BIODIVERSARIO, Botanical Garden</a>](/assets/images/Biodiversario.png){:standalone}
 
-*The Governing Board meeting will take place at the BIODIVERSARIO at the Botanical Garden. The Exceucitve Committee meeting 1 and the Icebreaker will also take place at the Botanical Garden.*   
+*The Governing Board meeting will take place at the BIODIVERSARIO at the Botanical Garden. The Exceucitve Committee meeting 1 will also take place at the Botanical Garden.*   
 
-### Other venues
-The venues for the other events that have not been confirmed, will be added as soon as possible.  
+### Universidad de Los Andes
+CI. 19A #1e-37, Bogotá  
+<a href="https://www.uniandes.edu.co/" target="blank">Website</a>
+
+![Universidad de Los Andes</a>](/assets/images/Andes.png){:standalone}
+
+*The Icebreaker will take place at the Universidad de Los Andes on 18 October.*  
+  
 
 ## Map
 A map with some of the key locations can be found [here](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13).    
