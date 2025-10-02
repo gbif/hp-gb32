@@ -72,7 +72,7 @@ Venue: Universidad Externado  (NEW VENUE)
 *The meeting is open to members of the GBIF Science Committee*
 
 **Icebreaker**   
-Time: TBC   
+Time: 18:00-20:00    
 Venue: Universidad de Los Andes  
 
 *All GBIF nodes, Governing Board delegates, GBIF committee members and invited observers are invited to join the Icebreaker at the Botanical Garden in Bogota*  
