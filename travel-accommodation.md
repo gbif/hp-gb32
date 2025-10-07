@@ -54,7 +54,13 @@ Direct international flights connect Bogota with major cities throughout the Ame
 - Airport Bus: The TransMilenio public bus system connects the airport to the city. 1 US and card for 3 US
 
 ## Local transportation
-More information about local transportation to the meeting venues for people attending the GB32 events will be provided shortly.   
+To get around Bogotá there is public transportation (buses) or taxis. It is recommended never to hail a taxi on the street but to order a taxi from your hotel/meeting venue or order transportation via an app such as UBER, InDriver, Yango or Cabify.     
+
+The local organizers have organized bus transportation to the Universidad Externado (Global Nodes events) for the period 16-18 October. The bus will leave from the central pick up point, <a href="https://www.google.com/maps/dir//4.6440227,-74.100057/@4.6438817,-74.1000109,20.11z/data=!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">the Grand Hyatt Hotel</a> at 7:30 am and will return to the Grand Hyatt Hotel after the end of the Global Nodes events on 16-17 October, and on 18 October, the buses will take people to the Icebreaker venue (unless people prefer to walk to the Icebreaker) and back to the Grand Hyatt after the end of the Icebreaker.  
+
+**Please note that due to the local regulations, only people who have signed up via the GB32 local transportation form can use the bus. Names will be checked before entering the bus.**   
+
+There will not be any organized bus transportation to the Governing Board meeting, taking place in the Botanical Garden on 19-20 October. 
 
 ## Hotels
 Meeting attendees are asked to organize their own accommodation. 
