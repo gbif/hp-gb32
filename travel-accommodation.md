@@ -164,9 +164,9 @@ There are multiple ways to access the Universidad Externado, but please note tha
 For your convenience, we recommend using the H Building parking access. Taxis can drop off passengers there, and there is a designated path providing access to the building.  
 
 **H Block Parking entrance (Circumvalar Avenue)**  
-Calle 10b, Avenida Cirvunvalar (Carrera 5 Este), Bogotá  
+Cra. 5 Este #12-54 (Avenida Cirvunvalar)  
 This access point is much closer to the H Building, requiring only a **5-minute walk** to the event location.  
-[How to get there](https://maps.app.goo.gl/GwAK5LYCaMsB1129A)   
+[How to get there](https://maps.app.goo.gl/GwAK5LYCaMsB1129A) 
 
 **Main entrance**  
 Calle 12 No. 1-17 Este. Bogotá   
