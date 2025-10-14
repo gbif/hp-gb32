@@ -300,6 +300,6 @@ This site is part of the Andean region's **montane forest ecosystem**, where nea
 
 * **Registration:** Sign up using the **[registration form](https://forms.gle/jh5UjhbYtSoV877v8)**. Details on how to reach the campus will be sent via email to registered participants.
 * **What to Bring:**
-    * Warm clothing (temperatures range from **$8-10^\circ\text{C}$**).
-    * Boots or shoes with **good grip**.
+    * Warm clothing (temperatures range from **8–10°C**)
+    * Boots or shoes with **good grip**
     * **Binoculars**, if you have them!
