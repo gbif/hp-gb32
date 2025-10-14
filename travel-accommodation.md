@@ -277,7 +277,7 @@ Please contact Camila Diaz at bordadda at [camila@bordadda.com](mailto:camila@bo
 *Interpretative Tours*: Experience the incredible biodiversity of Bogotá and its surroundings through our exclusive interpretive tours during Living Data 2025. These guided educational excursions offer conference participants a unique opportunity to explore Colombia's natural heritage, from urban wetlands to high-altitude páramos, while learning about local ecosystems and conservation efforts.
 Visit here: [https://livingdata2025.com/ecological-tours.html](https://livingdata2025.com/ecological-tours.html)  
 
-# Birdwatching at Humboldt Institute (GB32)
+### Birdwatching at Humboldt Institute (GB32)
 
 Birdwatching activity at the **Humboldt Institute's Venado de Oro campus**, located in the Eastern Hills of Bogotá.
 
@@ -285,7 +285,7 @@ This site is part of the Andean region's **montane forest ecosystem**, where nea
 
 ---
 
-## Activity Details
+#### Activity Details
 
 | Item | Detail |
 | :--- | :--- |
@@ -296,7 +296,7 @@ This site is part of the Andean region's **montane forest ecosystem**, where nea
 
 ---
 
-## Important Notes
+#### Important Notes
 
 * **Registration:** Sign up using the **[registration form](https://forms.gle/jh5UjhbYtSoV877v8)**. Details on how to reach the campus will be sent via email to registered participants.
 * **What to Bring:**
