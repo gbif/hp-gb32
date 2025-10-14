@@ -9,7 +9,7 @@ mobileToc: true
 ---
 
 ## Travel requirements for entering Colombia
-Meeting attendees are responsible for arranging their own travel and to ensure that they have the documentation required for entering Colombia. 
+Meeting attendees are responsible for arranging their own travel and to ensure that they have the documentation required for entering Colombia.
 
 ### Colombia Visa and Passport requirements
 Citizens of many countries can enter Colombia without a visa for stays up to 90 days. However, entry requirements vary depending on nationality.  
@@ -34,7 +34,7 @@ As part of the GB32 event coordination, we are collecting information from inter
 Please note that this does **not guarantee visa approval**, and we **cannot intervene directly** with immigration authorities.
 
 
-If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org). 
+If you require an official letter of invitation for visa puposes, please contact the GBIF Secretariat at [GB32@gbif.org](mailto:GB32@gbif.org).
 
 ### Health requirements - Vaccinations
 No mandatory vaccinations are required for entry unless arriving from countries with risk of yellow fever transmission. Yellow fever vaccination is recommended for travelers visiting certain areas of Colombia like the Amazon or the Chocó region.  
@@ -42,7 +42,7 @@ No mandatory vaccinations are required for entry unless arriving from countries 
 ### Insurance
 Meeting attendees are advised to ensure appropriate comprehensive health and travel insurance for travel to Colombia.  
 
-## Arriving in Colombia 
+## Arriving in Colombia
 
 ### International Airports
 The primary gateway for international arrivals is <a href="https://eldorado.aero/" target="_blank">El Dorado International Airport (BOG)</a> in Bogota. The airport is located approximately 15 km (9.3 miles) from the city center.
@@ -60,10 +60,10 @@ The local organizers have organized bus transportation to the Universidad Extern
 
 **Please note that due to the local regulations, only people who have signed up via the GB32 local transportation form can use the bus. Names will be checked before entering the bus.**   
 
-There will not be any organized bus transportation to the Governing Board meeting, taking place in the Botanical Garden on 19-20 October. 
+There will not be any organized bus transportation to the Governing Board meeting, taking place in the Botanical Garden on 19-20 October.
 
 ## Hotels
-Meeting attendees are asked to organize their own accommodation. 
+Meeting attendees are asked to organize their own accommodation.
 
 ### Hotel recommendations
 The local organizers are pleased to inform that the Grand Hyatt Bogotá, venue for the <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 conference</a>, is offering a special rate for GBIF GB32 meeting attendees.
@@ -95,7 +95,7 @@ This hotel is also located close to the GB32 venue (5.4 km, approximately 15 min
 Special rate information:
 - The special rate is guaranteed for dates of the GB32, but reservations have to be made before August 30th.  
 
-To make a reservation with the special event rate: 
+To make a reservation with the special event rate:
 - Please contact directly: Adriana González Gaviria at email: [ventas04.FFB@hotelesdiplomat.com](mailto:ventas04.FFB@hotelesdiplomat.com) or phone +57 601 4893000, cellphone: +57 321 225 2213  
 - When contacting, mention that you are attending the “GB32 on behalf of the Humboldt Institute"
 - Please specify all your required dates with preferential rates clearly in your email.
@@ -103,8 +103,8 @@ To make a reservation with the special event rate:
 
 **Holiday Inn Aeropuerto**  
 Avenida Calle 26 #  69D-91  
-Bogotá, D. C. 
-Colombia 
+Bogotá, D. C.
+Colombia
 
 This hotel is located close to the GB32 venue (5.4 km, approximately 8 minutes by car, depending on traffic) and the Humboldt Institute (10 km, or about 25 minutes by car, depending on traffic).  
 
@@ -158,7 +158,7 @@ Please note that there has been a change of venue. The events that were previous
 ![Universidad Externado de Colombia</a>](/assets/images/Externado.png){:standalone}
 <a href="https://www.uexternado.edu.co/">Website</a>  
 
-The meetings at the Universidad Externado de Colombia will take place in the H Building. 
+The meetings at the Universidad Externado de Colombia will take place in the H Building.
 
 There are multiple ways to access the Universidad Externado, but please note that the H Building is a considerable distance from the main entrance. The walk involves a steep incline and several stairs.  
 For your convenience, we recommend using the H Building parking access. Taxis can drop off passengers there, and there is a designated path providing access to the building.  
@@ -166,7 +166,7 @@ For your convenience, we recommend using the H Building parking access. Taxis ca
 **H Block Parking entrance (Circumvalar Avenue)**  
 Cra. 5 Este #12-54 (Avenida Cirvunvalar)  
 This access point is much closer to the H Building, requiring only a **5-minute walk** to the event location.  
-[How to get there](https://maps.app.goo.gl/GwAK5LYCaMsB1129A) 
+[How to get there](https://maps.app.goo.gl/GwAK5LYCaMsB1129A)
 
 **Main entrance**  
 Calle 12 No. 1-17 Este. Bogotá   
@@ -186,13 +186,17 @@ CI 63 #68-5, Bogotá
 *The Governing Board meeting will take place at the BIODIVERSARIO at the Botanical Garden. The Exceucitve Committee meeting 1 will also take place at the Botanical Garden.*   
 
 ### Universidad de Los Andes
-CI. 19A #1e-37, Bogotá  
+Universidad de los Andes
+RGD Building - Centro Cívico Universitario
+Address: Cl. 19 Bis #1-7, Bogotá,  Bogotá, CO.
+[How to get there](https://www.google.com/maps/dir//Universidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogot%C3%A1/@4.6023552,-74.0662177,21z/data=!4m20!1m10!4m9!1m0!1m6!1m2!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2sUniversidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogot%C3%A1!2m2!1d-74.0662611!2d4.6023286!3e2!4m8!1m0!1m5!1m1!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2m2!1d-74.0662611!2d4.6023286!3e2?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D)
+
 <a href="https://www.uniandes.edu.co/" target="blank">Website</a>
 
 ![Universidad de Los Andes</a>](/assets/images/Andes.png){:standalone}
 
 *The Icebreaker will take place at the Universidad de Los Andes on 18 October.*  
-  
+
 
 ## Map
 A map with some of the key locations can be found [here](https://www.google.com/maps/d/u/0/edit?mid=1Nm5-5HEOMTtjeoAL0fdWaPvOaUy-1bQ&ll=4.705085111574494%2C-74.08581925133706&z=13).    
@@ -222,7 +226,7 @@ Colombia uses 110V, 60Hz electricity. Power outlets are primarily Type A and Typ
 ### Languages
 Spanish is the official language in Colombia. In tourist areas and major hotels, English is often spoken, but basic Spanish phrases are helpful.  
 
-### Money 
+### Money
 - Currency: Colombian Peso (COP)
 - ATMs are widely available in Bogota and accept major international cards
 - Major credit cards (Visa, MasterCard) are accepted in most hotels, restaurants, and shops
@@ -252,7 +256,7 @@ Colombia offers diverse attractions from colonial architecture to natural wonder
 - Botanical Garden of Bogota
 
 
-If you want to explore more of the country, <a href="https://www.bordadda.com/" target="_blank">bordadda events and experiences studio</a> offers a number of tours (both nature focused and city visits): 
+If you want to explore more of the country, <a href="https://www.bordadda.com/" target="_blank">bordadda events and experiences studio</a> offers a number of tours (both nature focused and city visits):
 - La Aurora
 - Altagracia
 - La Manigua
@@ -266,11 +270,36 @@ If you want to explore more of the country, <a href="https://www.bordadda.com/" 
 
 You can find more information about the specific tours **[here](/assets/documents/Tours.pdf)**.  
 
-Please contact Camila Diaz at bordadda at [camila@bordadda.com](mailto:camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in. 
+Please contact Camila Diaz at bordadda at [camila@bordadda.com](mailto:camila@bordadda.com) to book your trip or send an inquiry. Please include the number of travelers and the itinerary you are interested in.
 
 ### Datos Vivos Tours
 
 *Interpretative Tours*: Experience the incredible biodiversity of Bogotá and its surroundings through our exclusive interpretive tours during Living Data 2025. These guided educational excursions offer conference participants a unique opportunity to explore Colombia's natural heritage, from urban wetlands to high-altitude páramos, while learning about local ecosystems and conservation efforts.
 Visit here: [https://livingdata2025.com/ecological-tours.html](https://livingdata2025.com/ecological-tours.html)  
 
+# Birdwatching at Humboldt Institute (GB32)
 
+Birdwatching activity at the **Humboldt Institute's Venado de Oro campus**, located in the Eastern Hills of Bogotá.
+
+This site is part of the Andean region's **montane forest ecosystem**, where nearly **100 bird species**—especially hummingbirds—have been recorded.
+
+---
+
+## Activity Details
+
+| Item | Detail |
+| :--- | :--- |
+| **Date & Time** | Friday, October 17, 2025, from **6:30 to 7:30 AM** |
+| **Difficulty** | Low (easy walk) |
+| **Distance** | Approximately **1 km** |
+| **Capacity** | Limited to the first **20 people** to register |
+
+---
+
+## Important Notes
+
+* **Registration:** Sign up using the **[registration form](https://forms.gle/jh5UjhbYtSoV877v8)**. Details on how to reach the campus will be sent via email to registered participants.
+* **What to Bring:**
+    * Warm clothing (temperatures range from **$8-10^\circ\text{C}$**).
+    * Boots or shoes with **good grip**.
+    * **Binoculars**, if you have them!
