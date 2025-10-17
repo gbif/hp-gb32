@@ -188,8 +188,8 @@ CI 63 #68-5, Bogotá
 ### Universidad de Los Andes
 Universidad de los Andes
 RGD Building - Centro Cívico Universitario
-Address: Cl. 19 Bis #1-7, Bogotá,  Bogotá, CO.
-[How to get there](https://www.google.com/maps/dir//Universidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogot%C3%A1/@4.6023552,-74.0662177,21z/data=!4m20!1m10!4m9!1m0!1m6!1m2!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2sUniversidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogot%C3%A1!2m2!1d-74.0662611!2d4.6023286!3e2!4m8!1m0!1m5!1m1!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2m2!1d-74.0662611!2d4.6023286!3e2?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D)
+Address: Cra 1  # 19-20, Bogotá, CO.
+[How to get there](https://www.google.com/maps/dir//Universidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogotá/@4.6023552,-74.0662177,21z/data=!4m20!1m10!4m9!1m0!1m6!1m2!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2sUniversidad+de+los+Andes+-+Edificio+RGD,+Cl.+19+Bis+%231-7,+Bogotá!2m2!1d-74.0662611!2d4.6023286!3e2!4m8!1m0!1m5!1m1!1s0x8e3f99500380c015:0x82b2ce946d5e2145!2m2!1d-74.0662611!2d4.6023286!3e2?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D)
 
 <a href="https://www.uniandes.edu.co/" target="blank">Website</a>
 
